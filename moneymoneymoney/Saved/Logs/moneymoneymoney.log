@@ -1,4 +1,4 @@
-﻿Log file open, 04/13/18 09:17:02
+﻿Log file open, 04/13/18 09:57:42
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +7,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: moneymoneymoney
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-372101004) SRandInit(-372101004).
+LogInit: Display: RandInit(-295417470) SRandInit(-295417470).
 LogInit: Read version file with build ID '3944462'
 LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
 LogInit: Registered custom module enumerator with build ID '3944462'
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.254848
+LogStats: Stats thread started at 0.263008
 LogD3D11RHI: Aftermath initialized
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
@@ -168,7 +168,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  0.631s to configure plugins.
+LogStreaming: Display: Took  0.756s to configure plugins.
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -188,7 +188,7 @@ LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured
 LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
 LogInit:  - LocalHostAddr = Default
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-LogInit: WinSock: I am Whit-Mac-B11 (10.1.180.172:0)
+LogInit: WinSock: I am Whit-Mac-B19 (10.1.180.180:0)
 LogInit: Build: ++UE4+Release-4.19-CL-3989454
 LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
 LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
@@ -216,417 +216,260 @@ LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
 LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.19
-LogInit: Command Line: -EpicPortal 
-LogInit: Base Directory: E:/Game Desinged/Unreal/UE_4.19/Engine/Binaries/Win64/
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogStreaming: Display: Took  0.000s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.04.13-16.17.02:897][  0]LogInit: Selected Device Profile: [Windows]
-[2018.04.13-16.17.02:897][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.04.13-16.17.02:913][  0]LogInit: Computer: WHIT-MAC-B11
-[2018.04.13-16.17.02:913][  0]LogInit: User: Game
-[2018.04.13-16.17.02:913][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.04.13-16.17.02:913][  0]LogInit: High frequency timer resolution =3.410077 MHz
-[2018.04.13-16.17.02:913][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2018.04.13-16.17.02:913][  0]LogMemory: Platform Memory Stats for Windows
-[2018.04.13-16.17.02:913][  0]LogMemory: Process Physical Memory: 277.06 MB used, 277.06 MB peak
-[2018.04.13-16.17.02:913][  0]LogMemory: Process Virtual Memory: 264.66 MB used, 264.66 MB peak
-[2018.04.13-16.17.02:913][  0]LogMemory: Physical Memory: 7172.24 MB used,  9128.15 MB free, 16300.39 MB total
-[2018.04.13-16.17.02:913][  0]LogMemory: Virtual Memory: 698.12 MB used,  9128.15 MB free, 134217728.00 MB total
-[2018.04.13-16.17.02:924][  0]LogInit: Using OS detected language (en-US).
-[2018.04.13-16.17.02:924][  0]LogInit: Using OS detected locale (en-US).
-[2018.04.13-16.17.02:926][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.04.13-16.17.03:334][  0]LogStreaming: Display: Took  0.410s to EndInitTextLocalization.
-[2018.04.13-16.17.03:334][  0]LogInit: Setting process to per monitor DPI aware
-[2018.04.13-16.17.03:356][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.04.13-16.17.03:356][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.04.13-16.17.03:516][  0]LogD3D11RHI: D3D11 adapters:
-[2018.04.13-16.17.03:562][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
-[2018.04.13-16.17.03:563][  0]LogD3D11RHI:       8086/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.04.13-16.17.03:564][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.04.13-16.17.03:564][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.04.13-16.17.03:564][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.04.13-16.17.03:575][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.04.13-16.17.03:575][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
-[2018.04.13-16.17.03:575][  0]LogWindows: EnumDisplayDevices:
-[2018.04.13-16.17.03:575][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
-[2018.04.13-16.17.03:575][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2018.04.13-16.17.03:575][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2018.04.13-16.17.03:575][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2018.04.13-16.17.03:575][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.04.13-16.17.03:575][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
-[2018.04.13-16.17.03:575][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.04.13-16.17.03:575][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.04.13-16.17.03:575][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
-[2018.04.13-16.17.03:605][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
-[2018.04.13-16.17.03:605][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
-[2018.04.13-16.17.03:605][  0]LogD3D11RHI: Async texture creation enabled
-[2018.04.13-16.17.03:618][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2018.04.13-16.17.03:667][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../GitHub/Eggspository/moneymoneymoney/Intermediate/Shaders/WorkingDirectory/16996/).
-[2018.04.13-16.17.03:667][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Game/AppData/Local/Temp/UnrealShaderWorkingDir/2E4FBB56416C71CEED0C35978A05A573/'.
-[2018.04.13-16.17.03:879][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.04.13-16.17.03:890][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.04.13-16.17.03:902][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.04.13-16.17.03:913][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.04.13-16.17.03:925][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.04.13-16.17.03:936][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.04.13-16.17.03:948][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.04.13-16.17.03:959][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.04.13-16.17.03:964][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.04.13-16.17.03:975][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.04.13-16.17.03:984][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.04.13-16.17.03:995][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.04.13-16.17.04:005][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
-[2018.04.13-16.17.04:015][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.04.13-16.17.04:026][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.04.13-16.17.04:047][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.04.13-16.17.04:047][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.04.13-16.17.04:058][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.04.13-16.17.04:059][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.04.13-16.17.04:092][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.04.13-16.17.04:103][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.04.13-16.17.04:113][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.04.13-16.17.04:124][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.04.13-16.17.04:135][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.04.13-16.17.04:146][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.04.13-16.17.04:146][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.04.13-16.17.04:217][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.04.13-16.17.04:217][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.04.13-16.17.04:217][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.04.13-16.17.04:872][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.04.13-16.17.04:944][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.04.13-16.17.04:944][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
-[2018.04.13-16.17.04:944][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../GitHub/Eggspository/moneymoneymoney/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.04.13-16.17.04:944][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.04.13-16.17.04:944][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../GitHub/Eggspository/moneymoneymoney/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.04.13-16.17.04:944][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.04.13-16.17.04:960][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.04.13-16.17.04:972][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Game/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.04.13-16.17.04:982][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.04.13-16.17.04:983][  0]LogSlate: Using Freetype 2.6.0
-[2018.04.13-16.17.04:983][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.04.13-16.17.04:983][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.04.13-16.17.05:085][  0]LogAssetRegistry: FAssetRegistry took 0.0248 seconds to start up
-[2018.04.13-16.17.05:367][  0]LogInit: Selected Device Profile: [Windows]
-[2018.04.13-16.17.05:486][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.04.13-16.17.05:487][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.04.13-16.17.05:488][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.04.13-16.17.05:488][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.04.13-16.17.05:488][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.04.13-16.17.05:488][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.04.13-16.17.05:513][  0]LogNetVersion: moneymoneymoney , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 958272539)
-[2018.04.13-16.17.05:891][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.064313 seconds
-[2018.04.13-16.17.05:896][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
-[2018.04.13-16.17.05:896][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
-[2018.04.13-16.17.05:896][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.04.13-16.17.07:270][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.04.13-16.17.07:292][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.04.13-16.17.07:548][  0]SourceControl: Source control is disabled
-[2018.04.13-16.17.08:390][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.04.13-16.17.08:488][  0]LogOcInput: OculusInput pre-init called
-[2018.04.13-16.17.08:570][  0]LogEngine: Initializing Engine...
-[2018.04.13-16.17.08:571][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.04.13-16.17.08:572][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.04.13-16.17.08:572][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.04.13-16.17.08:773][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.04.13-16.17.08:832][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.04.13-16.17.08:844][  0]LogInit: FAudioDevice initialized.
-[2018.04.13-16.17.08:896][  0]LogDerivedDataCache: Saved boot cache 0.05s 74MB C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.04.13-16.17.08:912][  0]LogInit: Texture streaming: Enabled
-[2018.04.13-16.17.08:923][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.04.13-16.17.08:937][  0]LogInit: Transaction tracking system initialized
-[2018.04.13-16.17.08:951][  0]BlueprintLog: New page: Editor Load
-[2018.04.13-16.17.08:996][  0]LocalizationService: Localization service is disabled
-[2018.04.13-16.17.09:068][  0]LogConsoleResponse: Display: 
-[2018.04.13-16.17.09:194][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.04.13-16.17.09:194][  0]LogCook: Display: Mobile HDR setting 1
-[2018.04.13-16.17.09:194][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.04.13-16.17.09:194][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.04.13-16.17.09:195][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.04.13-16.17.09:200][  0]LogFileCache: Scanning file cache for directory 'E:/Game Desinged/Unreal/GitHub/Eggspository/moneymoneymoney/Content/' took 0.02s
-[2018.04.13-16.17.09:434][  0]Cmd: MAP LOAD FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.04.13-16.17.09:434][  0]LightingResults: New page: Lighting Build
-[2018.04.13-16.17.09:436][  0]MapCheck: New page: Map Check
-[2018.04.13-16.17.09:436][  0]LightingResults: New page: Lighting Build
-[2018.04.13-16.17.09:857][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [6.090185ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
-[2018.04.13-16.17.09:910][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [3.169137ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
-[2018.04.13-16.17.09:991][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
-[2018.04.13-16.17.09:999][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.04.13-16.17.10:010][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.04.13-16.17.10:049][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 38.874ms to complete.
-[2018.04.13-16.17.10:049][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.615
-[2018.04.13-16.17.10:218][  0]LogCollectionManager: Loaded 0 collections in 0.000884 seconds
-[2018.04.13-16.17.10:257][  0]LogFileCache: Scanning file cache for directory 'E:/Game Desinged/Unreal/GitHub/Eggspository/moneymoneymoney/Saved/Collections/' took 0.01s
-[2018.04.13-16.17.10:257][  0]LogFileCache: Scanning file cache for directory 'E:/Game Desinged/Unreal/GitHub/Eggspository/moneymoneymoney/Content/Developers/Game/Collections/' took 0.01s
-[2018.04.13-16.17.10:257][  0]LogFileCache: Scanning file cache for directory 'E:/Game Desinged/Unreal/GitHub/Eggspository/moneymoneymoney/Content/Collections/' took 0.01s
-[2018.04.13-16.17.10:257][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.04.13-16.17.10:266][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2452 classes and 558 folders.
-[2018.04.13-16.17.10:270][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.04.13-16.17.10:555][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.04.13-16.17.10:561][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
-[2018.04.13-16.17.10:606][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.04.13-16.17.10:606][  0]LogLoad: (Engine Initialization) Total time: 9.46 seconds
-[2018.04.13-16.17.10:607][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.04.13-16.17.10:616][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.04.13-16.17.10:635][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.04.13-16.17.10:636][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.04.13-16.17.10:638][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.04.13-16.17.10:646][  0]LogSlate: Took 0.003882 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.04.13-16.17.10:804][  1]LogAssetRegistry: Asset discovery search completed in 5.7403 seconds
-[2018.04.13-16.17.10:806][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.04.13-16.17.10:806][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
-[2018.04.13-16.17.10:825][  2]LogRenderer: Reallocating scene render targets to support 792x360 Format 10 NumSamples 1 (Frame:1).
-[2018.04.13-16.17.11:644][ 87]LogSlate: Took 0.003800 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.04.13-16.17.15:662][544]LogRenderer: Reallocating scene render targets to support 792x392 Format 10 NumSamples 1 (Frame:547).
-[2018.04.13-16.17.15:710][544]LogRenderer: Reallocating scene render targets to support 792x516 Format 10 NumSamples 1 (Frame:548).
-[2018.04.13-16.17.15:763][544]LogRenderer: Reallocating scene render targets to support 792x580 Format 10 NumSamples 1 (Frame:549).
-[2018.04.13-16.17.15:873][544]LogRenderer: Reallocating scene render targets to support 792x796 Format 10 NumSamples 1 (Frame:550).
-[2018.04.13-16.17.20:867][915]LogRenderer: Reallocating scene render targets to support 796x796 Format 10 NumSamples 1 (Frame:922).
-[2018.04.13-16.17.20:908][915]LogRenderer: Reallocating scene render targets to support 800x796 Format 10 NumSamples 1 (Frame:923).
-[2018.04.13-16.17.20:954][915]LogRenderer: Reallocating scene render targets to support 816x796 Format 10 NumSamples 1 (Frame:924).
-[2018.04.13-16.17.21:000][915]LogRenderer: Reallocating scene render targets to support 828x796 Format 10 NumSamples 1 (Frame:925).
-[2018.04.13-16.17.21:039][915]LogRenderer: Reallocating scene render targets to support 832x796 Format 10 NumSamples 1 (Frame:926).
-[2018.04.13-16.17.21:086][915]LogRenderer: Reallocating scene render targets to support 840x796 Format 10 NumSamples 1 (Frame:927).
-[2018.04.13-16.17.21:131][915]LogRenderer: Reallocating scene render targets to support 848x796 Format 10 NumSamples 1 (Frame:928).
-[2018.04.13-16.17.21:178][915]LogRenderer: Reallocating scene render targets to support 860x796 Format 10 NumSamples 1 (Frame:929).
-[2018.04.13-16.17.21:225][915]LogRenderer: Reallocating scene render targets to support 864x796 Format 10 NumSamples 1 (Frame:930).
-[2018.04.13-16.17.21:365][915]LogRenderer: Reallocating scene render targets to support 872x796 Format 10 NumSamples 1 (Frame:932).
-[2018.04.13-16.17.25:330][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.13-16.17.25:642][985]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
-[2018.04.13-16.17.26:365][985]LogSlate: Took 0.003484 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2018.04.13-16.17.26:601][986]LogSlate: Took 0.003366 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2018.04.13-16.17.32:480][374]LogSlate: Window 'FirstPersonCharacter' being destroyed
-[2018.04.13-16.22.05:161][ 56]BlueprintLog: New page: Compile FirstPersonCharacter
-[2018.04.13-16.22.05:271][ 56]LogBlueprint: Error: [Compiler FirstPersonCharacter] The current value (ObjectTypeQuery1) of the ' Object Types ' pin is invalid: Array inputs (like 'Object Types') must have an input wired into them (try connecting a MakeArray node).
-[2018.04.13-16.22.05:525][ 56]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0304.38] Compile of FirstPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 364 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
-[2018.04.13-16.22.06:210][112]LogSavePackage: Save=52.43ms
-[2018.04.13-16.22.06:210][112]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/FirstPersonCharacterEBBF749C4CCC1BC35787068886CDEB06.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
-[2018.04.13-16.22.06:213][112]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
-[2018.04.13-16.23.00:740][ 50]LogSlate: Took 0.029808 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
-[2018.04.13-16.23.43:724][569]LogSavePackage: Save=52.94ms
-[2018.04.13-16.23.43:724][569]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/FirstPersonCharacterCF3596414C090065E0A0E1AB7904F217.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
-[2018.04.13-16.23.43:725][569]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
-[2018.04.13-16.23.45:797][813]BlueprintLog: New page: Compile FirstPersonCharacter
-[2018.04.13-16.24.41:815][375]LogEditorTransaction: Undo Move Node
-[2018.04.13-16.24.42:490][437]LogEditorTransaction: Undo Create Pin Link
-[2018.04.13-16.24.42:935][478]LogEditorTransaction: Undo Create Pin Link
-[2018.04.13-16.24.43:302][510]LogEditorTransaction: Undo Move Node
-[2018.04.13-16.24.43:702][546]LogEditorTransaction: Undo Add Node
-[2018.04.13-16.24.44:103][582]LogEditorTransaction: Undo Move Node
-[2018.04.13-16.24.44:551][624]LogEditorTransaction: Undo Add Node
-[2018.04.13-16.24.45:075][675]LogEditorTransaction: Undo Delete current selection
-[2018.04.13-16.25.04:163][946]BlueprintLog: New page: Compile FirstPersonCharacter
-[2018.04.13-16.25.05:024][988]LogSavePackage: Save=53.82ms
-[2018.04.13-16.25.05:024][988]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/FirstPersonCharacterCB0CD24B4A8C95C51E2E868B1645ABE2.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
-[2018.04.13-16.25.05:026][988]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
-[2018.04.13-16.25.53:245][371]LogTemp: Repeating last play command: Selected Viewport
-[2018.04.13-16.25.53:277][371]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.04.13-16.25.53:277][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.04.13-16.25.53:277][371]PIE: New page: PIE session: FirstPersonExampleMap (Apr 13, 2018, 2:25:53 AM)
-[2018.04.13-16.25.53:278][371]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
-[2018.04.13-16.25.53:305][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027686s)
-[2018.04.13-16.25.53:306][371]LogAIModule: Creating AISystem for world FirstPersonExampleMap
-[2018.04.13-16.25.53:306][371]LogPlayLevel: PIE: World Init took: (0.000761s)
-[2018.04.13-16.25.53:306][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.028638s)
-[2018.04.13-16.25.53:328][371]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.04.13-16.25.53:340][371]LogInit: FAudioDevice initialized.
-[2018.04.13-16.25.53:378][371]LogLoad: Game class is 'FirstPersonGameMode_C'
-[2018.04.13-16.25.53:381][371]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.04.13-09.25.53
-[2018.04.13-16.25.53:381][371]LogWorld: Bringing up level for play took: 0.001694
-[2018.04.13-16.25.53:386][371]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
-[2018.04.13-16.25.53:386][371]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.748
-[2018.04.13-16.25.53:386][371]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.04.13-16.25.54:106][445]LogBlueprintUserMessages: Warning: Invalid object types
-[2018.04.13-16.25.54:516][494]LogBlueprintUserMessages: Warning: Invalid object types
-[2018.04.13-16.25.54:908][541]LogBlueprintUserMessages: Warning: Invalid object types
-[2018.04.13-16.25.55:475][609]LogBlueprintUserMessages: Warning: Invalid object types
-[2018.04.13-16.25.56:175][693]LogBlueprintUserMessages: Warning: Invalid object types
-[2018.04.13-16.25.56:483][730]LogBlueprintUserMessages: Warning: Invalid object types
-[2018.04.13-16.25.57:033][796]LogBlueprintUserMessages: Warning: Invalid object types
-[2018.04.13-16.25.58:392][959]LogBlueprintUserMessages: Warning: Invalid object types
-[2018.04.13-16.25.58:770][  4]LogBlueprintUserMessages: Warning: Invalid object types
-[2018.04.13-16.25.59:778][125]LogBlueprintUserMessages: Warning: Invalid object types
-[2018.04.13-16.26.01:311][309]LogBlueprintUserMessages: Warning: Invalid object types
-[2018.04.13-16.26.02:512][453]LogBlueprintUserMessages: Warning: Invalid object types
-[2018.04.13-16.26.02:970][508]LogBlueprintUserMessages: Warning: Invalid object types
-[2018.04.13-16.26.03:195][535]LogBlueprintUserMessages: Warning: Invalid object types
-[2018.04.13-16.26.03:370][556]LogBlueprintUserMessages: Warning: Invalid object types
-[2018.04.13-16.26.03:545][577]LogBlueprintUserMessages: Warning: Invalid object types
-[2018.04.13-16.26.03:728][599]LogBlueprintUserMessages: Warning: Invalid object types
-[2018.04.13-16.26.03:928][623]LogBlueprintUserMessages: Warning: Invalid object types
-[2018.04.13-16.26.04:095][643]LogBlueprintUserMessages: Warning: Invalid object types
-[2018.04.13-16.26.04:553][698]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.04.13-16.26.04:589][698]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.04.13-16.26.05:593][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.13-16.26.23:364][841]BlueprintLog: New page: Compile FirstPersonCharacter
-[2018.04.13-16.26.26:807][205]LogTemp: Repeating last play command: Selected Viewport
-[2018.04.13-16.26.26:837][205]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.04.13-16.26.26:837][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.04.13-16.26.26:837][205]PIE: New page: PIE session: FirstPersonExampleMap (Apr 13, 2018, 2:26:26 AM)
-[2018.04.13-16.26.26:838][205]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
-[2018.04.13-16.26.26:854][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016803s)
-[2018.04.13-16.26.26:855][205]LogAIModule: Creating AISystem for world FirstPersonExampleMap
-[2018.04.13-16.26.26:855][205]LogPlayLevel: PIE: World Init took: (0.000701s)
-[2018.04.13-16.26.26:855][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017654s)
-[2018.04.13-16.26.26:878][205]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.04.13-16.26.26:887][205]LogInit: FAudioDevice initialized.
-[2018.04.13-16.26.26:915][205]LogLoad: Game class is 'FirstPersonGameMode_C'
-[2018.04.13-16.26.26:917][205]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.04.13-09.26.26
-[2018.04.13-16.26.26:918][205]LogWorld: Bringing up level for play took: 0.001667
-[2018.04.13-16.26.26:919][205]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.28
-[2018.04.13-16.26.26:919][205]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.04.13-16.26.28:151][350]LogBlueprintUserMessages: Warning: Invalid object types
-[2018.04.13-16.26.28:517][394]LogBlueprintUserMessages: Warning: Invalid object types
-[2018.04.13-16.26.29:384][498]LogBlueprintUserMessages: Warning: Invalid object types
-[2018.04.13-16.26.29:859][555]LogBlueprintUserMessages: Warning: Invalid object types
-[2018.04.13-16.26.30:868][676]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.04.13-16.26.30:906][676]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.04.13-16.26.31:456][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.13-16.26.32:259][819]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.32:259][819]LogEditorTransaction: Undo Create Pin Link
-[2018.04.13-16.26.32:540][837]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.32:540][837]LogEditorTransaction: Undo Create Pin Link
-[2018.04.13-16.26.32:788][851]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.32:788][851]LogEditorTransaction: Undo Add Node
-[2018.04.13-16.26.33:014][865]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.33:014][865]LogEditorTransaction: Undo Delete current selection
-[2018.04.13-16.26.33:206][872]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.33:206][872]LogEditorTransaction: Undo Move Node
-[2018.04.13-16.26.33:416][882]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.33:416][882]LogEditorTransaction: Undo Create Pin Link
-[2018.04.13-16.26.33:587][888]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.33:587][888]LogEditorTransaction: Undo Add Node
-[2018.04.13-16.26.33:785][898]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.33:785][898]LogEditorTransaction: Undo Rename Variable
-[2018.04.13-16.26.33:977][907]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.33:977][907]LogEditorTransaction: Undo Change Parameter Type
-[2018.04.13-16.26.34:116][909]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.34:116][909]LogEditorTransaction: Undo Change Variable Type
-[2018.04.13-16.26.34:309][918]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.34:309][918]LogEditorTransaction: Undo Add Variable
-[2018.04.13-16.26.34:484][926]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.34:484][926]LogEditorTransaction: Undo Move Node
-[2018.04.13-16.26.34:658][934]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.34:658][934]LogEditorTransaction: Undo Delete current selection
-[2018.04.13-16.26.34:852][944]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.34:852][944]LogEditorTransaction: Undo Move Node
-[2018.04.13-16.26.35:029][952]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.35:029][952]LogEditorTransaction: Undo Add Node
-[2018.04.13-16.26.35:238][964]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.35:238][964]LogEditorTransaction: Undo Create Pin Link
-[2018.04.13-16.26.35:447][976]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.35:447][976]LogEditorTransaction: Undo Delete current selection
-[2018.04.13-16.26.35:686][991]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.35:686][991]LogEditorTransaction: Undo Move Node
-[2018.04.13-16.26.35:922][  6]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.35:922][  6]LogEditorTransaction: Undo Move Nodes
-[2018.04.13-16.26.36:148][ 20]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.36:149][ 20]LogEditorTransaction: Undo Move Nodes
-[2018.04.13-16.26.36:358][ 32]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.36:359][ 32]LogEditorTransaction: Undo Add Node
-[2018.04.13-16.26.36:551][ 42]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.36:551][ 42]LogEditorTransaction: Undo Change Bool Pin Value
-[2018.04.13-16.26.36:936][ 75]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.36:936][ 75]LogEditorTransaction: Undo Create Pin Link
-[2018.04.13-16.26.37:128][ 85]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.37:128][ 85]LogEditorTransaction: Undo Create Pin Link
-[2018.04.13-16.26.37:366][100]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.37:366][100]LogEditorTransaction: Undo Create Pin Link
-[2018.04.13-16.26.37:561][123]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.37:561][123]LogEditorTransaction: Undo Move Node
-[2018.04.13-16.26.37:746][132]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.37:746][132]LogEditorTransaction: Undo Move Node
-[2018.04.13-16.26.37:976][144]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.37:976][144]LogEditorTransaction: Undo Paste clipboard contents
-[2018.04.13-16.26.38:149][149]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.38:149][149]LogEditorTransaction: Undo Delete current selection
-[2018.04.13-16.26.38:357][159]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.38:357][159]LogEditorTransaction: Undo Add Node
-[2018.04.13-16.26.38:599][175]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.38:599][175]LogEditorTransaction: Undo Add Node
-[2018.04.13-16.26.38:788][185]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.38:788][185]LogEditorTransaction: Undo Move Node
-[2018.04.13-16.26.38:995][197]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.38:995][197]LogEditorTransaction: Undo Add Component Nodes
-[2018.04.13-16.26.39:194][208]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.39:194][208]LogEditorTransaction: Undo Delete current selection
-[2018.04.13-16.26.39:384][218]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.39:384][218]LogEditorTransaction: Undo Delete current selection
-[2018.04.13-16.26.39:587][229]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.39:587][229]LogEditorTransaction: Undo Delete current selection
-[2018.04.13-16.26.39:781][238]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.39:781][238]LogEditorTransaction: Undo Delete current selection
-[2018.04.13-16.26.40:004][251]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.40:004][251]LogEditorTransaction: Undo Create Pin Link
-[2018.04.13-16.26.40:211][262]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.40:212][262]LogEditorTransaction: Undo Move Node
-[2018.04.13-16.26.40:420][273]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.40:420][273]LogEditorTransaction: Undo Add Node
-[2018.04.13-16.26.40:610][282]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.40:610][282]LogEditorTransaction: Undo Delete current selection
-[2018.04.13-16.26.40:818][293]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.40:818][293]LogEditorTransaction: Undo Move Node
-[2018.04.13-16.26.41:016][303]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.41:016][303]LogEditorTransaction: Undo Create Pin Link
-[2018.04.13-16.26.41:224][314]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.41:224][314]LogEditorTransaction: Undo Create Pin Link
-[2018.04.13-16.26.41:397][321]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.41:397][321]LogEditorTransaction: Undo Create Pin Link
-[2018.04.13-16.26.41:606][346]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.41:606][346]LogEditorTransaction: Undo Create Pin Link
-[2018.04.13-16.26.41:814][357]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.41:814][357]LogEditorTransaction: Undo Move Node
-[2018.04.13-16.26.42:071][374]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.42:071][374]LogEditorTransaction: Undo Create Pin Link
-[2018.04.13-16.26.42:263][383]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.42:263][383]LogEditorTransaction: Undo Move Node
-[2018.04.13-16.26.42:423][388]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.42:423][388]LogEditorTransaction: Undo Delete current selection
-[2018.04.13-16.26.42:647][400]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.42:647][400]LogEditorTransaction: Undo Add Node
-[2018.04.13-16.26.42:840][409]Cmd: TRANSACTION UNDO
-[2018.04.13-16.26.42:840][409]LogEditorTransaction: Undo Create Pin Link
-[2018.04.13-16.27.47:636][892]BlueprintLog: New page: Compile FirstPersonCharacter
-[2018.04.13-16.27.54:563][995]LogRenderer: Reallocating scene render targets to support 872x984 Format 10 NumSamples 1 (Frame:1).
-[2018.04.13-16.28.37:325][853]BlueprintLog: New page: Compile FirstPersonCharacter
-[2018.04.13-16.28.38:153][889]LogSavePackage: Save=54.88ms
-[2018.04.13-16.28.38:153][889]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/FirstPersonCharacter9308FA7847773AC420823B8E413BBA24.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
-[2018.04.13-16.28.38:155][889]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
-[2018.04.13-16.28.40:067][112]LogTemp: Repeating last play command: Selected Viewport
-[2018.04.13-16.28.40:100][112]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.04.13-16.28.40:100][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.04.13-16.28.40:100][112]PIE: New page: PIE session: FirstPersonExampleMap (Apr 13, 2018, 2:28:40 AM)
-[2018.04.13-16.28.40:100][112]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
-[2018.04.13-16.28.40:116][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015598s)
-[2018.04.13-16.28.40:117][112]LogAIModule: Creating AISystem for world FirstPersonExampleMap
-[2018.04.13-16.28.40:117][112]LogPlayLevel: PIE: World Init took: (0.000757s)
-[2018.04.13-16.28.40:117][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.016502s)
-[2018.04.13-16.28.40:137][112]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.04.13-16.28.40:147][112]LogInit: FAudioDevice initialized.
-[2018.04.13-16.28.40:176][112]LogLoad: Game class is 'FirstPersonGameMode_C'
-[2018.04.13-16.28.40:178][112]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.04.13-09.28.40
-[2018.04.13-16.28.40:178][112]LogWorld: Bringing up level for play took: 0.001688
-[2018.04.13-16.28.40:179][112]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.459
-[2018.04.13-16.28.40:179][112]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.04.13-16.28.49:555][228]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.04.13-16.28.49:590][228]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.04.13-16.28.51:524][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.13-16.28.51:582][382]LogTemp: Repeating last play command: Selected Viewport
-[2018.04.13-16.28.51:595][382]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.04.13-16.28.51:595][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.04.13-16.28.51:595][382]PIE: New page: PIE session: FirstPersonExampleMap (Apr 13, 2018, 2:28:51 AM)
-[2018.04.13-16.28.51:595][382]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
-[2018.04.13-16.28.51:610][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014460s)
-[2018.04.13-16.28.51:611][382]LogAIModule: Creating AISystem for world FirstPersonExampleMap
-[2018.04.13-16.28.51:611][382]LogPlayLevel: PIE: World Init took: (0.000762s)
-[2018.04.13-16.28.51:611][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015430s)
-[2018.04.13-16.28.51:632][382]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.04.13-16.28.51:642][382]LogInit: FAudioDevice initialized.
-[2018.04.13-16.28.51:675][382]LogLoad: Game class is 'FirstPersonGameMode_C'
-[2018.04.13-16.28.51:677][382]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.04.13-09.28.51
-[2018.04.13-16.28.51:677][382]LogWorld: Bringing up level for play took: 0.001799
-[2018.04.13-16.28.51:678][382]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.04
-[2018.04.13-16.28.51:678][382]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.04.13-16.29.23:689][215]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.04.13-16.29.23:729][215]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.04.13-16.57.43:697][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.13-16.57.43:697][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.13-16.57.43:723][  0]LogInit: Computer: WHIT-MAC-B19
+[2018.04.13-16.57.43:723][  0]LogInit: User: Game
+[2018.04.13-16.57.43:723][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.13-16.57.43:723][  0]LogInit: High frequency timer resolution =3.410073 MHz
+[2018.04.13-16.57.43:723][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.04.13-16.57.43:723][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.13-16.57.43:723][  0]LogMemory: Process Physical Memory: 274.96 MB used, 274.96 MB peak
+[2018.04.13-16.57.43:723][  0]LogMemory: Process Virtual Memory: 264.70 MB used, 264.70 MB peak
+[2018.04.13-16.57.43:723][  0]LogMemory: Physical Memory: 4140.77 MB used,  12159.62 MB free, 16300.39 MB total
+[2018.04.13-16.57.43:723][  0]LogMemory: Virtual Memory: 697.59 MB used,  12159.62 MB free, 134217728.00 MB total
+[2018.04.13-16.57.43:744][  0]LogInit: Using OS detected language (en-US).
+[2018.04.13-16.57.43:744][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.13-16.57.43:747][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.13-16.57.44:196][  0]LogStreaming: Display: Took  0.452s to EndInitTextLocalization.
+[2018.04.13-16.57.44:196][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.13-16.57.44:229][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.13-16.57.44:229][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.13-16.57.44:407][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.13-16.57.44:471][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.04.13-16.57.44:471][  0]LogD3D11RHI:       8086/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.13-16.57.44:474][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.13-16.57.44:474][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.13-16.57.44:474][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.13-16.57.44:479][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.13-16.57.44:479][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.13-16.57.44:479][  0]LogWindows: EnumDisplayDevices:
+[2018.04.13-16.57.44:479][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.04.13-16.57.44:480][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.04.13-16.57.44:480][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.04.13-16.57.44:480][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.04.13-16.57.44:480][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.13-16.57.44:480][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.04.13-16.57.44:480][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.13-16.57.44:480][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.13-16.57.44:480][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2018.04.13-16.57.44:515][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.04.13-16.57.44:515][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.13-16.57.44:515][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.13-16.57.44:529][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.04.13-16.57.44:571][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (E:/GameDesGithub/Eggspository/moneymoneymoney/Intermediate/Shaders/WorkingDirectory/11988/).
+[2018.04.13-16.57.44:571][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Game/AppData/Local/Temp/UnrealShaderWorkingDir/F73125A54690179D5B86348FA04E30F6/'.
+[2018.04.13-16.57.44:813][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.13-16.57.44:825][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.13-16.57.44:837][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.13-16.57.44:849][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.13-16.57.44:861][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.13-16.57.44:874][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.13-16.57.44:886][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.13-16.57.44:898][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.13-16.57.44:903][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.13-16.57.44:914][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.13-16.57.44:925][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.13-16.57.44:936][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.13-16.57.44:946][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.13-16.57.44:957][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.13-16.57.44:968][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.13-16.57.44:990][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.13-16.57.44:990][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.13-16.57.45:001][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.13-16.57.45:002][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.13-16.57.45:038][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.13-16.57.45:067][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.13-16.57.45:078][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.13-16.57.45:089][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.13-16.57.45:100][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.13-16.57.45:111][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.13-16.57.45:111][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.13-16.57.45:199][  0]LogXGEController: Cleaning working directory: C:/Users/Game/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.04.13-16.57.45:199][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.13-16.57.45:199][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.13-16.57.45:199][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.13-16.57.45:909][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.13-16.57.45:987][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.13-16.57.45:987][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.13-16.57.45:987][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/GameDesGithub/Eggspository/moneymoneymoney/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.13-16.57.45:987][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.13-16.57.45:987][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/GameDesGithub/Eggspository/moneymoneymoney/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.13-16.57.45:987][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.13-16.57.46:003][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.13-16.57.46:016][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Game/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.13-16.57.46:027][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.13-16.57.46:028][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.13-16.57.46:028][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.13-16.57.46:028][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.13-16.57.46:146][  0]LogAssetRegistry: FAssetRegistry took 0.0261 seconds to start up
+[2018.04.13-16.57.46:488][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.13-16.57.46:626][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.13-16.57.46:629][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.13-16.57.46:629][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.13-16.57.46:629][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.13-16.57.46:629][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.13-16.57.46:629][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.13-16.57.46:655][  0]LogNetVersion: moneymoneymoney , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 958272539)
+[2018.04.13-16.57.47:048][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.056476 seconds
+[2018.04.13-16.57.47:054][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.13-16.57.47:054][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.04.13-16.57.47:054][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.13-16.57.48:500][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.13-16.57.48:526][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.13-16.57.48:866][  0]SourceControl: Source control is disabled
+[2018.04.13-16.57.48:867][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.13-16.57.48:867][  0]LogWindows: Warning: URL: E:\Game Desinged\Git\bin\git.exe version
+[2018.04.13-16.57.48:880][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.13-16.57.48:880][  0]LogWindows: Warning: URL: E:\Game Desinged\Git\bin\git.exe version
+[2018.04.13-16.57.48:892][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.13-16.57.48:892][  0]LogWindows: Warning: URL: E:\Game Desinged\Git\bin\git.exe version
+[2018.04.13-16.57.49:350][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.13-16.57.49:485][  0]LogOcInput: OculusInput pre-init called
+[2018.04.13-16.57.49:593][  0]LogEngine: Initializing Engine...
+[2018.04.13-16.57.49:594][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.13-16.57.49:595][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.13-16.57.49:595][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.13-16.57.49:849][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.13-16.57.49:933][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.13-16.57.49:992][  0]LogInit: FAudioDevice initialized.
+[2018.04.13-16.57.50:067][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.13-16.57.50:086][  0]LogInit: Texture streaming: Enabled
+[2018.04.13-16.57.50:101][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.13-16.57.50:113][  0]LogInit: Transaction tracking system initialized
+[2018.04.13-16.57.50:132][  0]BlueprintLog: New page: Editor Load
+[2018.04.13-16.57.50:218][  0]LocalizationService: Localization service is disabled
+[2018.04.13-16.57.50:320][  0]LogConsoleResponse: Display: 
+[2018.04.13-16.57.50:501][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.13-16.57.50:501][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.13-16.57.50:501][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.13-16.57.50:501][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.13-16.57.50:501][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.13-16.57.50:805][  0]LogFileCache: Scanning file cache for directory 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/' took 0.01s
+[2018.04.13-16.57.50:805][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.13-16.57.50:805][  0]LogWindows: Warning: URL: E:\Game Desinged\Git\bin\git.exe version
+[2018.04.13-16.57.50:806][  0]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.13-16.57.50:806][  0]LightingResults: New page: Lighting Build
+[2018.04.13-16.57.50:809][  0]MapCheck: New page: Map Check
+[2018.04.13-16.57.50:809][  0]LightingResults: New page: Lighting Build
+[2018.04.13-16.57.51:052][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.04.13-16.57.51:052][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.04.13-16.57.51:052][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2018.04.13-16.57.51:058][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.04.13-16.57.51:058][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.04.13-16.57.51:058][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2018.04.13-16.57.51:063][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.04.13-16.57.51:063][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2018.04.13-16.57.51:063][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.04.13-16.57.51:063][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2018.04.13-16.57.51:071][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.04.13-16.57.51:071][  0]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2018.04.13-16.57.51:071][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2018.04.13-16.57.51:071][  0]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2018.04.13-16.57.51:214][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [5.146224ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.04.13-16.57.51:272][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [3.284974ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.04.13-16.57.51:276][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.04.13-16.57.51:289][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.13-16.57.51:312][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.13-16.57.51:371][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.001ms to complete.
+[2018.04.13-16.57.51:371][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.565
+[2018.04.13-16.57.51:532][  0]LogCollectionManager: Loaded 0 collections in 0.001365 seconds
+[2018.04.13-16.57.51:563][  0]LogFileCache: Scanning file cache for directory 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Collections/' took 0.01s
+[2018.04.13-16.57.51:563][  0]LogFileCache: Scanning file cache for directory 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Developers/Game/Collections/' took 0.01s
+[2018.04.13-16.57.51:563][  0]LogFileCache: Scanning file cache for directory 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Collections/' took 0.00s
+[2018.04.13-16.57.51:563][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.13-16.57.51:574][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2452 classes and 558 folders.
+[2018.04.13-16.57.51:581][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.04.13-16.57.51:623][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.13-16.57.51:628][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.04.13-16.57.51:672][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.13-16.57.51:672][  0]LogLoad: (Engine Initialization) Total time: 10.05 seconds
+[2018.04.13-16.57.51:672][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.13-16.57.51:700][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.13-16.57.51:703][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.13-16.57.51:710][  0]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.13-16.57.51:712][  0]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.13-16.57.51:716][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.13-16.57.51:856][  1]LogAssetRegistry: Asset discovery search completed in 5.7312 seconds
+[2018.04.13-16.57.51:858][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.13-16.57.51:858][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000053 seconds (updated 0 objects)
+[2018.04.13-16.57.51:882][  2]LogRenderer: Reallocating scene render targets to support 792x360 Format 10 NumSamples 1 (Frame:1).
+[2018.04.13-16.57.52:693][ 80]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.13-16.57.55:730][443]LogSlate: Window 'Message Log' being destroyed
+[2018.04.13-16.57.55:732][443]LogSlate: Window 'Message Log' being destroyed
+[2018.04.13-16.58.03:295][341]LogRenderer: Reallocating scene render targets to support 796x360 Format 10 NumSamples 1 (Frame:1340).
+[2018.04.13-16.58.03:363][341]LogRenderer: Reallocating scene render targets to support 848x416 Format 10 NumSamples 1 (Frame:1341).
+[2018.04.13-16.58.03:443][341]LogRenderer: Reallocating scene render targets to support 920x468 Format 10 NumSamples 1 (Frame:1342).
+[2018.04.13-16.58.03:519][341]LogRenderer: Reallocating scene render targets to support 976x504 Format 10 NumSamples 1 (Frame:1343).
+[2018.04.13-16.58.03:598][341]LogRenderer: Reallocating scene render targets to support 1004x524 Format 10 NumSamples 1 (Frame:1344).
+[2018.04.13-16.58.03:671][341]LogRenderer: Reallocating scene render targets to support 1020x540 Format 10 NumSamples 1 (Frame:1345).
+[2018.04.13-16.58.03:741][341]LogRenderer: Reallocating scene render targets to support 1032x544 Format 10 NumSamples 1 (Frame:1346).
+[2018.04.13-16.58.03:803][341]LogRenderer: Reallocating scene render targets to support 1036x544 Format 10 NumSamples 1 (Frame:1347).
+[2018.04.13-16.58.03:850][341]LogRenderer: Reallocating scene render targets to support 1040x544 Format 10 NumSamples 1 (Frame:1348).
+[2018.04.13-16.58.04:932][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.13-16.58.20:794][789]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Game/Desktop/untitled.fbx)
+[2018.04.13-16.58.20:813][789]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.13-16.58.20:813][789]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.04.13-16.58.20:813][789]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.13-16.58.20:813][789]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.13-16.58.20:813][789]LogFbx: ItemName: Material, ItemCount : 3
+[2018.04.13-16.58.20:818][789]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/untitled.fbx
+[2018.04.13-16.58.20:827][789]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.13-16.58.22:195][789]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.13-16.58.22:261][789]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/untitled.fbx
+[2018.04.13-16.58.22:268][789]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.13-16.58.22:284][789]LogMaterial: Missing cached shader map for material metalDark, compiling. 
+[2018.04.13-16.58.22:324][789]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.13-16.58.22:324][789]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.13-16.58.22:324][789]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.13-16.58.22:329][789]LogMaterial: Missing cached shader map for material carpetWhite, compiling. 
+[2018.04.13-16.58.22:346][789]LogMaterial: Missing cached shader map for material metalLight, compiling. 
+[2018.04.13-16.58.22:358][789]LogStaticMesh: Building static mesh untitled...
+[2018.04.13-16.58.22:420][789]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.04.13-16.58.22:420][789]LogStaticMesh: Built static mesh [0.06s] /Game/FurnitureModelsKenny/untitled.untitled
+[2018.04.13-16.58.22:435][789]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.13-16.58.23:040][844]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.04.13-16.58.24:260][978]LogSlate: Window 'Message Log' being destroyed
+[2018.04.13-16.58.24:263][978]LogSlate: Window 'Message Log' being destroyed
+[2018.04.13-16.58.24:502][  4]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.04.13-16.58.24:544][  9]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.13-16.58.25:044][ 58]LogActorFactory: Actor Factory created untitled
+[2018.04.13-16.58.25:614][115]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.13-16.58.25:805][134]LogActorFactory: Actor Factory created untitled
+[2018.04.13-16.58.53:527][377]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.04.13-16.58.53:574][377]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.13-16.59.03:078][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.13-16.59.03:257][474]LogSavePackage: Save=120.89ms
+[2018.04.13-16.59.03:257][474]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/FirstPersonExampleMap978108534EC212B5C117D0B9CECB965E.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.04.13-16.59.03:265][474]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.04.13-16.59.03:994][547]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.13-16.59.05:634][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.13-16.59.08:282][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.13-16.59.09:245][121]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.13-16.59.52:347][ 19]LogSlate: Window 'Source Control Login' being destroyed
+[2018.04.13-16.59.55:041][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.13-17.00.01:468][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FurnitureModelsKenny/carpetWhite" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FurnitureModelsKenny/carpetWhite.uasset" SILENT=true
+[2018.04.13-17.00.01:483][ 64]LogSavePackage: Save=13.66ms
+[2018.04.13-17.00.01:483][ 64]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/carpetWhite6602D90D41C42EA483AD36A327601E87.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FurnitureModelsKenny/carpetWhite.uasset'
+[2018.04.13-17.00.01:485][ 64]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FurnitureModelsKenny/carpetWhite.uasset
+[2018.04.13-17.00.02:115][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FurnitureModelsKenny/metalDark" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FurnitureModelsKenny/metalDark.uasset" SILENT=true
+[2018.04.13-17.00.02:129][ 64]LogSavePackage: Save=12.87ms
+[2018.04.13-17.00.02:129][ 64]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/metalDark5F4651D742D3D8B063C9B391A5CB7DBE.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FurnitureModelsKenny/metalDark.uasset'
+[2018.04.13-17.00.02:131][ 64]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FurnitureModelsKenny/metalDark.uasset
+[2018.04.13-17.00.02:630][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FurnitureModelsKenny/metalLight" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FurnitureModelsKenny/metalLight.uasset" SILENT=true
+[2018.04.13-17.00.02:644][ 64]LogSavePackage: Save=12.19ms
+[2018.04.13-17.00.02:644][ 64]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/metalLight06CFE3BA4F4C497916088DA8661356BB.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FurnitureModelsKenny/metalLight.uasset'
+[2018.04.13-17.00.02:645][ 64]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FurnitureModelsKenny/metalLight.uasset
+[2018.04.13-17.00.03:129][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FurnitureModelsKenny/untitled" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FurnitureModelsKenny/untitled.uasset" SILENT=true
+[2018.04.13-17.00.03:143][ 64]LogSavePackage: Save=12.38ms
+[2018.04.13-17.00.03:143][ 64]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/untitled438C44B74731259EDE2E389D118C23D8.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FurnitureModelsKenny/untitled.uasset'
+[2018.04.13-17.00.03:144][ 64]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FurnitureModelsKenny/untitled.uasset
+[2018.04.13-17.00.30:758][396]LogSavePackage: Save=95.41ms
+[2018.04.13-17.00.30:758][396]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/FirstPersonExampleMapD77136F14103ADDA8F64AA8F18ED6917.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.04.13-17.00.30:762][396]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
