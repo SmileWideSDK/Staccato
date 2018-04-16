@@ -537,3 +537,58 @@ LogInit: Object subsystem initialized
 [2018.04.16-16.34.53:109][233]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/Hitbox_Auto11C6322414777F8D7894BBB84D233F5DE.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/FirstPersonBP/Blueprints/Hitbox_Auto1.uasset'
 [2018.04.16-16.34.53:109][233]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/FirstPersonBP/Blueprints/Hitbox_Auto1.uasset
 [2018.04.16-16.34.53:109][233]LogFileHelpers: Auto-saving content packages took 0.078
+[2018.04.16-16.36.44:525][ 95]BlueprintLog: New page: Compile Hitbox
+[2018.04.16-16.36.45:418][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Hitbox" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/Hitbox.uasset" SILENT=true
+[2018.04.16-16.36.45:432][174]LogSavePackage: Save=12.04ms
+[2018.04.16-16.36.45:432][174]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/Hitbox3F6309194373EB15D6D2EF8DEF5BE236.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/Hitbox.uasset'
+[2018.04.16-16.36.45:437][174]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/Hitbox.uasset
+[2018.04.16-16.38.35:926][421]BlueprintLog: New page: Compile Hitbox
+[2018.04.16-16.38.36:499][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Hitbox" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/Hitbox.uasset" SILENT=true
+[2018.04.16-16.38.36:524][461]LogSavePackage: Save=10.47ms
+[2018.04.16-16.38.36:524][461]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/Hitbox95CF6FB84D10E5DDD9F0FCBA1C1056CB.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/Hitbox.uasset'
+[2018.04.16-16.38.36:525][461]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/Hitbox.uasset
+[2018.04.16-16.38.44:522][ 58]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.04.16-16.39.17:656][650]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.16-16.39.28:560][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Hitbox_Door" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/Hitbox_Door.uasset" SILENT=true
+[2018.04.16-16.39.28:574][799]LogSavePackage: Save=11.61ms
+[2018.04.16-16.39.28:574][799]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/Hitbox_Door3C3604214219DCA37BDC2DAC44419F42.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/Hitbox_Door.uasset'
+[2018.04.16-16.39.28:575][799]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/Hitbox_Door.uasset
+[2018.04.16-16.39.39:784][855]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Hitbox_Dialogue.Hitbox_Dialogue:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPersonBP/Blueprints/Hitbox.PackageMetaData'
+[2018.04.16-16.39.39:784][855]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Hitbox_Dialogue.SKEL_Hitbox_Dialogue_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/Hitbox.PackageMetaData'
+[2018.04.16-16.39.39:784][855]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Hitbox_Dialogue.Hitbox_Dialogue_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/Hitbox.PackageMetaData'
+[2018.04.16-16.39.39:784][855]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Hitbox_Dialogue.Hitbox_Dialogue:EventGraph.K2Node_Event_0' ref from Metadata '/Game/FirstPersonBP/Blueprints/Hitbox.PackageMetaData'
+[2018.04.16-16.39.39:784][855]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Hitbox_Dialogue.Hitbox_Dialogue:EventGraph.K2Node_Event_1' ref from Metadata '/Game/FirstPersonBP/Blueprints/Hitbox.PackageMetaData'
+[2018.04.16-16.39.39:784][855]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/Hitbox_Dialogue.Hitbox_Dialogue:EventGraph.K2Node_Event_2' ref from Metadata '/Game/FirstPersonBP/Blueprints/Hitbox.PackageMetaData'
+[2018.04.16-16.39.39:828][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Hitbox_Dialogue" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/Hitbox_Dialogue.uasset" SILENT=true
+[2018.04.16-16.39.39:841][855]LogSavePackage: Save=11.34ms
+[2018.04.16-16.39.39:841][855]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/Hitbox_Dialogue0AA05F6B4AB6325E4497A484DEAFD908.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/Hitbox_Dialogue.uasset'
+[2018.04.16-16.39.39:842][855]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/Hitbox_Dialogue.uasset
+[2018.04.16-16.39.40:195][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Hitbox" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/Hitbox.uasset" SILENT=true
+[2018.04.16-16.39.40:201][855]LogSavePackage: Save=3.74ms
+[2018.04.16-16.39.40:201][855]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/Hitbox3B04973C45F0C31C821C6CAC5B63FA03.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/Hitbox.uasset'
+[2018.04.16-16.39.40:203][855]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/Hitbox.uasset
+[2018.04.16-16.40.47:669][513]LogSlate: Took 0.003871 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.04.16-16.41.00:892][782]LogClass: Warning: Type mismatch in Original Door Value of SKEL_Hitbox_Door_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2018.04.16-16.42.51:919][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-16.43.26:356][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-16.43.33:729][355]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.16-16.43.36:109][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-16.43.36:192][642]BlueprintLog: New page: Compile Hitbox_Dialogue
+[2018.04.16-16.43.36:875][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.16-16.43.36:879][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Hitbox_Dialogue" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/Hitbox_Dialogue.uasset" SILENT=true
+[2018.04.16-16.43.36:897][693]LogSavePackage: Save=10.65ms
+[2018.04.16-16.43.36:897][693]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/Hitbox_DialogueC93A611D4CF465422632CBAAD61C2513.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/Hitbox_Dialogue.uasset'
+[2018.04.16-16.43.36:899][693]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/Hitbox_Dialogue.uasset
+[2018.04.16-16.43.38:016][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-16.43.39:187][967]BlueprintLog: New page: Compile Hitbox_Door
+[2018.04.16-16.43.39:973][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Hitbox_Door" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/Hitbox_Door.uasset" SILENT=true
+[2018.04.16-16.43.39:993][ 25]LogSavePackage: Save=13.41ms
+[2018.04.16-16.43.39:993][ 25]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/Hitbox_Door1605E3AB4D8527CA2D3F4DBF0B2E5EC5.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/Hitbox_Door.uasset'
+[2018.04.16-16.43.39:995][ 25]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/Hitbox_Door.uasset
+[2018.04.16-16.43.49:114][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-16.43.56:091][564]LogSavePackage: Save=120.92ms
+[2018.04.16-16.43.56:091][564]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/FirstPersonExampleMapEAEE08CE412D13932C0197920DEEF495.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.04.16-16.43.56:096][564]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.04.16-16.43.57:294][564]LogSavePackage: Save=1107.63ms
+[2018.04.16-16.43.57:294][564]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/FirstPersonExampleMap_BuiltDataD4300FC3411E8F4702C7D3A19DA0C5DC.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.04.16-16.43.57:295][564]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
