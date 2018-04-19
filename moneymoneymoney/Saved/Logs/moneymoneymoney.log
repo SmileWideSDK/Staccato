@@ -1,4 +1,4 @@
-﻿Log file open, 04/19/18 09:16:38
+﻿Log file open, 04/19/18 09:34:02
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +7,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: moneymoneymoney
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(2093650112) SRandInit(2093650112).
+LogInit: Display: RandInit(1705958639) SRandInit(1705958639).
 LogInit: Read version file with build ID '3944462'
 LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
 LogInit: Registered custom module enumerator with build ID '3944462'
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.262493
+LogStats: Stats thread started at 0.267751
 LogD3D11RHI: Aftermath initialized
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
@@ -168,7 +168,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  0.791s to configure plugins.
+LogStreaming: Display: Took  0.755s to configure plugins.
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -188,7 +188,7 @@ LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured
 LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
 LogInit:  - LocalHostAddr = Default
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-LogInit: WinSock: I am Whit-Mac-B11 (10.1.180.172:0)
+LogInit: WinSock: I am Whit-Mac-B19 (10.1.180.180:0)
 LogInit: Build: ++UE4+Release-4.19-CL-3989454
 LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
 LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
@@ -216,375 +216,883 @@ LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
 LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.19
-LogInit: Command Line: -EpicPortal 
-LogInit: Base Directory: E:/Game Desinged/Unreal/UE_4.19/Engine/Binaries/Win64/
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
-LogStreaming: Display: Took  0.001s to delete old logs.
+LogStreaming: Display: Took  0.000s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.04.19-16.16.39:428][  0]LogInit: Selected Device Profile: [Windows]
-[2018.04.19-16.16.39:428][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.04.19-16.16.39:445][  0]LogInit: Computer: WHIT-MAC-B11
-[2018.04.19-16.16.39:445][  0]LogInit: User: Game
-[2018.04.19-16.16.39:445][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.04.19-16.16.39:445][  0]LogInit: High frequency timer resolution =3.410077 MHz
-[2018.04.19-16.16.39:445][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2018.04.19-16.16.39:445][  0]LogMemory: Platform Memory Stats for Windows
-[2018.04.19-16.16.39:445][  0]LogMemory: Process Physical Memory: 277.18 MB used, 277.18 MB peak
-[2018.04.19-16.16.39:445][  0]LogMemory: Process Virtual Memory: 264.64 MB used, 264.64 MB peak
-[2018.04.19-16.16.39:445][  0]LogMemory: Physical Memory: 6108.76 MB used,  10191.63 MB free, 16300.39 MB total
-[2018.04.19-16.16.39:445][  0]LogMemory: Virtual Memory: 698.12 MB used,  10191.63 MB free, 134217728.00 MB total
-[2018.04.19-16.16.39:457][  0]LogInit: Using OS detected language (en-US).
-[2018.04.19-16.16.39:457][  0]LogInit: Using OS detected locale (en-US).
-[2018.04.19-16.16.39:459][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.04.19-16.16.39:894][  0]LogStreaming: Display: Took  0.438s to EndInitTextLocalization.
-[2018.04.19-16.16.39:894][  0]LogInit: Setting process to per monitor DPI aware
-[2018.04.19-16.16.39:916][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.04.19-16.16.39:916][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.04.19-16.16.40:083][  0]LogD3D11RHI: D3D11 adapters:
-[2018.04.19-16.16.40:132][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
-[2018.04.19-16.16.40:132][  0]LogD3D11RHI:       8086/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.04.19-16.16.40:134][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.04.19-16.16.40:134][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.04.19-16.16.40:134][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.04.19-16.16.40:142][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.04.19-16.16.40:142][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
-[2018.04.19-16.16.40:142][  0]LogWindows: EnumDisplayDevices:
-[2018.04.19-16.16.40:142][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
-[2018.04.19-16.16.40:142][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2018.04.19-16.16.40:142][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2018.04.19-16.16.40:143][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2018.04.19-16.16.40:143][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.04.19-16.16.40:143][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
-[2018.04.19-16.16.40:143][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.04.19-16.16.40:143][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.04.19-16.16.40:143][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
-[2018.04.19-16.16.40:169][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
-[2018.04.19-16.16.40:169][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
-[2018.04.19-16.16.40:169][  0]LogD3D11RHI: Async texture creation enabled
-[2018.04.19-16.16.40:180][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2018.04.19-16.16.40:228][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../GitHub/Eggspository/moneymoneymoney/Intermediate/Shaders/WorkingDirectory/14648/).
-[2018.04.19-16.16.40:228][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Game/AppData/Local/Temp/UnrealShaderWorkingDir/3C6319A94B78F9D21B1155A9AC467ACB/'.
-[2018.04.19-16.16.40:423][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.04.19-16.16.40:435][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.04.19-16.16.40:446][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.04.19-16.16.40:457][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.04.19-16.16.40:469][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.04.19-16.16.40:480][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.04.19-16.16.40:491][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.04.19-16.16.40:503][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.04.19-16.16.40:508][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.04.19-16.16.40:519][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.04.19-16.16.40:530][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.04.19-16.16.40:543][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.04.19-16.16.40:554][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
-[2018.04.19-16.16.40:564][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.04.19-16.16.40:575][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.04.19-16.16.40:596][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.04.19-16.16.40:596][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.04.19-16.16.40:607][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.04.19-16.16.40:608][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.04.19-16.16.40:642][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.04.19-16.16.40:652][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.04.19-16.16.40:664][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.04.19-16.16.40:675][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.04.19-16.16.40:685][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.04.19-16.16.40:697][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.04.19-16.16.40:697][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.04.19-16.16.40:770][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.04.19-16.16.40:770][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.04.19-16.16.40:770][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.04.19-16.16.41:475][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.04.19-16.16.41:549][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.04.19-16.16.41:549][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
-[2018.04.19-16.16.41:549][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../GitHub/Eggspository/moneymoneymoney/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.04.19-16.16.41:549][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.04.19-16.16.41:549][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../GitHub/Eggspository/moneymoneymoney/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.04.19-16.16.41:549][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.04.19-16.16.41:564][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.04.19-16.16.41:576][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Game/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.04.19-16.16.41:586][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.04.19-16.16.41:587][  0]LogSlate: Using Freetype 2.6.0
-[2018.04.19-16.16.41:587][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.04.19-16.16.41:587][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.04.19-16.16.41:691][  0]LogAssetRegistry: FAssetRegistry took 0.0254 seconds to start up
-[2018.04.19-16.16.41:999][  0]LogInit: Selected Device Profile: [Windows]
-[2018.04.19-16.16.42:121][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.04.19-16.16.42:123][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.04.19-16.16.42:123][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.04.19-16.16.42:123][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.04.19-16.16.42:123][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.04.19-16.16.42:123][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.04.19-16.16.42:147][  0]LogNetVersion: moneymoneymoney , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 958272539)
-[2018.04.19-16.16.42:542][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.069963 seconds
-[2018.04.19-16.16.42:548][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
-[2018.04.19-16.16.42:548][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
-[2018.04.19-16.16.42:548][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.04.19-16.16.43:927][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.04.19-16.16.43:950][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.04.19-16.16.44:203][  0]SourceControl: Source control is disabled
-[2018.04.19-16.16.45:180][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.04.19-16.16.45:277][  0]LogOcInput: OculusInput pre-init called
-[2018.04.19-16.16.45:359][  0]LogEngine: Initializing Engine...
-[2018.04.19-16.16.45:360][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.04.19-16.16.45:361][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.04.19-16.16.45:361][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.04.19-16.16.45:555][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.04.19-16.16.45:573][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.04.19-16.16.45:601][  0]LogInit: FAudioDevice initialized.
-[2018.04.19-16.16.45:653][  0]LogDerivedDataCache: Saved boot cache 0.05s 74MB C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.04.19-16.16.45:666][  0]LogInit: Texture streaming: Enabled
-[2018.04.19-16.16.45:677][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.04.19-16.16.45:688][  0]LogInit: Transaction tracking system initialized
-[2018.04.19-16.16.45:703][  0]BlueprintLog: New page: Editor Load
-[2018.04.19-16.16.45:749][  0]LocalizationService: Localization service is disabled
-[2018.04.19-16.16.45:824][  0]LogConsoleResponse: Display: 
-[2018.04.19-16.16.45:960][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.04.19-16.16.45:960][  0]LogCook: Display: Mobile HDR setting 1
-[2018.04.19-16.16.45:960][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.04.19-16.16.45:960][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.04.19-16.16.45:961][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.04.19-16.16.46:005][  0]LogFileCache: Scanning file cache for directory 'E:/Game Desinged/Unreal/GitHub/Eggspository/moneymoneymoney/Content/' took 0.02s
-[2018.04.19-16.16.46:206][  0]Cmd: MAP LOAD FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.04.19-16.16.46:220][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.04.19-16.16.51:668][  0]LogSlate: Window 'Message' being destroyed
-[2018.04.19-16.16.51:669][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.04.19-16.16.51:672][  0]LightingResults: New page: Lighting Build
-[2018.04.19-16.16.51:674][  0]MapCheck: New page: Map Check
-[2018.04.19-16.16.51:674][  0]LightingResults: New page: Lighting Build
-[2018.04.19-16.16.51:686][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.04.19-16.16.51:688][  0]LoadErrors: New page: New Map
-[2018.04.19-16.16.51:742][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.04.19-16.16.51:890][  0]LogCollectionManager: Loaded 0 collections in 0.000855 seconds
-[2018.04.19-16.16.51:929][  0]LogFileCache: Scanning file cache for directory 'E:/Game Desinged/Unreal/GitHub/Eggspository/moneymoneymoney/Saved/Collections/' took 0.01s
-[2018.04.19-16.16.51:929][  0]LogFileCache: Scanning file cache for directory 'E:/Game Desinged/Unreal/GitHub/Eggspository/moneymoneymoney/Content/Developers/Game/Collections/' took 0.01s
-[2018.04.19-16.16.51:929][  0]LogFileCache: Scanning file cache for directory 'E:/Game Desinged/Unreal/GitHub/Eggspository/moneymoneymoney/Content/Collections/' took 0.01s
-[2018.04.19-16.16.51:929][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
-[2018.04.19-16.16.51:937][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2452 classes and 558 folders.
-[2018.04.19-16.16.51:942][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.04.19-16.16.53:156][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.04.19-16.16.53:185][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2018.04.19-16.16.54:859][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
-[2018.04.19-16.16.54:916][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.moneymoneymoney
-[2018.04.19-16.16.54:916][  0]LogTemp: CWD: E:\Game Desinged\Unreal\UE_4.19\Engine\Binaries\DotNET\IOS
-[2018.04.19-16.16.54:916][  0]LogTemp: Initial Dir: E:\Game Desinged\Unreal\UE_4.19
-[2018.04.19-16.16.54:916][  0]LogTemp: Env CWD: E:\Game Desinged\Unreal\UE_4.19\Engine\Binaries\DotNET\IOS
-[2018.04.19-16.16.54:916][  0]LogTemp: BranchPath = WHIT-MAC-B11/E/Game Desinged/Unreal/UE_4.19/Engine/Binaries --- GameBranchPath = WHIT-MAC-B11/E/Game Desinged/Unreal/UE_4.19/Engine/Binaries
-[2018.04.19-16.16.54:916][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Game\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
-[2018.04.19-16.16.54:931][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.04.19-16.16.54:931][  0]LogLoad: (Engine Initialization) Total time: 17.73 seconds
-[2018.04.19-16.16.54:931][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.04.19-16.16.55:295][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.04.19-16.16.55:297][  0]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.04.19-16.16.55:309][  0]LogSlate: Took 0.008232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.04.19-16.16.55:392][  0]LogRenderer: Reallocating scene render targets to support 64x64 Format 10 NumSamples 1 (Frame:1).
-[2018.04.19-16.16.55:537][  1]LogRenderer: Reallocating scene render targets to support 1480x652 Format 10 NumSamples 1 (Frame:1).
-[2018.04.19-16.16.55:618][  1]LogAssetRegistry: Asset discovery search completed in 13.9487 seconds
-[2018.04.19-16.16.55:620][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2018.04.19-16.16.55:620][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
-[2018.04.19-16.16.56:302][  3]LogSlate: Took 0.021843 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.04.19-16.16.59:600][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.17.08:280][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.17.08:346][474]LogTemp: Repeating last play command: Selected Viewport
-[2018.04.19-16.17.08:363][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.04.19-16.17.08:363][474]PIE: New page: PIE session: Untitled_1 (Apr 19, 2018, 2:17:08 AM)
-[2018.04.19-16.17.08:363][474]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
-[2018.04.19-16.17.08:364][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000583s)
-[2018.04.19-16.17.08:364][474]LogAIModule: Creating AISystem for world Untitled
-[2018.04.19-16.17.08:364][474]LogPlayLevel: PIE: World Init took: (0.000631s)
-[2018.04.19-16.17.08:364][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.001336s)
-[2018.04.19-16.17.08:376][474]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.04.19-16.17.08:386][474]LogInit: FAudioDevice initialized.
-[2018.04.19-16.17.09:441][474]LogSkeletalMesh: Skeletal Mesh found in DDC [14.496740ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
-[2018.04.19-16.17.09:452][474]LogSkeletalMesh: Skeletal Mesh found in DDC [4.590512ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
-[2018.04.19-16.17.09:495][474]LogLoad: Game class is 'FirstPersonGameMode_C'
-[2018.04.19-16.17.09:496][474]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2018.04.19-09.17.09
-[2018.04.19-16.17.09:496][474]LogWorld: Bringing up level for play took: 0.000391
-[2018.04.19-16.17.09:500][474]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
-[2018.04.19-16.17.09:502][474]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 1.417
-[2018.04.19-16.17.16:996][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.17.24:133][175]LogSlate: Window 'FirstPersonExampleMap_BuiltData - Generic Asset Editor' being destroyed
-[2018.04.19-16.17.24:890][262]LogAIModule: Creating AISystem for world MyTestingLevel
-[2018.04.19-16.17.24:902][262]Cmd: MAP LOAD FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/MyTestingLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.04.19-16.17.24:902][262]LightingResults: New page: Lighting Build
-[2018.04.19-16.17.24:903][262]LoadErrors: New page: Loading map: MyTestingLevel.umap
-[2018.04.19-16.17.24:903][262]MapCheck: New page: Map Check
-[2018.04.19-16.17.24:903][262]LightingResults: New page: Lighting Build
-[2018.04.19-16.17.24:913][262]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.04.19-16.17.24:963][262]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.04.19-16.17.25:003][262]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 39.738ms to complete.
-[2018.04.19-16.17.25:003][262]LogFileHelpers: Loading map 'MyTestingLevel' took 0.102
-[2018.04.19-16.17.38:771][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.18.00:785][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.18.16:662][993]LogActorFactory: Actor Factory created Cube
-[2018.04.19-16.18.17:676][108]LogActorFactory: Actor Factory created Cube
-[2018.04.19-16.18.43:034][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.18.51:729][906]LogEditorViewport: Clicking on Actor (LMB): Light_C (Light)
-[2018.04.19-16.19.19:867][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.19.25:329][621]LogAIModule: Creating AISystem for world Advanced_Lighting
-[2018.04.19-16.19.27:368][621]LogSlate: Window 'Save Content' being destroyed
-[2018.04.19-16.19.27:510][621]LogSavePackage: Save=9.54ms
-[2018.04.19-16.19.27:510][621]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/MyTestingLevel912936744699BD0032A67A905B09E1EB.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/MyTestingLevel.umap'
-[2018.04.19-16.19.27:535][621]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/MyTestingLevel.umap
-[2018.04.19-16.19.27:561][621]LogFileHelpers: Saving map 'MyTestingLevel' took 0.116
-[2018.04.19-16.19.27:562][621]Cmd: MAP LOAD FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/StarterContent/Maps/Advanced_Lighting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.04.19-16.19.27:563][621]LightingResults: New page: Lighting Build
-[2018.04.19-16.19.27:563][621]LoadErrors: New page: Loading map: Advanced_Lighting.umap
-[2018.04.19-16.19.27:564][621]MapCheck: New page: Map Check
-[2018.04.19-16.19.27:564][621]LightingResults: New page: Lighting Build
-[2018.04.19-16.19.27:576][621]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.04.19-16.19.27:609][621]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.04.19-16.19.27:651][621]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 41.507ms to complete.
-[2018.04.19-16.19.27:652][621]LogFileHelpers: Loading map 'Advanced_Lighting' took 0.091
-[2018.04.19-16.19.31:099][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.19.32:353][ 29]LogAIModule: Creating AISystem for world Minimal_Default
-[2018.04.19-16.19.32:395][ 29]Cmd: MAP LOAD FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.04.19-16.19.32:395][ 29]LightingResults: New page: Lighting Build
-[2018.04.19-16.19.32:396][ 29]LoadErrors: New page: Loading map: Minimal_Default.umap
-[2018.04.19-16.19.32:396][ 29]MapCheck: New page: Map Check
-[2018.04.19-16.19.32:396][ 29]LightingResults: New page: Lighting Build
-[2018.04.19-16.19.32:409][ 29]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.04.19-16.19.32:443][ 29]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.04.19-16.19.32:488][ 29]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 45.353ms to complete.
-[2018.04.19-16.19.32:488][ 29]LogFileHelpers: Loading map 'Minimal_Default' took 0.094
-[2018.04.19-16.19.35:325][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.19.36:210][412]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
-[2018.04.19-16.19.38:359][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.19.45:102][773]LogAIModule: Creating AISystem for world StarterMap
-[2018.04.19-16.19.45:182][773]Cmd: MAP LOAD FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.04.19-16.19.45:183][773]LightingResults: New page: Lighting Build
-[2018.04.19-16.19.45:183][773]LoadErrors: New page: Loading map: StarterMap.umap
-[2018.04.19-16.19.45:184][773]MapCheck: New page: Map Check
-[2018.04.19-16.19.45:184][773]LightingResults: New page: Lighting Build
-[2018.04.19-16.19.45:220][773]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.04.19-16.19.45:270][773]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.04.19-16.19.45:332][773]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.051ms to complete.
-[2018.04.19-16.19.45:332][773]LogFileHelpers: Loading map 'StarterMap' took 0.151
-[2018.04.19-16.20.04:561][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.20.09:256][548]LogAIModule: Creating AISystem for world MyTestingLevel
-[2018.04.19-16.20.09:270][548]Cmd: MAP LOAD FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/MyTestingLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.04.19-16.20.09:270][548]LightingResults: New page: Lighting Build
-[2018.04.19-16.20.09:271][548]LoadErrors: New page: Loading map: MyTestingLevel.umap
-[2018.04.19-16.20.09:273][548]MapCheck: New page: Map Check
-[2018.04.19-16.20.09:273][548]LightingResults: New page: Lighting Build
-[2018.04.19-16.20.09:289][548]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.04.19-16.20.09:323][548]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.04.19-16.20.09:385][548]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.009ms to complete.
-[2018.04.19-16.20.09:385][548]LogFileHelpers: Loading map 'MyTestingLevel' took 0.116
-[2018.04.19-16.20.13:329][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.20.23:435][188]Cmd: DELETE
-[2018.04.19-16.20.23:435][188]Cmd: ACTOR DELETE
-[2018.04.19-16.20.23:436][188]LogEditorActor: Deleted Actor: SkyLight
-[2018.04.19-16.20.23:446][188]LogEditorActor: Deleted 1 Actors (0.011 secs)
-[2018.04.19-16.20.26:268][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.20.28:398][777]LogAIModule: Creating AISystem for world Advanced_Lighting
-[2018.04.19-16.20.30:030][777]LogSlate: Window 'Save Content' being destroyed
-[2018.04.19-16.20.30:172][777]LogSavePackage: Save=9.56ms
-[2018.04.19-16.20.30:172][777]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/MyTestingLevel3A4CF21C48A25FC07B286C9D526C77B9.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/MyTestingLevel.umap'
-[2018.04.19-16.20.30:174][777]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/MyTestingLevel.umap
-[2018.04.19-16.20.30:197][777]LogFileHelpers: Saving map 'MyTestingLevel' took 0.111
-[2018.04.19-16.20.30:199][777]Cmd: MAP LOAD FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/StarterContent/Maps/Advanced_Lighting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.04.19-16.20.30:199][777]LightingResults: New page: Lighting Build
-[2018.04.19-16.20.30:199][777]LoadErrors: New page: Loading map: Advanced_Lighting.umap
-[2018.04.19-16.20.30:200][777]MapCheck: New page: Map Check
-[2018.04.19-16.20.30:200][777]LightingResults: New page: Lighting Build
-[2018.04.19-16.20.30:213][777]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.04.19-16.20.30:247][777]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.04.19-16.20.30:309][777]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.946ms to complete.
-[2018.04.19-16.20.30:311][777]LogFileHelpers: Loading map 'Advanced_Lighting' took 0.113
-[2018.04.19-16.20.31:719][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AssetPlatform)
-[2018.04.19-16.20.32:241][996]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
-[2018.04.19-16.20.34:829][300]LogNavigationPoint: PostEditMove Clear paths rebuilt
-[2018.04.19-16.20.36:363][469]Cmd: EDIT COPY
-[2018.04.19-16.20.37:522][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.20.44:105][337]Cmd: EDIT COPY
-[2018.04.19-16.20.44:383][370]Cmd: EDIT COPY
-[2018.04.19-16.20.45:588][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.20.46:466][617]LogAIModule: Creating AISystem for world MyTestingLevel
-[2018.04.19-16.20.48:159][617]LogSlate: Window 'Save Content' being destroyed
-[2018.04.19-16.20.48:345][617]LogSavePackage: Save=41.28ms
-[2018.04.19-16.20.48:345][617]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/Advanced_Lighting4BBAD2E1427C388C5B01E28DD7512FA7.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/StarterContent/Maps/Advanced_Lighting.umap'
-[2018.04.19-16.20.48:353][617]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/StarterContent/Maps/Advanced_Lighting.umap
-[2018.04.19-16.20.48:376][617]LogFileHelpers: Saving map 'Advanced_Lighting' took 0.151
-[2018.04.19-16.20.48:377][617]Cmd: MAP LOAD FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/MyTestingLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.04.19-16.20.48:377][617]LightingResults: New page: Lighting Build
-[2018.04.19-16.20.48:378][617]LoadErrors: New page: Loading map: MyTestingLevel.umap
-[2018.04.19-16.20.48:379][617]MapCheck: New page: Map Check
-[2018.04.19-16.20.48:379][617]LightingResults: New page: Lighting Build
-[2018.04.19-16.20.48:392][617]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.04.19-16.20.48:426][617]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.04.19-16.20.48:490][617]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.004ms to complete.
-[2018.04.19-16.20.48:490][617]LogFileHelpers: Loading map 'MyTestingLevel' took 0.114
-[2018.04.19-16.20.50:218][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
-[2018.04.19-16.20.50:843][887]LogEditorViewport: Clicking Background
-[2018.04.19-16.20.51:201][927]Cmd: EDIT PASTE
-[2018.04.19-16.20.51:210][927]LogNavigationPoint: PostEditMove Clear paths rebuilt
-[2018.04.19-16.20.54:864][317]LogEditorViewport: Clicking on Actor (LMB): BP_LightStudio_C (BP_LightStage)
-[2018.04.19-16.20.55:344][356]LogEditorViewport: Clicking on Actor (LMB): BP_LightStudio_C (BP_LightStage)
-[2018.04.19-16.20.55:745][400]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
-[2018.04.19-16.20.57:769][637]LogNavigationPoint: PostEditMove Clear paths rebuilt
-[2018.04.19-16.21.01:412][ 26]LogNavigationPoint: PostEditMove Clear paths rebuilt
-[2018.04.19-16.21.06:446][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
-[2018.04.19-16.21.06:978][675]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
-[2018.04.19-16.21.08:079][801]LogNavigationPoint: PostEditMove Clear paths rebuilt
-[2018.04.19-16.21.09:998][ 27]LogNavigationPoint: PostEditMove Clear paths rebuilt
-[2018.04.19-16.21.12:931][375]LogNavigationPoint: PostEditMove Clear paths rebuilt
-[2018.04.19-16.21.14:714][537]LogEditorViewport: Clicking on Actor (LMB): BP_LightStudio_C (BP_LightStage)
-[2018.04.19-16.21.17:553][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.21.42:763][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.21.52:651][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.22.11:818][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.22.36:121][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.22.36:154][130]LogTemp: Repeating last play command: Selected Viewport
-[2018.04.19-16.22.36:174][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.04.19-16.22.36:174][130]PIE: New page: PIE session: MyTestingLevel (Apr 19, 2018, 2:22:36 AM)
-[2018.04.19-16.22.36:175][130]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MyTestingLevel
-[2018.04.19-16.22.36:176][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001175s)
-[2018.04.19-16.22.36:176][130]LogAIModule: Creating AISystem for world MyTestingLevel
-[2018.04.19-16.22.36:176][130]LogPlayLevel: PIE: World Init took: (0.000637s)
-[2018.04.19-16.22.36:176][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MyTestingLevel.MyTestingLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_MyTestingLevel.MyTestingLevel (0.001914s)
-[2018.04.19-16.22.36:232][130]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.04.19-16.22.36:243][130]LogInit: FAudioDevice initialized.
-[2018.04.19-16.22.36:276][130]LogLoad: Game class is 'FirstPersonGameMode_C'
-[2018.04.19-16.22.36:277][130]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MyTestingLevel.MyTestingLevel up for play (max tick rate 0) at 2018.04.19-09.22.36
-[2018.04.19-16.22.36:277][130]LogWorld: Bringing up level for play took: 0.000653
-[2018.04.19-16.22.36:279][130]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MyTestingLevel 0.194
-[2018.04.19-16.22.57:805][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.22.57:847][700]LogTemp: Repeating last play command: Selected Viewport
-[2018.04.19-16.22.57:863][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.04.19-16.22.57:863][700]PIE: New page: PIE session: MyTestingLevel (Apr 19, 2018, 2:22:57 AM)
-[2018.04.19-16.22.57:863][700]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MyTestingLevel
-[2018.04.19-16.22.57:864][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001153s)
-[2018.04.19-16.22.57:865][700]LogAIModule: Creating AISystem for world MyTestingLevel
-[2018.04.19-16.22.57:865][700]LogPlayLevel: PIE: World Init took: (0.000605s)
-[2018.04.19-16.22.57:865][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MyTestingLevel.MyTestingLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_MyTestingLevel.MyTestingLevel (0.001873s)
-[2018.04.19-16.22.57:878][700]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.04.19-16.22.57:887][700]LogInit: FAudioDevice initialized.
-[2018.04.19-16.22.57:919][700]LogLoad: Game class is 'FirstPersonGameMode_C'
-[2018.04.19-16.22.57:920][700]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MyTestingLevel.MyTestingLevel up for play (max tick rate 0) at 2018.04.19-09.22.57
-[2018.04.19-16.22.57:921][700]LogWorld: Bringing up level for play took: 0.000626
-[2018.04.19-16.22.57:922][700]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MyTestingLevel -0.163
-[2018.04.19-16.23.22:381][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.23.22:918][638]LogSlate: Took 0.020358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2018.04.19-16.23.29:960][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.23.32:910][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.23.36:314][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.23.41:904][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.23.51:326][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.23.51:401][847]LogTemp: Repeating last play command: Selected Viewport
-[2018.04.19-16.23.51:417][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.04.19-16.23.51:417][847]PIE: New page: PIE session: MyTestingLevel (Apr 19, 2018, 2:23:51 AM)
-[2018.04.19-16.23.51:417][847]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MyTestingLevel
-[2018.04.19-16.23.51:418][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001154s)
-[2018.04.19-16.23.51:419][847]LogAIModule: Creating AISystem for world MyTestingLevel
-[2018.04.19-16.23.51:419][847]LogPlayLevel: PIE: World Init took: (0.000545s)
-[2018.04.19-16.23.51:419][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MyTestingLevel.MyTestingLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_MyTestingLevel.MyTestingLevel (0.001820s)
-[2018.04.19-16.23.51:432][847]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.04.19-16.23.51:442][847]LogInit: FAudioDevice initialized.
-[2018.04.19-16.23.51:472][847]LogLoad: Game class is 'FirstPersonGameMode_C'
-[2018.04.19-16.23.51:473][847]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MyTestingLevel.MyTestingLevel up for play (max tick rate 0) at 2018.04.19-09.23.51
-[2018.04.19-16.23.51:473][847]LogWorld: Bringing up level for play took: 0.000572
-[2018.04.19-16.23.51:475][847]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MyTestingLevel -0.611
-[2018.04.19-16.23.57:153][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.19-16.24.05:167][475]LogEditorViewport: Clicking on Actor (LMB): BP_LightStudio_C (BP_LightStage)
-[2018.04.19-16.24.08:951][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.34.03:239][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.19-16.34.03:239][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.19-16.34.03:265][  0]LogInit: Computer: WHIT-MAC-B19
+[2018.04.19-16.34.03:265][  0]LogInit: User: Game
+[2018.04.19-16.34.03:265][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.19-16.34.03:265][  0]LogInit: High frequency timer resolution =3.410073 MHz
+[2018.04.19-16.34.03:266][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.04.19-16.34.03:266][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.19-16.34.03:266][  0]LogMemory: Process Physical Memory: 275.08 MB used, 275.08 MB peak
+[2018.04.19-16.34.03:266][  0]LogMemory: Process Virtual Memory: 264.70 MB used, 264.70 MB peak
+[2018.04.19-16.34.03:266][  0]LogMemory: Physical Memory: 5807.01 MB used,  10493.38 MB free, 16300.39 MB total
+[2018.04.19-16.34.03:266][  0]LogMemory: Virtual Memory: 697.59 MB used,  10493.38 MB free, 134217728.00 MB total
+[2018.04.19-16.34.03:288][  0]LogInit: Using OS detected language (en-US).
+[2018.04.19-16.34.03:288][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.19-16.34.03:292][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.19-16.34.03:710][  0]LogStreaming: Display: Took  0.422s to EndInitTextLocalization.
+[2018.04.19-16.34.03:710][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.19-16.34.03:751][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.19-16.34.03:751][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.19-16.34.03:923][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.19-16.34.03:984][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.04.19-16.34.03:984][  0]LogD3D11RHI:       8086/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.19-16.34.03:986][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.19-16.34.03:986][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.19-16.34.03:986][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.19-16.34.03:993][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.19-16.34.03:993][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.19-16.34.03:993][  0]LogWindows: EnumDisplayDevices:
+[2018.04.19-16.34.03:993][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.04.19-16.34.03:994][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.04.19-16.34.03:994][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.04.19-16.34.03:994][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.04.19-16.34.03:994][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.19-16.34.03:994][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.04.19-16.34.03:994][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.19-16.34.03:994][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.19-16.34.03:994][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2018.04.19-16.34.04:026][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.04.19-16.34.04:026][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.19-16.34.04:026][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.19-16.34.04:038][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.04.19-16.34.04:080][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (E:/GameDesGithub/Eggspository/moneymoneymoney/Intermediate/Shaders/WorkingDirectory/22040/).
+[2018.04.19-16.34.04:080][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Game/AppData/Local/Temp/UnrealShaderWorkingDir/12481EFA46FCEDCEBDE2DB87ED965269/'.
+[2018.04.19-16.34.04:312][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.19-16.34.04:324][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.19-16.34.04:337][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.19-16.34.04:349][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.19-16.34.04:361][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.19-16.34.04:373][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.19-16.34.04:386][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.19-16.34.04:398][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.19-16.34.04:404][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.19-16.34.04:415][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.19-16.34.04:426][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.19-16.34.04:437][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.19-16.34.04:448][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.19-16.34.04:459][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.19-16.34.04:470][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.19-16.34.04:492][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.19-16.34.04:492][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.19-16.34.04:503][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.19-16.34.04:504][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.19-16.34.04:540][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.19-16.34.04:570][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.19-16.34.04:584][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.19-16.34.04:597][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.19-16.34.04:608][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.19-16.34.04:620][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.19-16.34.04:620][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.19-16.34.04:705][  0]LogXGEController: Cleaning working directory: C:/Users/Game/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.04.19-16.34.04:705][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.19-16.34.04:705][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.19-16.34.04:705][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.19-16.34.05:408][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.19-16.34.05:480][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.19-16.34.05:480][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.19-16.34.05:480][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/GameDesGithub/Eggspository/moneymoneymoney/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.19-16.34.05:480][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.19-16.34.05:480][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/GameDesGithub/Eggspository/moneymoneymoney/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.19-16.34.05:480][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.19-16.34.05:495][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.19-16.34.05:507][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Game/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.19-16.34.05:517][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.19-16.34.05:518][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.19-16.34.05:518][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.19-16.34.05:518][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.19-16.34.05:629][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2018.04.19-16.34.05:968][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.19-16.34.06:097][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.19-16.34.06:099][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.19-16.34.06:099][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.19-16.34.06:099][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.19-16.34.06:099][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.19-16.34.06:099][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.19-16.34.06:123][  0]LogNetVersion: moneymoneymoney , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 958272539)
+[2018.04.19-16.34.06:502][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.054872 seconds
+[2018.04.19-16.34.06:509][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.19-16.34.06:509][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.04.19-16.34.06:509][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.19-16.34.07:977][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.19-16.34.08:002][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.19-16.34.08:284][  0]SourceControl: Source control is disabled
+[2018.04.19-16.34.08:284][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.19-16.34.08:284][  0]LogWindows: Warning: URL: E:\Game Desinged\Git\bin\git.exe version
+[2018.04.19-16.34.08:297][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.19-16.34.08:297][  0]LogWindows: Warning: URL: E:\Game Desinged\Git\bin\git.exe version
+[2018.04.19-16.34.08:310][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.19-16.34.08:310][  0]LogWindows: Warning: URL: E:\Game Desinged\Git\bin\git.exe version
+[2018.04.19-16.34.08:730][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.19-16.34.08:859][  0]LogOcInput: OculusInput pre-init called
+[2018.04.19-16.34.08:949][  0]LogEngine: Initializing Engine...
+[2018.04.19-16.34.08:950][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.19-16.34.08:951][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.19-16.34.08:951][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.19-16.34.09:197][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.19-16.34.09:245][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.19-16.34.09:286][  0]LogInit: FAudioDevice initialized.
+[2018.04.19-16.34.09:356][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.19-16.34.09:379][  0]LogInit: Texture streaming: Enabled
+[2018.04.19-16.34.09:398][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.19-16.34.09:414][  0]LogInit: Transaction tracking system initialized
+[2018.04.19-16.34.09:445][  0]BlueprintLog: New page: Editor Load
+[2018.04.19-16.34.09:527][  0]LocalizationService: Localization service is disabled
+[2018.04.19-16.34.09:614][  0]LogConsoleResponse: Display: 
+[2018.04.19-16.34.09:769][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.19-16.34.09:769][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.19-16.34.09:769][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.19-16.34.09:769][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.19-16.34.09:769][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.19-16.34.09:827][  0]LogFileCache: Scanning file cache for directory 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/' took 0.01s
+[2018.04.19-16.34.10:082][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.19-16.34.10:082][  0]LogWindows: Warning: URL: E:\Game Desinged\Git\bin\git.exe version
+[2018.04.19-16.34.10:082][  0]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.19-16.34.10:105][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-16.34.11:083][  0]LogSlate: Window 'Message' being destroyed
+[2018.04.19-16.34.11:083][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.19-16.34.11:085][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.19-16.34.11:086][  0]LightingResults: New page: Lighting Build
+[2018.04.19-16.34.11:089][  0]MapCheck: New page: Map Check
+[2018.04.19-16.34.11:089][  0]LightingResults: New page: Lighting Build
+[2018.04.19-16.34.11:100][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.19-16.34.11:102][  0]LoadErrors: New page: New Map
+[2018.04.19-16.34.11:236][  0]LogCollectionManager: Loaded 0 collections in 0.001339 seconds
+[2018.04.19-16.34.11:266][  0]LogFileCache: Scanning file cache for directory 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Collections/' took 0.01s
+[2018.04.19-16.34.11:266][  0]LogFileCache: Scanning file cache for directory 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Developers/Game/Collections/' took 0.01s
+[2018.04.19-16.34.11:266][  0]LogFileCache: Scanning file cache for directory 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Collections/' took 0.00s
+[2018.04.19-16.34.11:266][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.19-16.34.11:275][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2452 classes and 558 folders.
+[2018.04.19-16.34.11:281][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.19-16.34.11:319][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.19-16.34.11:324][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.04.19-16.34.11:371][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.04.19-16.34.11:371][  0]LogLoad: (Engine Initialization) Total time: 10.21 seconds
+[2018.04.19-16.34.11:371][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.19-16.34.11:398][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.19-16.34.11:400][  0]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-16.34.11:405][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-16.34.11:553][  1]LogAssetRegistry: Asset discovery search completed in 5.9471 seconds
+[2018.04.19-16.34.11:555][  1]LogRenderer: Reallocating scene render targets to support 1480x652 Format 10 NumSamples 1 (Frame:1).
+[2018.04.19-16.34.11:555][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.19-16.34.11:555][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000078 seconds (updated 0 objects)
+[2018.04.19-16.34.12:405][ 89]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.19-16.34.13:474][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.34.15:648][473]LogAIModule: Creating AISystem for world Bessica
+[2018.04.19-16.34.15:667][473]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.19-16.34.15:667][473]LightingResults: New page: Lighting Build
+[2018.04.19-16.34.15:668][473]LoadErrors: New page: Loading map: Bessica.umap
+[2018.04.19-16.34.15:668][473]MapCheck: New page: Map Check
+[2018.04.19-16.34.15:668][473]LightingResults: New page: Lighting Build
+[2018.04.19-16.34.15:682][473]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.19-16.34.15:713][473]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.19-16.34.15:756][473]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 42.699ms to complete.
+[2018.04.19-16.34.15:756][473]LogFileHelpers: Loading map 'Bessica' took 0.090
+[2018.04.19-16.34.33:479][574]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.19-16.34.35:877][857]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.19-16.34.36:763][961]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.19-16.34.37:549][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.19-16.34.37:665][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.19-16.34.38:112][111]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.19-16.34.39:341][255]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.19-16.34.39:411][262]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.19-16.34.43:442][722]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.19-16.34.43:464][723]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.19-16.34.44:388][830]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.19-16.34.44:455][836]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.19-16.34.53:427][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.34.53:486][914]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.19-16.34.53:500][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.19-16.34.53:501][914]PIE: New page: PIE session: Bessica (Apr 19, 2018, 2:34:53 AM)
+[2018.04.19-16.34.53:501][914]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica
+[2018.04.19-16.34.53:501][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000680s)
+[2018.04.19-16.34.53:502][914]LogAIModule: Creating AISystem for world Bessica
+[2018.04.19-16.34.53:502][914]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2018.04.19-16.34.53:502][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Bessica.Bessica to /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica.Bessica (0.001387s)
+[2018.04.19-16.34.53:514][914]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.19-16.34.53:524][914]LogInit: FAudioDevice initialized.
+[2018.04.19-16.34.53:803][914]LogSkeletalMesh: Skeletal Mesh found in DDC [7.492802ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.04.19-16.34.53:815][914]LogSkeletalMesh: Skeletal Mesh found in DDC [5.343874ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.04.19-16.34.53:868][914]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.19-16.34.53:870][914]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica.Bessica up for play (max tick rate 0) at 2018.04.19-09.34.53
+[2018.04.19-16.34.53:871][914]LogWorld: Bringing up level for play took: 0.000483
+[2018.04.19-16.34.53:874][914]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.04.19-16.34.53:876][914]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica 0.508
+[2018.04.19-16.35.07:348][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.35.13:770][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.35.17:153][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.35.20:929][387]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.19-16.35.20:938][387]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Game/Desktop/final good shit i swear/Bed_single.fbx)
+[2018.04.19-16.35.20:948][387]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.19-16.35.20:948][387]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.04.19-16.35.20:948][387]LogFbx: ItemName: Geometry, ItemCount : 2
+[2018.04.19-16.35.20:948][387]LogFbx: ItemName: Model, ItemCount : 4
+[2018.04.19-16.35.20:948][387]LogFbx: ItemName: Material, ItemCount : 4
+[2018.04.19-16.35.20:953][387]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Bed_single.fbx
+[2018.04.19-16.35.20:960][387]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.35.23:878][387]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.19-16.35.23:907][387]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Bed_single.fbx
+[2018.04.19-16.35.23:915][387]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.35.23:920][387]LogMaterial: Missing cached shader map for material carpetWhite, compiling. 
+[2018.04.19-16.35.23:950][387]LogStaticMesh: Building static mesh Bed_single_pillow_1...
+[2018.04.19-16.35.23:959][387]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.35.23:959][387]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.35.23:959][387]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.35.23:959][387]LogStaticMesh: Built static mesh [0.01s] /Game/Models_Props/Other/Bed_single_pillow_1.Bed_single_pillow_1
+[2018.04.19-16.35.23:977][387]LogMaterial: Missing cached shader map for material metal, compiling. 
+[2018.04.19-16.35.23:992][387]LogMaterial: Missing cached shader map for material wood, compiling. 
+[2018.04.19-16.35.24:002][387]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.35.24:007][387]LogMaterial: Missing cached shader map for material carpet, compiling. 
+[2018.04.19-16.35.24:019][387]LogStaticMesh: Building static mesh Bed_single_bedSingle...
+[2018.04.19-16.35.24:034][387]LogStaticMesh: Built static mesh [0.02s] /Game/Models_Props/Other/Bed_single_bedSingle.Bed_single_bedSingle
+[2018.04.19-16.35.24:046][387]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.19-16.35.24:667][438]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.04.19-16.35.28:285][592]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.04.19-16.35.28:285][592]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.04.19-16.35.28:285][592]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.04.19-16.35.28:285][592]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.19-16.35.28:285][592]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.19-16.35.29:382][709]LogSlate: Window 'Message Log' being destroyed
+[2018.04.19-16.35.36:751][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.35.44:106][407]LogActorFactory: Actor Factory created Bed_single_bedSingle
+[2018.04.19-16.35.45:691][595]LogActorFactory: Actor Factory created Bed_single_bedSingle
+[2018.04.19-16.35.50:138][ 91]Cmd: TRANSACTION UNDO
+[2018.04.19-16.35.50:138][ 91]LogEditorTransaction: Undo Create Actors
+[2018.04.19-16.35.52:700][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.35.52:865][406]LogActorFactory: Actor Factory created Bed_single_pillow_1
+[2018.04.19-16.35.56:217][802]LogActorFactory: Actor Factory created Bed_single_pillow_1
+[2018.04.19-16.35.57:072][891]Cmd: TRANSACTION UNDO
+[2018.04.19-16.35.57:072][891]LogEditorTransaction: Undo Create Actors
+[2018.04.19-16.36.16:730][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.36.21:818][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Bed_single/carpet" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Bed_single/carpet.uasset" SILENT=true
+[2018.04.19-16.36.21:833][800]LogSavePackage: Save=13.10ms
+[2018.04.19-16.36.21:833][800]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/carpet9C552ADE4E354544EB03849BBE273280.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Bed_single/carpet.uasset'
+[2018.04.19-16.36.21:834][800]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Bed_single/carpet.uasset
+[2018.04.19-16.36.21:850][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Bed_single/wood" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Bed_single/wood.uasset" SILENT=true
+[2018.04.19-16.36.21:869][800]LogSavePackage: Save=17.56ms
+[2018.04.19-16.36.21:870][800]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/wood86BAAC804DE7DD6526CF8A94AF3DD627.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Bed_single/wood.uasset'
+[2018.04.19-16.36.21:871][800]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Bed_single/wood.uasset
+[2018.04.19-16.36.21:885][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Bed_single/metal" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Bed_single/metal.uasset" SILENT=true
+[2018.04.19-16.36.21:903][800]LogSavePackage: Save=15.49ms
+[2018.04.19-16.36.21:903][800]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/metal2FF245D3449F977CE79ED982EBE13DD1.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Bed_single/metal.uasset'
+[2018.04.19-16.36.21:905][800]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Bed_single/metal.uasset
+[2018.04.19-16.36.21:933][800]LogSavePackage: Save=12.11ms
+[2018.04.19-16.36.21:933][800]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bed_single_bedSingle33931B984E1BEA2C751AD7B0DB76E059.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Bed_single/Bed_single_bedSingle.uasset'
+[2018.04.19-16.36.21:934][800]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Bed_single/Bed_single_bedSingle.uasset
+[2018.04.19-16.36.21:950][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Bed_single/carpetWhite" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Bed_single/carpetWhite.uasset" SILENT=true
+[2018.04.19-16.36.21:969][800]LogSavePackage: Save=17.26ms
+[2018.04.19-16.36.21:969][800]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/carpetWhite613F7C9448FDB791179FCA9BE3B8118E.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Bed_single/carpetWhite.uasset'
+[2018.04.19-16.36.21:971][800]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Bed_single/carpetWhite.uasset
+[2018.04.19-16.36.21:985][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Bed_single/Bed_single_pillow_1" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Bed_single/Bed_single_pillow_1.uasset" SILENT=true
+[2018.04.19-16.36.22:007][800]LogSavePackage: Save=20.35ms
+[2018.04.19-16.36.22:007][800]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bed_single_pillow_1E7EF7CD04CE82B18252EB19F686F16D7.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Bed_single/Bed_single_pillow_1.uasset'
+[2018.04.19-16.36.22:009][800]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Bed_single/Bed_single_pillow_1.uasset
+[2018.04.19-16.36.45:815][375]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Game/Desktop/final good shit i swear/Books.fbx)
+[2018.04.19-16.36.45:820][375]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.19-16.36.45:820][375]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.04.19-16.36.45:820][375]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.19-16.36.45:820][375]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.19-16.36.45:820][375]LogFbx: ItemName: Material, ItemCount : 4
+[2018.04.19-16.36.45:825][375]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Books.fbx
+[2018.04.19-16.36.45:832][375]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.36.47:150][375]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.19-16.36.47:179][375]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Books.fbx
+[2018.04.19-16.36.47:186][375]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.36.47:191][375]LogMaterial: Missing cached shader map for material carpetDarker, compiling. 
+[2018.04.19-16.36.47:203][375]LogMaterial: Missing cached shader map for material plant, compiling. 
+[2018.04.19-16.36.47:211][375]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.36.47:211][375]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.36.47:211][375]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.36.47:216][375]LogMaterial: Missing cached shader map for material carpetWhite_001, compiling. 
+[2018.04.19-16.36.47:228][375]LogMaterial: Missing cached shader map for material metal_001, compiling. 
+[2018.04.19-16.36.47:237][375]LogStaticMesh: Building static mesh Books...
+[2018.04.19-16.36.47:251][375]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.04.19-16.36.47:251][375]LogStaticMesh: Built static mesh [0.01s] /Game/Models_Props/NewFolder/Books.Books
+[2018.04.19-16.36.47:266][375]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.19-16.36.47:945][434]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.04.19-16.36.49:100][551]LogSlate: Window 'Message Log' being destroyed
+[2018.04.19-16.36.49:446][586]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.04.19-16.36.49:462][586]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.04.19-16.36.50:482][688]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.04.19-16.36.50:888][729]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.19-16.36.51:125][752]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.19-16.36.55:119][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Books/metal_001" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Books/metal_001.uasset" SILENT=true
+[2018.04.19-16.36.55:133][204]LogSavePackage: Save=12.72ms
+[2018.04.19-16.36.55:133][204]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/metal_00144C72BE24726B6BCB86A8C866DCD210C.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Books/metal_001.uasset'
+[2018.04.19-16.36.55:135][204]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Books/metal_001.uasset
+[2018.04.19-16.36.55:146][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Books/carpetWhite_001" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Books/carpetWhite_001.uasset" SILENT=true
+[2018.04.19-16.36.55:159][204]LogSavePackage: Save=11.74ms
+[2018.04.19-16.36.55:159][204]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/carpetWhite_001A0F013144459C7916250C699762551F7.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Books/carpetWhite_001.uasset'
+[2018.04.19-16.36.55:160][204]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Books/carpetWhite_001.uasset
+[2018.04.19-16.36.55:174][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Books/plant" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Books/plant.uasset" SILENT=true
+[2018.04.19-16.36.55:188][204]LogSavePackage: Save=12.03ms
+[2018.04.19-16.36.55:188][204]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/plantB1B65BC54AA0C003C9B057BEEFB10A28.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Books/plant.uasset'
+[2018.04.19-16.36.55:189][204]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Books/plant.uasset
+[2018.04.19-16.36.55:203][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Books/carpetDarker" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Books/carpetDarker.uasset" SILENT=true
+[2018.04.19-16.36.55:228][204]LogSavePackage: Save=23.62ms
+[2018.04.19-16.36.55:228][204]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/carpetDarkerBE6EBCE1426266487C7D63A142B65188.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Books/carpetDarker.uasset'
+[2018.04.19-16.36.55:230][204]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Books/carpetDarker.uasset
+[2018.04.19-16.36.55:246][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Books/Books" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Books/Books.uasset" SILENT=true
+[2018.04.19-16.36.55:265][204]LogSavePackage: Save=17.78ms
+[2018.04.19-16.36.55:265][204]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Books787BF856478605BC87ADF2A6995A0823.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Books/Books.uasset'
+[2018.04.19-16.36.55:267][204]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Books/Books.uasset
+[2018.04.19-16.37.04:388][239]LogActorFactory: Actor Factory created Books
+[2018.04.19-16.37.05:212][335]LogActorFactory: Actor Factory created Books
+[2018.04.19-16.37.06:321][455]Cmd: TRANSACTION UNDO
+[2018.04.19-16.37.06:321][455]LogEditorTransaction: Undo Create Actors
+[2018.04.19-16.37.07:667][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.37.34:721][889]LogRenderer: Reallocating scene render targets to support 1480x660 Format 10 NumSamples 1 (Frame:18494).
+[2018.04.19-16.37.34:783][889]LogRenderer: Reallocating scene render targets to support 1480x676 Format 10 NumSamples 1 (Frame:18495).
+[2018.04.19-16.37.34:993][889]LogRenderer: Reallocating scene render targets to support 1480x684 Format 10 NumSamples 1 (Frame:18498).
+[2018.04.19-16.37.35:060][889]LogRenderer: Reallocating scene render targets to support 1480x692 Format 10 NumSamples 1 (Frame:18499).
+[2018.04.19-16.37.35:125][889]LogRenderer: Reallocating scene render targets to support 1480x696 Format 10 NumSamples 1 (Frame:18500).
+[2018.04.19-16.37.35:228][889]LogRenderer: Reallocating scene render targets to support 1480x704 Format 10 NumSamples 1 (Frame:18502).
+[2018.04.19-16.37.35:290][889]LogRenderer: Reallocating scene render targets to support 1480x720 Format 10 NumSamples 1 (Frame:18503).
+[2018.04.19-16.37.35:351][889]LogRenderer: Reallocating scene render targets to support 1480x732 Format 10 NumSamples 1 (Frame:18504).
+[2018.04.19-16.37.53:902][787]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Game/Desktop/final good shit i swear/Ceiling_fan_round.fbx)
+[2018.04.19-16.37.53:910][787]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.19-16.37.53:910][787]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.04.19-16.37.53:910][787]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.19-16.37.53:910][787]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.19-16.37.53:911][787]LogFbx: ItemName: Material, ItemCount : 3
+[2018.04.19-16.37.53:916][787]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Ceiling_fan_round.fbx
+[2018.04.19-16.37.53:922][787]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.37.55:149][787]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.19-16.37.55:177][787]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Ceiling_fan_round.fbx
+[2018.04.19-16.37.55:184][787]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.37.55:196][787]LogMaterial: Missing cached shader map for material lamp, compiling. 
+[2018.04.19-16.37.55:208][787]LogMaterial: Missing cached shader map for material wood_003, compiling. 
+[2018.04.19-16.37.55:216][787]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.37.55:216][787]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.37.55:216][787]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.37.55:221][787]LogMaterial: Missing cached shader map for material metalLight, compiling. 
+[2018.04.19-16.37.55:242][787]LogStaticMesh: Building static mesh Ceiling_fan_round...
+[2018.04.19-16.37.55:265][787]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.04.19-16.37.55:265][787]LogStaticMesh: Built static mesh [0.02s] /Game/Models_Props/Ceiling_Fan/Ceiling_fan_round.Ceiling_fan_round
+[2018.04.19-16.37.55:266][787]LogStaticMesh: Warning: Ceiling_fan_round has degenerate tangent bases which will result in incorrect shading.  
+[2018.04.19-16.37.55:266][787]LogStaticMesh: Warning: Ceiling_fan_round has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.04.19-16.37.55:279][787]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.19-16.37.55:279][787]FBXImport: Warning: Ceiling_fan_round has degenerate tangent bases which will result in incorrect shading.   
+[2018.04.19-16.37.55:279][787]FBXImport: Warning: Ceiling_fan_round has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.04.19-16.37.55:934][855]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.04.19-16.37.56:423][910]LogSlate: Window 'Message Log' being destroyed
+[2018.04.19-16.37.57:442][ 23]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.04.19-16.37.57:468][ 26]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.19-16.37.58:499][130]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.19-16.38.19:484][711]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Game/Desktop/final good shit i swear/Chair.fbx)
+[2018.04.19-16.38.19:489][711]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.19-16.38.19:489][711]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.04.19-16.38.19:489][711]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.19-16.38.19:489][711]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.19-16.38.19:489][711]LogFbx: ItemName: Material, ItemCount : 1
+[2018.04.19-16.38.19:494][711]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Chair.fbx
+[2018.04.19-16.38.19:501][711]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.38.20:823][711]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.19-16.38.20:853][711]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Chair.fbx
+[2018.04.19-16.38.20:859][711]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.38.20:864][711]LogMaterial: Missing cached shader map for material wood_004, compiling. 
+[2018.04.19-16.38.20:873][711]LogStaticMesh: Building static mesh Chair...
+[2018.04.19-16.38.20:889][711]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.38.20:889][711]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.38.20:889][711]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.38.20:889][711]LogStaticMesh: Built static mesh [0.02s] /Game/Models_Props/Chair/Chair.Chair
+[2018.04.19-16.38.20:910][711]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.19-16.38.23:124][969]LogSlate: Window 'Message Log' being destroyed
+[2018.04.19-16.38.41:680][908]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Game/Desktop/final good shit i swear/Cofe_table.fbx)
+[2018.04.19-16.38.41:691][908]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.19-16.38.41:691][908]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.04.19-16.38.41:691][908]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.19-16.38.41:691][908]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.19-16.38.41:691][908]LogFbx: ItemName: Material, ItemCount : 1
+[2018.04.19-16.38.41:696][908]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Cofe_table.fbx
+[2018.04.19-16.38.41:702][908]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.38.42:953][908]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.19-16.38.42:987][908]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Cofe_table.fbx
+[2018.04.19-16.38.42:994][908]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.38.43:007][908]LogMaterial: Missing cached shader map for material wood_005, compiling. 
+[2018.04.19-16.38.43:028][908]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.38.43:028][908]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.38.43:028][908]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.38.43:028][908]LogStaticMesh: Building static mesh Cofe_table...
+[2018.04.19-16.38.43:043][908]LogStaticMesh: Built static mesh [0.02s] /Game/Models_Props/Tables/Cofe_table.Cofe_table
+[2018.04.19-16.38.43:061][908]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.19-16.38.44:762][104]LogSlate: Window 'Message Log' being destroyed
+[2018.04.19-16.38.44:764][104]LogSlate: Window 'Message Log' being destroyed
+[2018.04.19-16.39.01:074][ 56]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Game/Desktop/final good shit i swear/Computer.fbx)
+[2018.04.19-16.39.01:078][ 56]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.19-16.39.01:078][ 56]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.04.19-16.39.01:078][ 56]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.19-16.39.01:078][ 56]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.19-16.39.01:078][ 56]LogFbx: ItemName: Material, ItemCount : 2
+[2018.04.19-16.39.01:083][ 56]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Computer.fbx
+[2018.04.19-16.39.01:090][ 56]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.39.02:067][ 56]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.19-16.39.02:096][ 56]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Computer.fbx
+[2018.04.19-16.39.02:103][ 56]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.39.02:115][ 56]LogMaterial: Missing cached shader map for material metal_002, compiling. 
+[2018.04.19-16.39.02:127][ 56]LogMaterial: Missing cached shader map for material metalDark, compiling. 
+[2018.04.19-16.39.02:135][ 56]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.39.02:135][ 56]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.39.02:135][ 56]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.39.02:136][ 56]LogStaticMesh: Building static mesh Computer...
+[2018.04.19-16.39.02:150][ 56]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.39.02:150][ 56]LogStaticMesh: Built static mesh [0.01s] /Game/Models_Props/Computer/Computer.Computer
+[2018.04.19-16.39.02:163][ 56]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.19-16.39.02:495][ 83]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.39.03:912][232]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.39.04:135][257]LogSlate: Window 'Message Log' being destroyed
+[2018.04.19-16.39.06:753][349]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Game/Desktop/final good shit i swear/Computer_keyboard.fbx)
+[2018.04.19-16.39.06:763][349]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.19-16.39.06:763][349]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.04.19-16.39.06:763][349]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.19-16.39.06:763][349]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.19-16.39.06:763][349]LogFbx: ItemName: Material, ItemCount : 2
+[2018.04.19-16.39.06:767][349]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Computer_keyboard.fbx
+[2018.04.19-16.39.06:774][349]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.39.07:922][349]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.19-16.39.07:951][349]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Computer_keyboard.fbx
+[2018.04.19-16.39.07:958][349]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.39.07:964][349]LogMaterial: Missing cached shader map for material metalMedium, compiling. 
+[2018.04.19-16.39.07:986][349]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.39.07:986][349]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.39.07:986][349]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.39.07:986][349]LogMaterial: Missing cached shader map for material metalDark_002, compiling. 
+[2018.04.19-16.39.07:999][349]LogStaticMesh: Building static mesh Computer_keyboard...
+[2018.04.19-16.39.08:003][349]LogStaticMesh: Built static mesh [0.00s] /Game/Models_Props/Computer/Computer_keyboard.Computer_keyboard
+[2018.04.19-16.39.08:014][349]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.39.08:015][349]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.19-16.39.08:344][376]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.39.09:016][451]LogSlate: Window 'Message Log' being destroyed
+[2018.04.19-16.39.09:796][527]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.39.11:404][545]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Game/Desktop/final good shit i swear/Computer_mouse.fbx)
+[2018.04.19-16.39.11:408][545]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.19-16.39.11:408][545]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.04.19-16.39.11:408][545]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.19-16.39.11:408][545]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.19-16.39.11:408][545]LogFbx: ItemName: Material, ItemCount : 1
+[2018.04.19-16.39.11:413][545]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Computer_mouse.fbx
+[2018.04.19-16.39.11:419][545]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.39.12:622][545]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.19-16.39.12:651][545]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Computer_mouse.fbx
+[2018.04.19-16.39.12:658][545]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.39.12:666][545]LogMaterial: Missing cached shader map for material metalDark_001, compiling. 
+[2018.04.19-16.39.12:679][545]LogStaticMesh: Building static mesh Computer_mouse...
+[2018.04.19-16.39.12:696][545]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.39.12:696][545]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.39.12:696][545]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.39.12:696][545]LogStaticMesh: Built static mesh [0.02s] /Game/Models_Props/Computer/Computer_mouse.Computer_mouse
+[2018.04.19-16.39.12:709][545]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.19-16.39.13:900][677]LogSlate: Window 'Message Log' being destroyed
+[2018.04.19-16.39.23:351][269]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Game/Desktop/final good shit i swear/Desk.fbx)
+[2018.04.19-16.39.23:357][269]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.19-16.39.23:357][269]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.04.19-16.39.23:357][269]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.19-16.39.23:357][269]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.19-16.39.23:358][269]LogFbx: ItemName: Material, ItemCount : 2
+[2018.04.19-16.39.23:362][269]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Desk.fbx
+[2018.04.19-16.39.23:369][269]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.39.24:424][269]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.19-16.39.24:453][269]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Desk.fbx
+[2018.04.19-16.39.24:460][269]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.39.24:468][269]LogMaterial: Missing cached shader map for material metal_003, compiling. 
+[2018.04.19-16.39.24:481][269]LogMaterial: Missing cached shader map for material wood_006, compiling. 
+[2018.04.19-16.39.24:489][269]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.39.24:489][269]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.39.24:489][269]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.39.24:490][269]LogStaticMesh: Building static mesh Desk...
+[2018.04.19-16.39.24:505][269]LogStaticMesh: Built static mesh [0.01s] /Game/Models_Props/Tables/Desk.Desk
+[2018.04.19-16.39.24:517][269]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.39.24:519][269]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.19-16.39.24:864][293]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.39.26:330][448]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.39.29:408][546]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Game/Desktop/final good shit i swear/Desk_corner.fbx)
+[2018.04.19-16.39.29:413][546]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.19-16.39.29:413][546]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.04.19-16.39.29:413][546]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.19-16.39.29:413][546]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.19-16.39.29:413][546]LogFbx: ItemName: Material, ItemCount : 2
+[2018.04.19-16.39.29:417][546]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Desk_corner.fbx
+[2018.04.19-16.39.29:424][546]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.39.30:441][546]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.19-16.39.30:471][546]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Desk_corner.fbx
+[2018.04.19-16.39.30:478][546]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.39.30:486][546]LogMaterial: Missing cached shader map for material wood_007, compiling. 
+[2018.04.19-16.39.30:498][546]LogMaterial: Missing cached shader map for material metal_004, compiling. 
+[2018.04.19-16.39.30:505][546]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.39.30:505][546]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.39.30:505][546]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.39.30:507][546]LogStaticMesh: Building static mesh Desk_corner...
+[2018.04.19-16.39.30:537][546]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.39.30:538][546]LogStaticMesh: Built static mesh [0.03s] /Game/Models_Props/Tables/Desk_corner.Desk_corner
+[2018.04.19-16.39.30:550][546]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.19-16.39.30:871][574]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.39.31:440][639]LogSlate: Window 'Message Log' being destroyed
+[2018.04.19-16.39.32:261][733]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.39.44:122][694]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Game/Desktop/final good shit i swear/Door.fbx)
+[2018.04.19-16.39.44:127][694]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.19-16.39.44:127][694]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.04.19-16.39.44:127][694]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.19-16.39.44:127][694]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.19-16.39.44:127][694]LogFbx: ItemName: Material, ItemCount : 2
+[2018.04.19-16.39.44:132][694]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Door.fbx
+[2018.04.19-16.39.44:138][694]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.39.45:376][694]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.19-16.39.45:405][694]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Door.fbx
+[2018.04.19-16.39.45:412][694]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.39.45:418][694]LogMaterial: Missing cached shader map for material metal_002, compiling. 
+[2018.04.19-16.39.45:431][694]LogMaterial: Missing cached shader map for material wood_011, compiling. 
+[2018.04.19-16.39.45:446][694]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.39.45:446][694]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.39.45:446][694]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.39.45:449][694]LogStaticMesh: Building static mesh Door...
+[2018.04.19-16.39.45:468][694]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.39.45:468][694]LogStaticMesh: Built static mesh [0.02s] /Game/Models_Props/Door/Door.Door
+[2018.04.19-16.39.45:481][694]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.19-16.39.45:829][719]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.39.47:343][857]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.39.55:228][789]LogSlate: Window 'Message Log' being destroyed
+[2018.04.19-16.39.58:652][  2]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Game/Desktop/final good shit i swear/Lamp.fbx)
+[2018.04.19-16.39.58:660][  2]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.19-16.39.58:660][  2]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.04.19-16.39.58:660][  2]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.19-16.39.58:660][  2]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.19-16.39.58:660][  2]LogFbx: ItemName: Material, ItemCount : 2
+[2018.04.19-16.39.58:665][  2]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Lamp.fbx
+[2018.04.19-16.39.58:672][  2]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.39.59:734][  2]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.19-16.39.59:763][  2]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Lamp.fbx
+[2018.04.19-16.39.59:771][  2]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.39.59:775][  2]LogMaterial: Missing cached shader map for material metal, compiling. 
+[2018.04.19-16.39.59:786][  2]LogMaterial: Missing cached shader map for material lamp1, compiling. 
+[2018.04.19-16.39.59:793][  2]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.39.59:793][  2]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.39.59:794][  2]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.39.59:795][  2]LogStaticMesh: Building static mesh Lamp...
+[2018.04.19-16.39.59:801][  2]LogStaticMesh: Built static mesh [0.01s] /Game/Models_Props/Light/Lamp.Lamp
+[2018.04.19-16.39.59:812][  2]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.39.59:812][  2]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.19-16.40.00:169][ 30]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.40.00:968][117]LogSlate: Window 'Message Log' being destroyed
+[2018.04.19-16.40.01:601][178]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.40.05:549][439]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Game/Desktop/final good shit i swear/Laptop.fbx)
+[2018.04.19-16.40.05:554][439]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.19-16.40.05:554][439]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.04.19-16.40.05:554][439]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.19-16.40.05:554][439]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.19-16.40.05:554][439]LogFbx: ItemName: Material, ItemCount : 3
+[2018.04.19-16.40.05:559][439]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Laptop.fbx
+[2018.04.19-16.40.05:566][439]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.40.06:439][439]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.19-16.40.06:468][439]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Laptop.fbx
+[2018.04.19-16.40.06:475][439]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.40.06:480][439]LogMaterial: Missing cached shader map for material metal_005, compiling. 
+[2018.04.19-16.40.06:491][439]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.40.06:491][439]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.40.06:491][439]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.40.06:491][439]LogMaterial: Missing cached shader map for material metalMedium_002, compiling. 
+[2018.04.19-16.40.06:506][439]LogMaterial: Missing cached shader map for material metalDark_003, compiling. 
+[2018.04.19-16.40.06:524][439]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.40.06:526][439]LogStaticMesh: Building static mesh Laptop...
+[2018.04.19-16.40.06:533][439]LogStaticMesh: Built static mesh [0.01s] /Game/Models_Props/Computer/Laptop.Laptop
+[2018.04.19-16.40.06:545][439]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.19-16.40.06:858][461]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.04.19-16.40.07:766][559]LogSlate: Window 'Message Log' being destroyed
+[2018.04.19-16.40.08:315][623]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.04.19-16.40.08:331][625]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.19-16.40.09:271][658]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.19-16.40.11:541][744]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Game/Desktop/final good shit i swear/Lounge_chair.fbx)
+[2018.04.19-16.40.11:545][744]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.19-16.40.11:546][744]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.04.19-16.40.11:546][744]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.19-16.40.11:546][744]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.19-16.40.11:546][744]LogFbx: ItemName: Material, ItemCount : 2
+[2018.04.19-16.40.11:550][744]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Lounge_chair.fbx
+[2018.04.19-16.40.11:557][744]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.40.12:451][744]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.19-16.40.12:481][744]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Lounge_chair.fbx
+[2018.04.19-16.40.12:488][744]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.40.12:492][744]LogMaterial: Missing cached shader map for material wood_001, compiling. 
+[2018.04.19-16.40.12:513][744]LogMaterial: Missing cached shader map for material carpet, compiling. 
+[2018.04.19-16.40.12:520][744]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.40.12:520][744]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.40.12:520][744]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.40.12:522][744]LogStaticMesh: Building static mesh Lounge_chair...
+[2018.04.19-16.40.12:530][744]LogStaticMesh: Built static mesh [0.01s] /Game/Models_Props/Chair/Lounge_chair.Lounge_chair
+[2018.04.19-16.40.12:543][744]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.19-16.40.12:553][744]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.40.12:911][770]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.40.14:807][836]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.40.14:814][836]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Game/Desktop/final good shit i swear/Lounge_chair_corner.fbx)
+[2018.04.19-16.40.14:819][836]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.19-16.40.14:819][836]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.04.19-16.40.14:819][836]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.19-16.40.14:819][836]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.19-16.40.14:820][836]LogFbx: ItemName: Material, ItemCount : 2
+[2018.04.19-16.40.14:825][836]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Lounge_chair_corner.fbx
+[2018.04.19-16.40.14:832][836]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.40.15:962][836]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.19-16.40.15:990][836]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Lounge_chair_corner.fbx
+[2018.04.19-16.40.15:997][836]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.40.16:001][836]LogMaterial: Missing cached shader map for material wood_002, compiling. 
+[2018.04.19-16.40.16:014][836]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.40.16:014][836]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.40.16:014][836]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.40.16:014][836]LogMaterial: Missing cached shader map for material carpet_001, compiling. 
+[2018.04.19-16.40.16:022][836]LogStaticMesh: Building static mesh Lounge_chair_corner...
+[2018.04.19-16.40.16:032][836]LogStaticMesh: Built static mesh [0.01s] /Game/Models_Props/Chair/Lounge_chair_corner.Lounge_chair_corner
+[2018.04.19-16.40.16:034][836]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.40.16:045][836]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.19-16.40.16:353][866]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.40.17:125][953]LogSlate: Window 'Message Log' being destroyed
+[2018.04.19-16.40.17:756][ 24]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.40.27:741][853]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Game/Desktop/final good shit i swear/Plant1.fbx)
+[2018.04.19-16.40.27:746][853]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.19-16.40.27:746][853]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.04.19-16.40.27:746][853]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.19-16.40.27:746][853]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.19-16.40.27:746][853]LogFbx: ItemName: Material, ItemCount : 2
+[2018.04.19-16.40.27:751][853]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Plant1.fbx
+[2018.04.19-16.40.27:758][853]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.40.28:708][853]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.19-16.40.28:737][853]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Plant1.fbx
+[2018.04.19-16.40.28:745][853]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.40.28:749][853]LogMaterial: Missing cached shader map for material wood_005, compiling. 
+[2018.04.19-16.40.28:761][853]LogMaterial: Missing cached shader map for material plant_002, compiling. 
+[2018.04.19-16.40.28:769][853]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.40.28:769][853]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.40.28:769][853]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.40.28:770][853]LogStaticMesh: Building static mesh Plant1...
+[2018.04.19-16.40.28:780][853]LogStaticMesh: Built static mesh [0.01s] /Game/Models_Props/Plants/Plant1.Plant1
+[2018.04.19-16.40.28:789][853]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.40.28:790][853]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.19-16.40.29:137][878]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.40.31:713][971]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.40.31:721][971]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Game/Desktop/final good shit i swear/Plant2.fbx)
+[2018.04.19-16.40.31:732][971]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.19-16.40.31:732][971]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.04.19-16.40.31:732][971]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.19-16.40.31:732][971]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.19-16.40.31:732][971]LogFbx: ItemName: Material, ItemCount : 2
+[2018.04.19-16.40.31:737][971]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Plant2.fbx
+[2018.04.19-16.40.31:743][971]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.40.32:787][971]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.19-16.40.32:816][971]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Plant2.fbx
+[2018.04.19-16.40.32:823][971]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.40.32:828][971]LogMaterial: Missing cached shader map for material wood_006, compiling. 
+[2018.04.19-16.40.32:837][971]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.40.32:837][971]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.40.32:837][971]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.40.32:841][971]LogMaterial: Missing cached shader map for material plant_003, compiling. 
+[2018.04.19-16.40.32:851][971]LogStaticMesh: Building static mesh Plant2...
+[2018.04.19-16.40.32:865][971]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.40.32:865][971]LogStaticMesh: Built static mesh [0.01s] /Game/Models_Props/Plants/Plant2.Plant2
+[2018.04.19-16.40.32:879][971]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.19-16.40.33:217][999]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.40.35:155][ 73]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.40.35:162][ 73]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Game/Desktop/final good shit i swear/Plant3.fbx)
+[2018.04.19-16.40.35:171][ 73]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.19-16.40.35:171][ 73]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.04.19-16.40.35:171][ 73]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.19-16.40.35:171][ 73]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.19-16.40.35:171][ 73]LogFbx: ItemName: Material, ItemCount : 3
+[2018.04.19-16.40.35:176][ 73]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Plant3.fbx
+[2018.04.19-16.40.35:183][ 73]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.40.36:190][ 73]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.19-16.40.36:219][ 73]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Plant3.fbx
+[2018.04.19-16.40.36:226][ 73]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.40.36:240][ 73]LogMaterial: Missing cached shader map for material wood_007, compiling. 
+[2018.04.19-16.40.36:252][ 73]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.40.36:252][ 73]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.40.36:252][ 73]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.40.36:252][ 73]LogMaterial: Missing cached shader map for material woodDark, compiling. 
+[2018.04.19-16.40.36:264][ 73]LogMaterial: Missing cached shader map for material plant_004, compiling. 
+[2018.04.19-16.40.36:274][ 73]LogStaticMesh: Building static mesh Plant3...
+[2018.04.19-16.40.36:289][ 73]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.04.19-16.40.36:289][ 73]LogStaticMesh: Built static mesh [0.01s] /Game/Models_Props/Plants/Plant3.Plant3
+[2018.04.19-16.40.36:304][ 73]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.19-16.40.36:612][ 99]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.04.19-16.40.37:472][196]LogSlate: Window 'Message Log' being destroyed
+[2018.04.19-16.40.38:029][254]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.04.19-16.40.38:048][256]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.19-16.40.39:190][377]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.19-16.40.49:860][233]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Game/Desktop/final good shit i swear/Shelves.fbx)
+[2018.04.19-16.40.49:865][233]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.19-16.40.49:865][233]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.04.19-16.40.49:865][233]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.19-16.40.49:865][233]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.19-16.40.49:865][233]LogFbx: ItemName: Material, ItemCount : 1
+[2018.04.19-16.40.49:870][233]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Shelves.fbx
+[2018.04.19-16.40.49:877][233]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.40.50:824][233]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.19-16.40.50:854][233]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Shelves.fbx
+[2018.04.19-16.40.50:861][233]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.40.50:870][233]LogMaterial: Missing cached shader map for material wood_001, compiling. 
+[2018.04.19-16.40.50:880][233]LogStaticMesh: Building static mesh Shelves...
+[2018.04.19-16.40.50:894][233]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.40.50:894][233]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.40.50:894][233]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.40.50:894][233]LogStaticMesh: Built static mesh [0.01s] /Game/Models_Props/Shelves/Shelves.Shelves
+[2018.04.19-16.40.50:911][233]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.19-16.40.53:525][356]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Game/Desktop/final good shit i swear/Shelves_low.fbx)
+[2018.04.19-16.40.53:530][356]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.19-16.40.53:530][356]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.04.19-16.40.53:530][356]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.19-16.40.53:530][356]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.19-16.40.53:530][356]LogFbx: ItemName: Material, ItemCount : 1
+[2018.04.19-16.40.53:535][356]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Shelves_low.fbx
+[2018.04.19-16.40.53:542][356]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.40.54:575][356]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.19-16.40.54:605][356]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Shelves_low.fbx
+[2018.04.19-16.40.54:612][356]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.40.54:619][356]LogMaterial: Missing cached shader map for material wood_002, compiling. 
+[2018.04.19-16.40.54:636][356]LogStaticMesh: Building static mesh Shelves_low...
+[2018.04.19-16.40.54:648][356]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.40.54:648][356]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.40.54:648][356]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.40.54:648][356]LogStaticMesh: Built static mesh [0.01s] /Game/Models_Props/Shelves/Shelves_low.Shelves_low
+[2018.04.19-16.40.54:670][356]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.19-16.40.55:822][488]LogSlate: Window 'Message Log' being destroyed
+[2018.04.19-16.41.03:893][866]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Game/Desktop/final good shit i swear/Stool.fbx)
+[2018.04.19-16.41.03:900][866]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.19-16.41.03:900][866]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.04.19-16.41.03:900][866]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.19-16.41.03:900][866]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.19-16.41.03:900][866]LogFbx: ItemName: Material, ItemCount : 2
+[2018.04.19-16.41.03:905][866]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Stool.fbx
+[2018.04.19-16.41.03:912][866]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.41.04:872][866]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.19-16.41.04:901][866]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Stool.fbx
+[2018.04.19-16.41.04:909][866]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.41.04:913][866]LogMaterial: Missing cached shader map for material wood_009, compiling. 
+[2018.04.19-16.41.04:924][866]LogMaterial: Missing cached shader map for material carpet_002, compiling. 
+[2018.04.19-16.41.04:932][866]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.41.04:932][866]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.41.04:932][866]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.41.04:935][866]LogStaticMesh: Building static mesh Stool...
+[2018.04.19-16.41.04:964][866]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.41.04:965][866]LogStaticMesh: Built static mesh [0.03s] /Game/Models_Props/Chair/Stool.Stool
+[2018.04.19-16.41.04:977][866]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.19-16.41.05:247][881]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.41.07:240][972]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.41.07:249][972]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Game/Desktop/final good shit i swear/Swivel_chair.fbx)
+[2018.04.19-16.41.07:256][972]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.19-16.41.07:256][972]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.04.19-16.41.07:256][972]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.19-16.41.07:256][972]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.19-16.41.07:256][972]LogFbx: ItemName: Material, ItemCount : 2
+[2018.04.19-16.41.07:261][972]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Swivel_chair.fbx
+[2018.04.19-16.41.07:273][972]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.41.08:235][972]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.19-16.41.08:264][972]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Swivel_chair.fbx
+[2018.04.19-16.41.08:272][972]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.41.08:277][972]LogMaterial: Missing cached shader map for material metalMedium_001, compiling. 
+[2018.04.19-16.41.08:286][972]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.41.08:286][972]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.41.08:286][972]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.41.08:290][972]LogMaterial: Missing cached shader map for material carpet_003, compiling. 
+[2018.04.19-16.41.08:299][972]LogStaticMesh: Building static mesh Swivel_chair...
+[2018.04.19-16.41.08:353][972]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.41.08:353][972]LogStaticMesh: Built static mesh [0.05s] /Game/Models_Props/Chair/Swivel_chair.Swivel_chair
+[2018.04.19-16.41.08:367][972]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.19-16.41.08:632][991]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.41.09:744][108]LogSlate: Window 'Message Log' being destroyed
+[2018.04.19-16.41.10:055][144]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.41.16:029][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Game/Desktop/final good shit i swear/Table.fbx)
+[2018.04.19-16.41.16:037][455]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.19-16.41.16:037][455]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2018.04.19-16.41.16:037][455]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.19-16.41.16:037][455]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.19-16.41.16:037][455]LogFbx: ItemName: Material, ItemCount : 1
+[2018.04.19-16.41.16:042][455]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Table.fbx
+[2018.04.19-16.41.16:048][455]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.41.17:064][455]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.19-16.41.17:094][455]LogFbx: Loading FBX Scene from ../../../../../../Users/Game/Desktop/final good shit i swear/Table.fbx
+[2018.04.19-16.41.17:102][455]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.19-16.41.17:107][455]LogMaterial: Missing cached shader map for material wood, compiling. 
+[2018.04.19-16.41.17:116][455]LogStaticMesh: Building static mesh Table...
+[2018.04.19-16.41.17:136][455]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.19-16.41.17:137][455]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.19-16.41.17:137][455]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.19-16.41.17:137][455]LogStaticMesh: Built static mesh [0.02s] /Game/Models_Props/Tables/Table.Table
+[2018.04.19-16.41.17:151][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.19-16.41.18:541][603]LogSlate: Window 'Message Log' being destroyed
+[2018.04.19-16.42.11:386][111]LogSlate: Window 'Source Control Login' being destroyed
+[2018.04.19-16.42.30:429][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Ceiling_Fan/metalLight" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Ceiling_Fan/metalLight.uasset" SILENT=true
+[2018.04.19-16.42.30:445][203]LogSavePackage: Save=14.78ms
+[2018.04.19-16.42.30:445][203]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/metalLight1A35A1C9434BC0F3BFE6BF9C7D60276F.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Ceiling_Fan/metalLight.uasset'
+[2018.04.19-16.42.30:446][203]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Ceiling_Fan/metalLight.uasset
+[2018.04.19-16.42.30:868][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Ceiling_Fan/wood_003" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Ceiling_Fan/wood_003.uasset" SILENT=true
+[2018.04.19-16.42.30:881][203]LogSavePackage: Save=11.84ms
+[2018.04.19-16.42.30:881][203]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/wood_003BCE4979C4DC19853DD6C04944ECFFDB9.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Ceiling_Fan/wood_003.uasset'
+[2018.04.19-16.42.30:883][203]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Ceiling_Fan/wood_003.uasset
+[2018.04.19-16.42.31:198][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Ceiling_Fan/lamp" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Ceiling_Fan/lamp.uasset" SILENT=true
+[2018.04.19-16.42.31:215][203]LogSavePackage: Save=14.78ms
+[2018.04.19-16.42.31:215][203]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/lampB7E0D09F4CF9F0D610EEC380924B41C4.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Ceiling_Fan/lamp.uasset'
+[2018.04.19-16.42.31:218][203]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Ceiling_Fan/lamp.uasset
+[2018.04.19-16.42.31:745][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Ceiling_Fan/Ceiling_fan_round" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Ceiling_Fan/Ceiling_fan_round.uasset" SILENT=true
+[2018.04.19-16.42.31:765][203]LogSavePackage: Save=19.03ms
+[2018.04.19-16.42.31:765][203]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Ceiling_fan_roundF4850CEF47AF259FA99D1EB81DF16D3E.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Ceiling_Fan/Ceiling_fan_round.uasset'
+[2018.04.19-16.42.31:768][203]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Ceiling_Fan/Ceiling_fan_round.uasset
+[2018.04.19-16.42.35:785][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Chair/carpet_001" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/carpet_001.uasset" SILENT=true
+[2018.04.19-16.42.35:799][604]LogSavePackage: Save=11.94ms
+[2018.04.19-16.42.35:799][604]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/carpet_001308903AD48306308C5EDA798632FC8D6.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/carpet_001.uasset'
+[2018.04.19-16.42.35:800][604]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/carpet_001.uasset
+[2018.04.19-16.42.36:084][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Chair/wood_002" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/wood_002.uasset" SILENT=true
+[2018.04.19-16.42.36:098][604]LogSavePackage: Save=11.99ms
+[2018.04.19-16.42.36:098][604]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/wood_002EAC3885A43D08B522C69A1A5839F1BC6.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/wood_002.uasset'
+[2018.04.19-16.42.36:099][604]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/wood_002.uasset
+[2018.04.19-16.42.36:531][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Chair/Lounge_chair_corner" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/Lounge_chair_corner.uasset" SILENT=true
+[2018.04.19-16.42.36:545][604]LogSavePackage: Save=12.66ms
+[2018.04.19-16.42.36:546][604]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Lounge_chair_corner75F06B9247FABAEF3A39B9A978FB4B9E.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/Lounge_chair_corner.uasset'
+[2018.04.19-16.42.36:547][604]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/Lounge_chair_corner.uasset
+[2018.04.19-16.42.37:015][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Chair/carpet" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/carpet.uasset" SILENT=true
+[2018.04.19-16.42.37:028][604]LogSavePackage: Save=12.31ms
+[2018.04.19-16.42.37:029][604]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/carpetCF9679A14294410C75001FA5E9F81B7B.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/carpet.uasset'
+[2018.04.19-16.42.37:030][604]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/carpet.uasset
+[2018.04.19-16.42.37:444][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Chair/wood_001" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/wood_001.uasset" SILENT=true
+[2018.04.19-16.42.37:461][604]LogSavePackage: Save=15.74ms
+[2018.04.19-16.42.37:461][604]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/wood_001C2A642BC46BE8104E2FCEBBAA9B6FC50.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/wood_001.uasset'
+[2018.04.19-16.42.37:464][604]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/wood_001.uasset
+[2018.04.19-16.42.37:948][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Chair/Lounge_chair" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/Lounge_chair.uasset" SILENT=true
+[2018.04.19-16.42.37:963][604]LogSavePackage: Save=12.68ms
+[2018.04.19-16.42.37:963][604]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Lounge_chair5C8C4A504BE6053FCF36E29930A491F4.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/Lounge_chair.uasset'
+[2018.04.19-16.42.37:965][604]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/Lounge_chair.uasset
+[2018.04.19-16.42.38:288][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Chair/wood_004" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/wood_004.uasset" SILENT=true
+[2018.04.19-16.42.38:308][604]LogSavePackage: Save=18.99ms
+[2018.04.19-16.42.38:308][604]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/wood_004487B6524455E70922644588705465BFF.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/wood_004.uasset'
+[2018.04.19-16.42.38:310][604]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/wood_004.uasset
+[2018.04.19-16.42.38:725][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Chair/Chair" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/Chair.uasset" SILENT=true
+[2018.04.19-16.42.38:740][604]LogSavePackage: Save=13.40ms
+[2018.04.19-16.42.38:740][604]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Chair29C1D89C4E7C8C6C4E0B27BB6829F894.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/Chair.uasset'
+[2018.04.19-16.42.38:742][604]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/Chair.uasset
+[2018.04.19-16.42.39:179][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Chair/Stool" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/Stool.uasset" SILENT=true
+[2018.04.19-16.42.39:196][604]LogSavePackage: Save=15.61ms
+[2018.04.19-16.42.39:196][604]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Stool960784C64E7000E9BBF9A78F708008E2.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/Stool.uasset'
+[2018.04.19-16.42.39:198][604]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/Stool.uasset
+[2018.04.19-16.42.39:662][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Chair/wood_009" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/wood_009.uasset" SILENT=true
+[2018.04.19-16.42.39:677][604]LogSavePackage: Save=12.59ms
+[2018.04.19-16.42.39:677][604]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/wood_00952531651473547480BD98BB4F7090305.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/wood_009.uasset'
+[2018.04.19-16.42.39:678][604]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/wood_009.uasset
+[2018.04.19-16.42.40:117][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Chair/carpet_002" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/carpet_002.uasset" SILENT=true
+[2018.04.19-16.42.40:131][604]LogSavePackage: Save=12.49ms
+[2018.04.19-16.42.40:131][604]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/carpet_0021160A54442802B30CE974EAA514FEA5A.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/carpet_002.uasset'
+[2018.04.19-16.42.40:132][604]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/carpet_002.uasset
+[2018.04.19-16.42.40:558][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Chair/Swivel_chair" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/Swivel_chair.uasset" SILENT=true
+[2018.04.19-16.42.40:572][604]LogSavePackage: Save=13.38ms
+[2018.04.19-16.42.40:572][604]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Swivel_chairC344A6B543E98ECFD24F9DAF572E12A5.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/Swivel_chair.uasset'
+[2018.04.19-16.42.40:574][604]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/Swivel_chair.uasset
+[2018.04.19-16.42.41:007][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Chair/metalMedium_001" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/metalMedium_001.uasset" SILENT=true
+[2018.04.19-16.42.41:021][604]LogSavePackage: Save=12.62ms
+[2018.04.19-16.42.41:021][604]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/metalMedium_00173EA1848443F0C2C787FC68ACC8E46B1.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/metalMedium_001.uasset'
+[2018.04.19-16.42.41:022][604]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/metalMedium_001.uasset
+[2018.04.19-16.42.41:485][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Chair/carpet_003" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/carpet_003.uasset" SILENT=true
+[2018.04.19-16.42.41:499][604]LogSavePackage: Save=13.53ms
+[2018.04.19-16.42.41:499][604]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/carpet_003589AEF8445F4972861EC35989989EA92.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/carpet_003.uasset'
+[2018.04.19-16.42.41:501][604]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Chair/carpet_003.uasset
