@@ -384,3 +384,207 @@ LogInit: Object subsystem initialized
 [2018.04.19-16.16.55:620][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
 [2018.04.19-16.16.56:302][  3]LogSlate: Took 0.021843 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2018.04.19-16.16.59:600][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.17.08:280][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.17.08:346][474]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.19-16.17.08:363][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.19-16.17.08:363][474]PIE: New page: PIE session: Untitled_1 (Apr 19, 2018, 2:17:08 AM)
+[2018.04.19-16.17.08:363][474]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.04.19-16.17.08:364][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000583s)
+[2018.04.19-16.17.08:364][474]LogAIModule: Creating AISystem for world Untitled
+[2018.04.19-16.17.08:364][474]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2018.04.19-16.17.08:364][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.001336s)
+[2018.04.19-16.17.08:376][474]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.19-16.17.08:386][474]LogInit: FAudioDevice initialized.
+[2018.04.19-16.17.09:441][474]LogSkeletalMesh: Skeletal Mesh found in DDC [14.496740ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.04.19-16.17.09:452][474]LogSkeletalMesh: Skeletal Mesh found in DDC [4.590512ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.04.19-16.17.09:495][474]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.19-16.17.09:496][474]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2018.04.19-09.17.09
+[2018.04.19-16.17.09:496][474]LogWorld: Bringing up level for play took: 0.000391
+[2018.04.19-16.17.09:500][474]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.04.19-16.17.09:502][474]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 1.417
+[2018.04.19-16.17.16:996][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.17.24:133][175]LogSlate: Window 'FirstPersonExampleMap_BuiltData - Generic Asset Editor' being destroyed
+[2018.04.19-16.17.24:890][262]LogAIModule: Creating AISystem for world MyTestingLevel
+[2018.04.19-16.17.24:902][262]Cmd: MAP LOAD FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/MyTestingLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.19-16.17.24:902][262]LightingResults: New page: Lighting Build
+[2018.04.19-16.17.24:903][262]LoadErrors: New page: Loading map: MyTestingLevel.umap
+[2018.04.19-16.17.24:903][262]MapCheck: New page: Map Check
+[2018.04.19-16.17.24:903][262]LightingResults: New page: Lighting Build
+[2018.04.19-16.17.24:913][262]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.19-16.17.24:963][262]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.19-16.17.25:003][262]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 39.738ms to complete.
+[2018.04.19-16.17.25:003][262]LogFileHelpers: Loading map 'MyTestingLevel' took 0.102
+[2018.04.19-16.17.38:771][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.18.00:785][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.18.16:662][993]LogActorFactory: Actor Factory created Cube
+[2018.04.19-16.18.17:676][108]LogActorFactory: Actor Factory created Cube
+[2018.04.19-16.18.43:034][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.18.51:729][906]LogEditorViewport: Clicking on Actor (LMB): Light_C (Light)
+[2018.04.19-16.19.19:867][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.19.25:329][621]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2018.04.19-16.19.27:368][621]LogSlate: Window 'Save Content' being destroyed
+[2018.04.19-16.19.27:510][621]LogSavePackage: Save=9.54ms
+[2018.04.19-16.19.27:510][621]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/MyTestingLevel912936744699BD0032A67A905B09E1EB.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/MyTestingLevel.umap'
+[2018.04.19-16.19.27:535][621]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/MyTestingLevel.umap
+[2018.04.19-16.19.27:561][621]LogFileHelpers: Saving map 'MyTestingLevel' took 0.116
+[2018.04.19-16.19.27:562][621]Cmd: MAP LOAD FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/StarterContent/Maps/Advanced_Lighting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.19-16.19.27:563][621]LightingResults: New page: Lighting Build
+[2018.04.19-16.19.27:563][621]LoadErrors: New page: Loading map: Advanced_Lighting.umap
+[2018.04.19-16.19.27:564][621]MapCheck: New page: Map Check
+[2018.04.19-16.19.27:564][621]LightingResults: New page: Lighting Build
+[2018.04.19-16.19.27:576][621]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.19-16.19.27:609][621]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.19-16.19.27:651][621]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 41.507ms to complete.
+[2018.04.19-16.19.27:652][621]LogFileHelpers: Loading map 'Advanced_Lighting' took 0.091
+[2018.04.19-16.19.31:099][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.19.32:353][ 29]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.04.19-16.19.32:395][ 29]Cmd: MAP LOAD FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.19-16.19.32:395][ 29]LightingResults: New page: Lighting Build
+[2018.04.19-16.19.32:396][ 29]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2018.04.19-16.19.32:396][ 29]MapCheck: New page: Map Check
+[2018.04.19-16.19.32:396][ 29]LightingResults: New page: Lighting Build
+[2018.04.19-16.19.32:409][ 29]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.19-16.19.32:443][ 29]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.19-16.19.32:488][ 29]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 45.353ms to complete.
+[2018.04.19-16.19.32:488][ 29]LogFileHelpers: Loading map 'Minimal_Default' took 0.094
+[2018.04.19-16.19.35:325][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.19.36:210][412]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.04.19-16.19.38:359][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.19.45:102][773]LogAIModule: Creating AISystem for world StarterMap
+[2018.04.19-16.19.45:182][773]Cmd: MAP LOAD FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.19-16.19.45:183][773]LightingResults: New page: Lighting Build
+[2018.04.19-16.19.45:183][773]LoadErrors: New page: Loading map: StarterMap.umap
+[2018.04.19-16.19.45:184][773]MapCheck: New page: Map Check
+[2018.04.19-16.19.45:184][773]LightingResults: New page: Lighting Build
+[2018.04.19-16.19.45:220][773]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.19-16.19.45:270][773]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.19-16.19.45:332][773]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.051ms to complete.
+[2018.04.19-16.19.45:332][773]LogFileHelpers: Loading map 'StarterMap' took 0.151
+[2018.04.19-16.20.04:561][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.20.09:256][548]LogAIModule: Creating AISystem for world MyTestingLevel
+[2018.04.19-16.20.09:270][548]Cmd: MAP LOAD FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/MyTestingLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.19-16.20.09:270][548]LightingResults: New page: Lighting Build
+[2018.04.19-16.20.09:271][548]LoadErrors: New page: Loading map: MyTestingLevel.umap
+[2018.04.19-16.20.09:273][548]MapCheck: New page: Map Check
+[2018.04.19-16.20.09:273][548]LightingResults: New page: Lighting Build
+[2018.04.19-16.20.09:289][548]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.19-16.20.09:323][548]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.19-16.20.09:385][548]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.009ms to complete.
+[2018.04.19-16.20.09:385][548]LogFileHelpers: Loading map 'MyTestingLevel' took 0.116
+[2018.04.19-16.20.13:329][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.20.23:435][188]Cmd: DELETE
+[2018.04.19-16.20.23:435][188]Cmd: ACTOR DELETE
+[2018.04.19-16.20.23:436][188]LogEditorActor: Deleted Actor: SkyLight
+[2018.04.19-16.20.23:446][188]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2018.04.19-16.20.26:268][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.20.28:398][777]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2018.04.19-16.20.30:030][777]LogSlate: Window 'Save Content' being destroyed
+[2018.04.19-16.20.30:172][777]LogSavePackage: Save=9.56ms
+[2018.04.19-16.20.30:172][777]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/MyTestingLevel3A4CF21C48A25FC07B286C9D526C77B9.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/MyTestingLevel.umap'
+[2018.04.19-16.20.30:174][777]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/MyTestingLevel.umap
+[2018.04.19-16.20.30:197][777]LogFileHelpers: Saving map 'MyTestingLevel' took 0.111
+[2018.04.19-16.20.30:199][777]Cmd: MAP LOAD FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/StarterContent/Maps/Advanced_Lighting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.19-16.20.30:199][777]LightingResults: New page: Lighting Build
+[2018.04.19-16.20.30:199][777]LoadErrors: New page: Loading map: Advanced_Lighting.umap
+[2018.04.19-16.20.30:200][777]MapCheck: New page: Map Check
+[2018.04.19-16.20.30:200][777]LightingResults: New page: Lighting Build
+[2018.04.19-16.20.30:213][777]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.19-16.20.30:247][777]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.19-16.20.30:309][777]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.946ms to complete.
+[2018.04.19-16.20.30:311][777]LogFileHelpers: Loading map 'Advanced_Lighting' took 0.113
+[2018.04.19-16.20.31:719][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AssetPlatform)
+[2018.04.19-16.20.32:241][996]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.04.19-16.20.34:829][300]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.04.19-16.20.36:363][469]Cmd: EDIT COPY
+[2018.04.19-16.20.37:522][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.20.44:105][337]Cmd: EDIT COPY
+[2018.04.19-16.20.44:383][370]Cmd: EDIT COPY
+[2018.04.19-16.20.45:588][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.20.46:466][617]LogAIModule: Creating AISystem for world MyTestingLevel
+[2018.04.19-16.20.48:159][617]LogSlate: Window 'Save Content' being destroyed
+[2018.04.19-16.20.48:345][617]LogSavePackage: Save=41.28ms
+[2018.04.19-16.20.48:345][617]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/Advanced_Lighting4BBAD2E1427C388C5B01E28DD7512FA7.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/StarterContent/Maps/Advanced_Lighting.umap'
+[2018.04.19-16.20.48:353][617]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/StarterContent/Maps/Advanced_Lighting.umap
+[2018.04.19-16.20.48:376][617]LogFileHelpers: Saving map 'Advanced_Lighting' took 0.151
+[2018.04.19-16.20.48:377][617]Cmd: MAP LOAD FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/MyTestingLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.19-16.20.48:377][617]LightingResults: New page: Lighting Build
+[2018.04.19-16.20.48:378][617]LoadErrors: New page: Loading map: MyTestingLevel.umap
+[2018.04.19-16.20.48:379][617]MapCheck: New page: Map Check
+[2018.04.19-16.20.48:379][617]LightingResults: New page: Lighting Build
+[2018.04.19-16.20.48:392][617]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.19-16.20.48:426][617]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.19-16.20.48:490][617]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.004ms to complete.
+[2018.04.19-16.20.48:490][617]LogFileHelpers: Loading map 'MyTestingLevel' took 0.114
+[2018.04.19-16.20.50:218][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.19-16.20.50:843][887]LogEditorViewport: Clicking Background
+[2018.04.19-16.20.51:201][927]Cmd: EDIT PASTE
+[2018.04.19-16.20.51:210][927]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.04.19-16.20.54:864][317]LogEditorViewport: Clicking on Actor (LMB): BP_LightStudio_C (BP_LightStage)
+[2018.04.19-16.20.55:344][356]LogEditorViewport: Clicking on Actor (LMB): BP_LightStudio_C (BP_LightStage)
+[2018.04.19-16.20.55:745][400]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.04.19-16.20.57:769][637]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.04.19-16.21.01:412][ 26]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.04.19-16.21.06:446][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.19-16.21.06:978][675]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.04.19-16.21.08:079][801]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.04.19-16.21.09:998][ 27]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.04.19-16.21.12:931][375]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.04.19-16.21.14:714][537]LogEditorViewport: Clicking on Actor (LMB): BP_LightStudio_C (BP_LightStage)
+[2018.04.19-16.21.17:553][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.21.42:763][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.21.52:651][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.22.11:818][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.22.36:121][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.22.36:154][130]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.19-16.22.36:174][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.19-16.22.36:174][130]PIE: New page: PIE session: MyTestingLevel (Apr 19, 2018, 2:22:36 AM)
+[2018.04.19-16.22.36:175][130]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MyTestingLevel
+[2018.04.19-16.22.36:176][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001175s)
+[2018.04.19-16.22.36:176][130]LogAIModule: Creating AISystem for world MyTestingLevel
+[2018.04.19-16.22.36:176][130]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2018.04.19-16.22.36:176][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MyTestingLevel.MyTestingLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_MyTestingLevel.MyTestingLevel (0.001914s)
+[2018.04.19-16.22.36:232][130]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.19-16.22.36:243][130]LogInit: FAudioDevice initialized.
+[2018.04.19-16.22.36:276][130]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.19-16.22.36:277][130]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MyTestingLevel.MyTestingLevel up for play (max tick rate 0) at 2018.04.19-09.22.36
+[2018.04.19-16.22.36:277][130]LogWorld: Bringing up level for play took: 0.000653
+[2018.04.19-16.22.36:279][130]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MyTestingLevel 0.194
+[2018.04.19-16.22.57:805][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.22.57:847][700]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.19-16.22.57:863][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.19-16.22.57:863][700]PIE: New page: PIE session: MyTestingLevel (Apr 19, 2018, 2:22:57 AM)
+[2018.04.19-16.22.57:863][700]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MyTestingLevel
+[2018.04.19-16.22.57:864][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001153s)
+[2018.04.19-16.22.57:865][700]LogAIModule: Creating AISystem for world MyTestingLevel
+[2018.04.19-16.22.57:865][700]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2018.04.19-16.22.57:865][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MyTestingLevel.MyTestingLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_MyTestingLevel.MyTestingLevel (0.001873s)
+[2018.04.19-16.22.57:878][700]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.19-16.22.57:887][700]LogInit: FAudioDevice initialized.
+[2018.04.19-16.22.57:919][700]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.19-16.22.57:920][700]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MyTestingLevel.MyTestingLevel up for play (max tick rate 0) at 2018.04.19-09.22.57
+[2018.04.19-16.22.57:921][700]LogWorld: Bringing up level for play took: 0.000626
+[2018.04.19-16.22.57:922][700]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MyTestingLevel -0.163
+[2018.04.19-16.23.22:381][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.23.22:918][638]LogSlate: Took 0.020358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.19-16.23.29:960][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.23.32:910][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.23.36:314][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.23.41:904][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.23.51:326][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.23.51:401][847]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.19-16.23.51:417][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.19-16.23.51:417][847]PIE: New page: PIE session: MyTestingLevel (Apr 19, 2018, 2:23:51 AM)
+[2018.04.19-16.23.51:417][847]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MyTestingLevel
+[2018.04.19-16.23.51:418][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001154s)
+[2018.04.19-16.23.51:419][847]LogAIModule: Creating AISystem for world MyTestingLevel
+[2018.04.19-16.23.51:419][847]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2018.04.19-16.23.51:419][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MyTestingLevel.MyTestingLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_MyTestingLevel.MyTestingLevel (0.001820s)
+[2018.04.19-16.23.51:432][847]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.19-16.23.51:442][847]LogInit: FAudioDevice initialized.
+[2018.04.19-16.23.51:472][847]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.19-16.23.51:473][847]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MyTestingLevel.MyTestingLevel up for play (max tick rate 0) at 2018.04.19-09.23.51
+[2018.04.19-16.23.51:473][847]LogWorld: Bringing up level for play took: 0.000572
+[2018.04.19-16.23.51:475][847]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MyTestingLevel -0.611
+[2018.04.19-16.23.57:153][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.19-16.24.05:167][475]LogEditorViewport: Clicking on Actor (LMB): BP_LightStudio_C (BP_LightStage)
+[2018.04.19-16.24.08:951][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
