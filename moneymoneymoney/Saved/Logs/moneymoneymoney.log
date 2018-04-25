@@ -1,4 +1,4 @@
-﻿Log file open, 04/25/18 08:58:22
+﻿Log file open, 04/25/18 09:06:41
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +7,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: moneymoneymoney
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(909747012) SRandInit(909747012).
+LogInit: Display: RandInit(-1332946867) SRandInit(-1332946867).
 LogInit: Read version file with build ID '3944462'
 LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
 LogInit: Registered custom module enumerator with build ID '3944462'
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.258212
+LogStats: Stats thread started at 0.265329
 LogD3D11RHI: Aftermath initialized
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
@@ -168,7 +168,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  0.626s to configure plugins.
+LogStreaming: Display: Took  0.701s to configure plugins.
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -188,7 +188,7 @@ LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured
 LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
 LogInit:  - LocalHostAddr = Default
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-LogInit: WinSock: I am Whit-Mac-B11 (10.1.180.172:0)
+LogInit: WinSock: I am Whit-Mac-B19 (10.1.180.180:0)
 LogInit: Build: ++UE4+Release-4.19-CL-3989454
 LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
 LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
@@ -216,170 +216,341 @@ LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
 LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.19
-LogInit: Command Line: -EpicPortal 
-LogInit: Base Directory: E:/Game Desinged/Unreal/UE_4.19/Engine/Binaries/Win64/
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogStreaming: Display: Took  0.001s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.04.25-15.58.23:287][  0]LogInit: Selected Device Profile: [Windows]
-[2018.04.25-15.58.23:287][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.04.25-15.58.23:303][  0]LogInit: Computer: WHIT-MAC-B11
-[2018.04.25-15.58.23:303][  0]LogInit: User: Game
-[2018.04.25-15.58.23:303][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.04.25-15.58.23:303][  0]LogInit: High frequency timer resolution =3.410077 MHz
-[2018.04.25-15.58.23:303][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2018.04.25-15.58.23:303][  0]LogMemory: Platform Memory Stats for Windows
-[2018.04.25-15.58.23:303][  0]LogMemory: Process Physical Memory: 276.73 MB used, 276.73 MB peak
-[2018.04.25-15.58.23:303][  0]LogMemory: Process Virtual Memory: 264.82 MB used, 264.82 MB peak
-[2018.04.25-15.58.23:303][  0]LogMemory: Physical Memory: 7148.89 MB used,  9151.50 MB free, 16300.39 MB total
-[2018.04.25-15.58.23:303][  0]LogMemory: Virtual Memory: 698.12 MB used,  9151.50 MB free, 134217728.00 MB total
-[2018.04.25-15.58.23:314][  0]LogInit: Using OS detected language (en-US).
-[2018.04.25-15.58.23:314][  0]LogInit: Using OS detected locale (en-US).
-[2018.04.25-15.58.23:316][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.04.25-15.58.23:734][  0]LogStreaming: Display: Took  0.420s to EndInitTextLocalization.
-[2018.04.25-15.58.23:734][  0]LogInit: Setting process to per monitor DPI aware
-[2018.04.25-15.58.23:751][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.04.25-15.58.23:751][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.04.25-15.58.23:916][  0]LogD3D11RHI: D3D11 adapters:
-[2018.04.25-15.58.23:980][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
-[2018.04.25-15.58.23:980][  0]LogD3D11RHI:       8086/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.04.25-15.58.23:982][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.04.25-15.58.23:982][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.04.25-15.58.23:982][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.04.25-15.58.23:991][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.04.25-15.58.23:991][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
-[2018.04.25-15.58.23:991][  0]LogWindows: EnumDisplayDevices:
-[2018.04.25-15.58.23:991][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
-[2018.04.25-15.58.23:991][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2018.04.25-15.58.23:991][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2018.04.25-15.58.23:991][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2018.04.25-15.58.23:991][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.04.25-15.58.23:991][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
-[2018.04.25-15.58.23:991][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.04.25-15.58.23:991][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.04.25-15.58.23:991][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
-[2018.04.25-15.58.24:020][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
-[2018.04.25-15.58.24:021][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
-[2018.04.25-15.58.24:021][  0]LogD3D11RHI: Async texture creation enabled
-[2018.04.25-15.58.24:045][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2018.04.25-15.58.24:093][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../GitHub/Eggspository/moneymoneymoney/Intermediate/Shaders/WorkingDirectory/4748/).
-[2018.04.25-15.58.24:093][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Game/AppData/Local/Temp/UnrealShaderWorkingDir/0A30AF7C455BD258B6BCA18CE1FAF76A/'.
-[2018.04.25-15.58.24:293][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.04.25-15.58.24:304][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.04.25-15.58.24:316][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.04.25-15.58.24:327][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.04.25-15.58.24:339][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.04.25-15.58.24:351][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.04.25-15.58.24:362][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.04.25-15.58.24:374][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.04.25-15.58.24:379][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.04.25-15.58.24:390][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.04.25-15.58.24:401][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.04.25-15.58.24:411][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.04.25-15.58.24:422][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
-[2018.04.25-15.58.24:434][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.04.25-15.58.24:445][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.04.25-15.58.24:466][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.04.25-15.58.24:466][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.04.25-15.58.24:477][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.04.25-15.58.24:478][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.04.25-15.58.24:512][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.04.25-15.58.24:527][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.04.25-15.58.24:539][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.04.25-15.58.24:553][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.04.25-15.58.24:566][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.04.25-15.58.24:579][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.04.25-15.58.24:579][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.04.25-15.58.24:653][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.04.25-15.58.24:653][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.04.25-15.58.24:653][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.04.25-15.58.25:562][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.04.25-15.58.25:649][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.04.25-15.58.25:649][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
-[2018.04.25-15.58.25:649][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../GitHub/Eggspository/moneymoneymoney/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.04.25-15.58.25:649][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.04.25-15.58.25:649][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../GitHub/Eggspository/moneymoneymoney/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.04.25-15.58.25:649][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.04.25-15.58.25:668][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.04.25-15.58.25:681][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Game/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.04.25-15.58.25:692][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.04.25-15.58.25:692][  0]LogSlate: Using Freetype 2.6.0
-[2018.04.25-15.58.25:693][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.04.25-15.58.25:693][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.04.25-15.58.25:815][  0]LogAssetRegistry: FAssetRegistry took 0.0274 seconds to start up
-[2018.04.25-15.58.26:147][  0]LogInit: Selected Device Profile: [Windows]
-[2018.04.25-15.58.26:293][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.04.25-15.58.26:296][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.04.25-15.58.26:296][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.04.25-15.58.26:296][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.04.25-15.58.26:296][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.04.25-15.58.26:296][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.04.25-15.58.26:340][  0]LogNetVersion: moneymoneymoney , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 958272539)
-[2018.04.25-15.58.26:827][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.076394 seconds
-[2018.04.25-15.58.26:834][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
-[2018.04.25-15.58.26:834][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
-[2018.04.25-15.58.26:834][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.04.25-15.58.28:327][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.04.25-15.58.28:351][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.04.25-15.58.28:612][  0]SourceControl: Source control is disabled
-[2018.04.25-15.58.28:612][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2018.04.25-15.58.28:612][  0]LogWindows: Warning: URL: C:\Program Files\Git\bin\git.exe version
-[2018.04.25-15.58.28:624][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2018.04.25-15.58.28:624][  0]LogWindows: Warning: URL: C:\Program Files\Git\bin\git.exe version
-[2018.04.25-15.58.28:635][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2018.04.25-15.58.28:635][  0]LogWindows: Warning: URL: C:\Program Files\Git\bin\git.exe version
-[2018.04.25-15.58.28:990][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.04.25-15.58.29:095][  0]LogOcInput: OculusInput pre-init called
-[2018.04.25-15.58.29:178][  0]LogEngine: Initializing Engine...
-[2018.04.25-15.58.29:179][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.04.25-15.58.29:180][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.04.25-15.58.29:180][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.04.25-15.58.29:381][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.04.25-15.58.29:443][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.04.25-15.58.29:455][  0]LogInit: FAudioDevice initialized.
-[2018.04.25-15.58.29:529][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.04.25-15.58.29:542][  0]LogInit: Texture streaming: Enabled
-[2018.04.25-15.58.29:553][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.04.25-15.58.29:565][  0]LogInit: Transaction tracking system initialized
-[2018.04.25-15.58.29:579][  0]BlueprintLog: New page: Editor Load
-[2018.04.25-15.58.29:626][  0]LocalizationService: Localization service is disabled
-[2018.04.25-15.58.29:704][  0]LogConsoleResponse: Display: 
-[2018.04.25-15.58.29:839][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.04.25-15.58.29:839][  0]LogCook: Display: Mobile HDR setting 1
-[2018.04.25-15.58.29:839][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.04.25-15.58.29:839][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.04.25-15.58.29:839][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.04.25-15.58.30:085][  0]LogFileCache: Scanning file cache for directory 'E:/Game Desinged/Unreal/GitHub/Eggspository/moneymoneymoney/Content/' took 0.02s
-[2018.04.25-15.58.30:085][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
-[2018.04.25-15.58.30:085][  0]LogWindows: Warning: URL: C:\Program Files\Git\bin\git.exe version
-[2018.04.25-15.58.30:085][  0]Cmd: MAP LOAD FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.04.25-15.58.30:103][  0]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.04.25-15.58.30:127][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.04.25-15.58.31:505][  0]LogSlate: Window 'Message' being destroyed
-[2018.04.25-15.58.31:505][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.04.25-15.58.31:506][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.04.25-15.58.31:507][  0]LightingResults: New page: Lighting Build
-[2018.04.25-15.58.31:509][  0]MapCheck: New page: Map Check
-[2018.04.25-15.58.31:509][  0]LightingResults: New page: Lighting Build
-[2018.04.25-15.58.31:518][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.04.25-15.58.31:519][  0]LoadErrors: New page: New Map
-[2018.04.25-15.58.31:648][  0]LogCollectionManager: Loaded 0 collections in 0.000866 seconds
-[2018.04.25-15.58.31:687][  0]LogFileCache: Scanning file cache for directory 'E:/Game Desinged/Unreal/GitHub/Eggspository/moneymoneymoney/Saved/Collections/' took 0.01s
-[2018.04.25-15.58.31:687][  0]LogFileCache: Scanning file cache for directory 'E:/Game Desinged/Unreal/GitHub/Eggspository/moneymoneymoney/Content/Developers/Game/Collections/' took 0.01s
-[2018.04.25-15.58.31:687][  0]LogFileCache: Scanning file cache for directory 'E:/Game Desinged/Unreal/GitHub/Eggspository/moneymoneymoney/Content/Collections/' took 0.01s
-[2018.04.25-15.58.31:687][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
-[2018.04.25-15.58.31:700][  0]LogContentBrowser: Native class hierarchy populated in 0.0129 seconds. Added 2452 classes and 558 folders.
-[2018.04.25-15.58.31:705][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.04.25-15.58.31:998][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.04.25-15.58.32:002][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
-[2018.04.25-15.58.32:018][  0]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.04.25-15.58.32:027][  0]LogSlate: Took 0.004018 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.04.25-15.58.32:153][  0]LogRenderer: Reallocating scene render targets to support 1296x812 Format 10 NumSamples 1 (Frame:1).
-[2018.04.25-15.58.32:243][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.04.25-15.58.32:243][  0]LogLoad: (Engine Initialization) Total time: 10.70 seconds
-[2018.04.25-15.58.32:243][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.04.25-15.58.32:264][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.04.25-15.58.42:975][148]LogAssetRegistry: Asset discovery search completed in 17.1818 seconds
-[2018.04.25-15.58.42:977][148]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.04.25-15.58.42:977][148]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2018.04.25-16.06.41:988][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.25-16.06.41:988][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.25-16.06.42:015][  0]LogInit: Computer: WHIT-MAC-B19
+[2018.04.25-16.06.42:015][  0]LogInit: User: Game
+[2018.04.25-16.06.42:015][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.25-16.06.42:015][  0]LogInit: High frequency timer resolution =3.410073 MHz
+[2018.04.25-16.06.42:015][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.04.25-16.06.42:015][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.25-16.06.42:015][  0]LogMemory: Process Physical Memory: 274.27 MB used, 274.27 MB peak
+[2018.04.25-16.06.42:015][  0]LogMemory: Process Virtual Memory: 264.50 MB used, 264.50 MB peak
+[2018.04.25-16.06.42:015][  0]LogMemory: Physical Memory: 4385.44 MB used,  11914.95 MB free, 16300.39 MB total
+[2018.04.25-16.06.42:015][  0]LogMemory: Virtual Memory: 697.59 MB used,  11914.95 MB free, 134217728.00 MB total
+[2018.04.25-16.06.42:044][  0]LogInit: Using OS detected language (en-US).
+[2018.04.25-16.06.42:044][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.25-16.06.42:048][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.25-16.06.42:484][  0]LogStreaming: Display: Took  0.439s to EndInitTextLocalization.
+[2018.04.25-16.06.42:484][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.25-16.06.42:523][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.25-16.06.42:523][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.25-16.06.42:697][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.25-16.06.42:785][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.04.25-16.06.42:785][  0]LogD3D11RHI:       8086/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.25-16.06.42:788][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.25-16.06.42:788][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.25-16.06.42:788][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.25-16.06.42:794][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.25-16.06.42:794][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.25-16.06.42:794][  0]LogWindows: EnumDisplayDevices:
+[2018.04.25-16.06.42:794][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.04.25-16.06.42:794][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.04.25-16.06.42:794][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.04.25-16.06.42:794][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.04.25-16.06.42:794][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.25-16.06.42:794][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.04.25-16.06.42:794][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.25-16.06.42:794][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.25-16.06.42:794][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2018.04.25-16.06.42:828][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.04.25-16.06.42:828][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.25-16.06.42:828][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.25-16.06.42:856][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.04.25-16.06.42:901][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (E:/GameDesGithub/Eggspository/moneymoneymoney/Intermediate/Shaders/WorkingDirectory/31172/).
+[2018.04.25-16.06.42:901][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Game/AppData/Local/Temp/UnrealShaderWorkingDir/3CD0F61949565B632D5F8FB6B3328206/'.
+[2018.04.25-16.06.43:167][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.25-16.06.43:179][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.25-16.06.43:192][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.25-16.06.43:204][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.25-16.06.43:217][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.25-16.06.43:229][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.25-16.06.43:241][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.25-16.06.43:254][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.25-16.06.43:260][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.25-16.06.43:271][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.25-16.06.43:282][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.25-16.06.43:293][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.25-16.06.43:305][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.25-16.06.43:316][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.25-16.06.43:327][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.25-16.06.43:349][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.25-16.06.43:349][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.25-16.06.43:360][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.25-16.06.43:361][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.25-16.06.43:397][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.25-16.06.43:408][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.25-16.06.43:418][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.25-16.06.43:429][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.25-16.06.43:440][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.25-16.06.43:451][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.25-16.06.43:451][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.25-16.06.43:552][  0]LogXGEController: Cleaning working directory: C:/Users/Game/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.04.25-16.06.43:552][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.25-16.06.43:552][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.25-16.06.43:552][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.25-16.06.44:270][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.25-16.06.44:353][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.25-16.06.44:353][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.25-16.06.44:353][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/GameDesGithub/Eggspository/moneymoneymoney/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.25-16.06.44:353][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.25-16.06.44:353][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/GameDesGithub/Eggspository/moneymoneymoney/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.25-16.06.44:353][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.25-16.06.44:369][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.25-16.06.44:381][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Game/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.25-16.06.44:392][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.25-16.06.44:392][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.25-16.06.44:393][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.25-16.06.44:393][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.25-16.06.44:507][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2018.04.25-16.06.44:798][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.25-16.06.44:929][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.25-16.06.44:931][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.25-16.06.44:931][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.25-16.06.44:931][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.25-16.06.44:931][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.25-16.06.44:931][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.25-16.06.44:955][  0]LogNetVersion: moneymoneymoney , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 958272539)
+[2018.04.25-16.06.45:382][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.058575 seconds
+[2018.04.25-16.06.45:389][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.25-16.06.45:389][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.04.25-16.06.45:389][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.25-16.06.46:907][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.25-16.06.46:932][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.25-16.06.47:255][  0]SourceControl: Source control is disabled
+[2018.04.25-16.06.47:881][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.25-16.06.48:021][  0]LogOcInput: OculusInput pre-init called
+[2018.04.25-16.06.48:116][  0]LogEngine: Initializing Engine...
+[2018.04.25-16.06.48:117][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.25-16.06.48:118][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.25-16.06.48:118][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.25-16.06.48:364][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.25-16.06.48:422][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.25-16.06.48:453][  0]LogInit: FAudioDevice initialized.
+[2018.04.25-16.06.48:504][  0]LogDerivedDataCache: Saved boot cache 0.05s 74MB C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.25-16.06.48:516][  0]LogInit: Texture streaming: Enabled
+[2018.04.25-16.06.48:530][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.25-16.06.48:542][  0]LogInit: Transaction tracking system initialized
+[2018.04.25-16.06.48:562][  0]BlueprintLog: New page: Editor Load
+[2018.04.25-16.06.48:625][  0]LocalizationService: Localization service is disabled
+[2018.04.25-16.06.48:707][  0]LogConsoleResponse: Display: 
+[2018.04.25-16.06.48:839][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.25-16.06.48:839][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.25-16.06.48:839][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.25-16.06.48:839][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.25-16.06.48:839][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.25-16.06.49:129][  0]LogFileCache: Scanning file cache for directory 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/' took 0.01s
+[2018.04.25-16.06.49:129][  0]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.25-16.06.49:144][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.25-16.06.50:437][  0]LogSlate: Window 'Message' being destroyed
+[2018.04.25-16.06.50:438][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.25-16.06.50:439][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.25-16.06.50:440][  0]LightingResults: New page: Lighting Build
+[2018.04.25-16.06.50:443][  0]MapCheck: New page: Map Check
+[2018.04.25-16.06.50:443][  0]LightingResults: New page: Lighting Build
+[2018.04.25-16.06.50:455][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.25-16.06.50:457][  0]LoadErrors: New page: New Map
+[2018.04.25-16.06.50:571][  0]LogCollectionManager: Loaded 0 collections in 0.001525 seconds
+[2018.04.25-16.06.50:609][  0]LogFileCache: Scanning file cache for directory 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Collections/' took 0.01s
+[2018.04.25-16.06.50:609][  0]LogFileCache: Scanning file cache for directory 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Developers/Game/Collections/' took 0.01s
+[2018.04.25-16.06.50:610][  0]LogFileCache: Scanning file cache for directory 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Collections/' took 0.01s
+[2018.04.25-16.06.50:610][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.25-16.06.50:619][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2452 classes and 558 folders.
+[2018.04.25-16.06.50:626][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.25-16.06.50:662][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.25-16.06.50:667][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.25-16.06.50:684][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.25-16.06.50:689][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.25-16.06.50:791][  0]LogRenderer: Reallocating scene render targets to support 1616x840 Format 10 NumSamples 1 (Frame:1).
+[2018.04.25-16.06.50:941][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.25-16.06.50:941][  0]LogLoad: (Engine Initialization) Total time: 10.96 seconds
+[2018.04.25-16.06.50:941][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.25-16.06.50:969][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.25-16.06.51:662][ 76]LogAssetRegistry: Asset discovery search completed in 7.1773 seconds
+[2018.04.25-16.06.51:664][ 76]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.25-16.06.51:664][ 76]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2018.04.25-16.06.52:458][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.25-16.06.53:247][262]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.25-16.06.53:473][262]LogAIModule: Creating AISystem for world Bessica
+[2018.04.25-16.06.53:507][262]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.25-16.06.53:507][262]LightingResults: New page: Lighting Build
+[2018.04.25-16.06.53:508][262]LoadErrors: New page: Loading map: Bessica.umap
+[2018.04.25-16.06.53:508][262]MapCheck: New page: Map Check
+[2018.04.25-16.06.53:508][262]LightingResults: New page: Lighting Build
+[2018.04.25-16.06.53:526][262]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.25-16.06.53:559][262]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.25-16.06.53:615][262]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.428ms to complete.
+[2018.04.25-16.06.53:615][262]LogFileHelpers: Loading map 'Bessica' took 0.109
+[2018.04.25-16.07.03:394][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.25-16.07.06:548][721]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.25-16.07.14:204][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.25-16.07.15:786][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x403)
+[2018.04.25-16.07.45:188][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.25-16.07.57:609][400]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.25-16.08.13:036][134]LogActorFactory: Actor Factory created Door
+[2018.04.25-16.08.14:638][295]LogActorFactory: Actor Factory created Door
+[2018.04.25-16.08.15:100][341]LogActorFactory: Actor Factory created Door
+[2018.04.25-16.08.32:087][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.25-16.08.37:611][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door)
+[2018.04.25-16.09.02:096][386]Cmd: TRANSACTION UNDO
+[2018.04.25-16.09.02:096][386]LogEditorTransaction: Undo Scale Actors
+[2018.04.25-16.09.05:758][800]Cmd: TRANSACTION UNDO
+[2018.04.25-16.09.05:758][800]LogEditorTransaction: Undo Scale Actors
+[2018.04.25-16.09.08:844][144]Cmd: TRANSACTION UNDO
+[2018.04.25-16.09.08:844][144]LogEditorTransaction: Undo Scale Actors
+[2018.04.25-16.09.26:112][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door)
+[2018.04.25-16.09.37:145][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.25-16.09.45:540][909]LogActorFactory: Actor Factory created SM_DoorFrame
+[2018.04.25-16.09.47:186][ 74]LogActorFactory: Actor Factory created SM_DoorFrame
+[2018.04.25-16.09.54:593][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door)
+[2018.04.25-16.09.55:883][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2018.04.25-16.10.01:285][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.25-16.10.02:551][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x404)
+[2018.04.25-16.10.03:170][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2018.04.25-16.10.13:434][962]Cmd: DELETE
+[2018.04.25-16.10.13:434][962]Cmd: ACTOR DELETE
+[2018.04.25-16.10.13:436][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.25-16.10.13:447][962]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2018.04.25-16.10.14:480][ 86]Cmd: TRANSACTION UNDO
+[2018.04.25-16.10.14:480][ 86]LogEditorTransaction: Undo Delete Actors
+[2018.04.25-16.10.19:532][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door)
+[2018.04.25-16.10.28:631][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2018.04.25-16.10.31:100][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.25-16.10.52:657][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.25-16.10.59:966][462]LogMaterial: Missing cached shader map for material Plant_Spike_Pot, compiling. 
+[2018.04.25-16.10.59:998][462]LogMaterial: Missing cached shader map for material Plant_Spike_Leaves, compiling. 
+[2018.04.25-16.11.00:024][462]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.25-16.11.00:024][462]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.25-16.11.00:024][462]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.25-16.11.00:087][468]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.25-16.11.00:112][468]LogActorFactory: Actor Factory created Plant3
+[2018.04.25-16.11.00:880][530]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.25-16.11.01:381][562]LogActorFactory: Actor Factory created Plant3
+[2018.04.25-16.11.01:885][590]LogSlate: Took 0.005587 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.25-16.11.02:319][620]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.25-16.11.10:785][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.25-16.11.22:931][267]LogEditorViewport: Clicking on Actor (LMB): Filing_Cabinet_C (Filing_Cabinet4)
+[2018.04.25-16.11.31:881][319]LogEditorViewport: Clicking on Actor (LMB): Light_C (Light)
+[2018.04.25-16.11.43:390][600]Cmd: TRANSACTION UNDO
+[2018.04.25-16.11.43:390][600]LogEditorTransaction: Undo Move Actors
+[2018.04.25-16.11.58:204][314]Cmd: DELETE
+[2018.04.25-16.11.58:204][314]Cmd: ACTOR DELETE
+[2018.04.25-16.11.58:207][314]LogEditorActor: Deleted Actor: Light_C
+[2018.04.25-16.11.58:208][314]LogEditorActor: Deleted Actor: PointLight
+[2018.04.25-16.11.58:234][314]LogEditorActor: Deleted 2 Actors (0.030 secs)
+[2018.04.25-16.12.35:049][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.25-16.12.43:233][680]LogActorFactory: Actor Factory created Lamp
+[2018.04.25-16.12.44:040][772]LogActorFactory: Actor Factory created Lamp
+[2018.04.25-16.12.45:277][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.25-16.13.18:150][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.25-16.13.42:777][ 55]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2018.04.25-16.13.57:760][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.25-16.14.03:841][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.25-16.14.08:210][627]MapCheck: New page: Map Check
+[2018.04.25-16.14.08:219][627]Cmd: MAP REBUILD ALLVISIBLE
+[2018.04.25-16.14.08:220][627]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.04.25-16.14.08:234][627]LightingResults: New page: Lighting Build - Apr 25, 2018, 2:14:08 AM
+[2018.04.25-16.14.08:322][627]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.04.25-16.14.08:479][627]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.04.25-16.14.08:492][627]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.04.25-16.14.09:511][627]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.04.25-16.14.09:511][627]LogSwarmInterface: [TryOpenConnection] Local Process ID is 31172
+[2018.04.25-16.14.11:902][627]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.04.25-16.14.11:903][627]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.04.25-16.14.11:903][627]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.04.25-16.14.11:903][627]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.04.25-16.14.11:903][627]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.04.25-16.14.11:903][627]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.04.25-16.14.12:036][627]LogEditorBuildUtils: Build time 0:03
+[2018.04.25-16.14.12:050][627]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Door_Wood, compiling. 
+[2018.04.25-16.14.12:063][627]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.25-16.14.12:063][627]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Door_Wood, compiling. 
+[2018.04.25-16.14.12:106][628]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.25-16.14.12:113][628]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Door_Handle, compiling. 
+[2018.04.25-16.14.12:121][628]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.25-16.14.12:121][628]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Door_Handle, compiling. 
+[2018.04.25-16.14.12:129][628]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.25-16.14.12:197][629]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Frame, compiling. 
+[2018.04.25-16.14.12:203][629]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Frame, compiling. 
+[2018.04.25-16.14.12:221][630]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Plant_Spike_Pot, compiling. 
+[2018.04.25-16.14.12:226][630]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Plant_Spike_Pot, compiling. 
+[2018.04.25-16.14.12:272][631]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Plant_Spike_Leaves, compiling. 
+[2018.04.25-16.14.12:277][631]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Plant_Spike_Leaves, compiling. 
+[2018.04.25-16.14.12:299][632]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lamp1, compiling. 
+[2018.04.25-16.14.12:305][632]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lamp1, compiling. 
+[2018.04.25-16.14.12:326][633]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer metal, compiling. 
+[2018.04.25-16.14.12:331][633]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer metal, compiling. 
+[2018.04.25-16.14.14:309][634]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.25-16.14.14:309][634]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.25-16.14.17:748][799]Job is a success!
+[2018.04.25-16.14.17:795][800]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2018.04.25-16.14.17:795][800]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.04.25-16.14.17:795][800]LogVolumetricLightmapImport:      BrickData 130x5x5 = 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2018.04.25-16.14.17:795][800]LogVolumetricLightmapImport:      Bricks at Level
+[2018.04.25-16.14.17:795][800]LogVolumetricLightmapImport:          0: 3.8% covering 100.0% of volume
+[2018.04.25-16.14.17:795][800]LogVolumetricLightmapImport:          1: 7.7% covering 3.1% of volume
+[2018.04.25-16.14.17:795][800]LogVolumetricLightmapImport:          2: 88.5% covering 0.6% of volume
+[2018.04.25-16.14.17:816][800]LogMaterial: Warning: Material /Game/Models_Props/Plants/Plant_Spike_Pot.Plant_Spike_Pot needed to have new flag set bUsedWithStaticLighting !
+[2018.04.25-16.14.17:819][800]LogMaterial: Missing cached shader map for material Plant_Spike_Pot, compiling. 
+[2018.04.25-16.14.17:839][800]LogMaterial: Warning: Material /Game/Models_Props/Plants/Plant_Spike_Leaves.Plant_Spike_Leaves needed to have new flag set bUsedWithStaticLighting !
+[2018.04.25-16.14.17:841][800]LogMaterial: Missing cached shader map for material Plant_Spike_Leaves, compiling. 
+[2018.04.25-16.14.17:851][800]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.04.25-16.14.17:851][800]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.04.25-16.14.17:851][800]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.25-16.14.17:851][800]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.25-16.14.17:851][800]LogMaterial: Warning: Material /Game/Models_Props/Door/Door_Wood.Door_Wood needed to have new flag set bUsedWithStaticLighting !
+[2018.04.25-16.14.17:853][800]LogMaterial: Missing cached shader map for material Door_Wood, compiling. 
+[2018.04.25-16.14.17:864][800]LogMaterial: Warning: Material /Game/Models_Props/Door/Door_Handle.Door_Handle needed to have new flag set bUsedWithStaticLighting !
+[2018.04.25-16.14.17:865][800]LogMaterial: Missing cached shader map for material Door_Handle, compiling. 
+[2018.04.25-16.14.17:879][800]LogMaterial: Warning: Material /Game/Models_Props/Light/lamp1.lamp1 needed to have new flag set bUsedWithStaticLighting !
+[2018.04.25-16.14.17:881][800]LogMaterial: Missing cached shader map for material lamp1, compiling. 
+[2018.04.25-16.14.17:898][800]LogMaterial: Warning: Material /Game/Models_Props/Light/metal.metal needed to have new flag set bUsedWithStaticLighting !
+[2018.04.25-16.14.17:900][800]LogMaterial: Missing cached shader map for material metal, compiling. 
+[2018.04.25-16.14.18:235][800]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.04.25-16.14.18:235][800]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2018.04.25-16.14.18:235][800]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2018.04.25-16.14.18:235][800]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.04.25-16.14.18:235][800]LogShaderCompilers: Display: Shaders left to compile 155
+[2018.04.25-16.14.18:329][800]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 32X64)
+[2018.04.25-16.14.18:329][800]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X256)
+[2018.04.25-16.14.18:360][800]Lightmass on WHIT-MAC-B19: 2.96 sec total, 257 ms importing, 19 ms setup, 499 ms photons, 2.15 sec processing, 0 ms extra exporting [34/34 mappings]. Threads: 14.9 sec total, 8.30 sec processing.
+[2018.04.25-16.14.18:384][800]LogStaticLightingSystem: Illumination: 10.1 sec (314 ms encoding lightmaps, 89 ms encoding shadowmaps)
+[2018.04.25-16.14.18:384][800]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.04.25-16.14.18:384][800]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.04.25-16.14.18:906][800]DumpUnbuiltLightIteractions
+[2018.04.25-16.14.18:906][800]Lights with unbuilt interactions: 0
+[2018.04.25-16.14.18:906][800]
+[2018.04.25-16.14.18:906][800]Primitives with unbuilt interactions: 0
+[2018.04.25-16.14.27:960][800]LogShaderCompilers: Display: Shaders left to compile 145
+[2018.04.25-16.14.27:960][800]LogShaderCompilers: Display: Shaders left to compile 135
+[2018.04.25-16.14.27:960][800]LogShaderCompilers: Display: Shaders left to compile 125
+[2018.04.25-16.14.27:960][800]LogShaderCompilers: Display: Shaders left to compile 115
+[2018.04.25-16.14.27:960][800]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.04.25-16.14.27:960][800]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.04.25-16.14.27:960][800]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.04.25-16.14.27:960][800]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.04.25-16.14.27:960][800]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.04.25-16.14.27:960][800]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.04.25-16.14.27:960][800]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.04.25-16.14.27:960][800]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.04.25-16.14.27:960][800]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.04.25-16.14.27:961][800]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.25-16.14.27:961][800]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.25-16.14.27:973][801]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.04.25-16.14.27:973][801]MapCheck: New page: Bessica - Apr 25, 2018, 2:14:27 AM
+[2018.04.25-16.14.27:973][801]MapCheck: Error: Cube_2 Cube_2 : Invalid DrawScale/DrawScale3D 
+[2018.04.25-16.14.28:027][801]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 53.863ms to complete.
+[2018.04.25-16.14.32:302][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Bessica" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.25-16.14.32:370][283]LogSavePackage: Save=48.87ms
+[2018.04.25-16.14.32:370][283]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica96C7E71143BD7C955DC8BE9B9C9F8B69.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica.umap'
+[2018.04.25-16.14.32:376][283]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica.umap
+[2018.04.25-16.14.32:462][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Bessica_BuiltData" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_BuiltData.uasset" SILENT=true
+[2018.04.25-16.14.32:544][283]LogSavePackage: Save=74.03ms
+[2018.04.25-16.14.32:544][283]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_BuiltData6CC477CC412408B5332258BD3AACEDC3.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_BuiltData.uasset'
+[2018.04.25-16.14.32:546][283]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_BuiltData.uasset
