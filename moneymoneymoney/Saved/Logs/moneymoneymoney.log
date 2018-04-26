@@ -529,3 +529,18 @@ LogInit: Object subsystem initialized
 [2018.04.26-16.05.33:082][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.04.26-16.05.33:116][ 99]LogSlate: Window 'Message Log' being destroyed
 [2018.04.26-16.05.33:119][ 99]LogSlate: Window 'Message Log' being destroyed
+[2018.04.26-16.10.41:512][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.26-16.10.48:915][608]LogAIModule: Creating AISystem for world Bessica_3
+[2018.04.26-16.10.48:939][608]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.26-16.10.49:016][608]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.26-16.10.49:311][608]LogSavePackage: Save=193.28ms
+[2018.04.26-16.10.49:311][608]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_3AB4CDDAD40F1CE2745DD9FA4E6A723E8.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_3.umap'
+[2018.04.26-16.10.49:314][608]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_3.umap
+[2018.04.26-16.10.49:977][608]LogFileHelpers: Saving map 'Bessica_3' took 0.957
+[2018.04.26-16.10.50:186][608]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.26-16.10.50:241][608]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.26-16.10.51:137][677]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.26-16.10.51:484][677]LogSavePackage: Save=215.05ms
+[2018.04.26-16.10.51:484][677]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_394F3321846D44F5940E81AA4A22B0FC8.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_3.umap'
+[2018.04.26-16.10.51:486][677]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_3.umap
+[2018.04.26-16.10.51:507][677]LogFileHelpers: Saving map 'Bessica_3' took 0.367
