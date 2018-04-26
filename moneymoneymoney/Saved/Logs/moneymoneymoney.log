@@ -544,3 +544,576 @@ LogInit: Object subsystem initialized
 [2018.04.26-16.10.51:484][677]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_394F3321846D44F5940E81AA4A22B0FC8.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_3.umap'
 [2018.04.26-16.10.51:486][677]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_3.umap
 [2018.04.26-16.10.51:507][677]LogFileHelpers: Saving map 'Bessica_3' took 0.367
+[2018.04.26-16.12.55:098][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x405)
+[2018.04.26-16.13.02:990][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x406)
+[2018.04.26-16.13.21:625][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x409)
+[2018.04.26-16.13.24:460][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x409)
+[2018.04.26-16.13.37:969][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cubicle_Cube_19)
+[2018.04.26-16.13.42:977][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cubicle_Cube_9)
+[2018.04.26-16.13.45:960][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.26-16.14.00:616][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door5)
+[2018.04.26-16.14.41:833][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.26-16.14.42:463][701]LogSlate: Took 0.004107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.26-16.14.43:244][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.26-16.14.44:179][899]LogSlate: Took 0.003715 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.26-16.14.50:132][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door8)
+[2018.04.26-16.15.26:918][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.26-16.15.57:554][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x413)
+[2018.04.26-16.15.58:548][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x411)
+[2018.04.26-16.15.59:955][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x413)
+[2018.04.26-16.16.14:277][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x411)
+[2018.04.26-16.16.46:386][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x415)
+[2018.04.26-16.16.50:093][716]Cmd: TRANSACTION UNDO
+[2018.04.26-16.16.50:093][716]LogEditorTransaction: Undo Scale Actors
+[2018.04.26-16.17.03:068][199]Cmd: TRANSACTION UNDO
+[2018.04.26-16.17.03:068][199]LogEditorTransaction: Undo Move Actors
+[2018.04.26-16.17.10:385][ 12]Cmd: TRANSACTION UNDO
+[2018.04.26-16.17.10:385][ 12]LogEditorTransaction: Undo Rotate Actors
+[2018.04.26-16.17.17:456][835]Cmd: TRANSACTION UNDO
+[2018.04.26-16.17.17:456][835]LogEditorTransaction: Undo Move Actors
+[2018.04.26-16.17.22:366][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x416)
+[2018.04.26-16.17.29:913][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x416)
+[2018.04.26-16.17.31:571][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x416)
+[2018.04.26-16.17.32:907][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x416)
+[2018.04.26-16.17.54:931][157]Cmd: TRANSACTION UNDO
+[2018.04.26-16.17.54:931][157]LogEditorTransaction: Undo Rotate Actors
+[2018.04.26-16.17.55:308][193]Cmd: TRANSACTION UNDO
+[2018.04.26-16.17.55:308][193]LogEditorTransaction: Undo Rotate Actors
+[2018.04.26-16.18.38:380][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x418)
+[2018.04.26-16.18.39:476][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x418)
+[2018.04.26-16.18.39:831][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x416)
+[2018.04.26-16.18.57:643][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.26-16.19.14:876][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.26-16.19.27:839][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x414)
+[2018.04.26-16.19.58:088][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x421)
+[2018.04.26-16.20.00:794][ 80]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x421)
+[2018.04.26-16.20.02:371][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x421)
+[2018.04.26-16.20.35:319][929]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.04.26-16.20.35:375][929]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.26-16.20.52:301][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x400)
+[2018.04.26-16.20.53:242][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.26-16.20.53:731][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.26-16.20.54:329][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.26-16.20.56:427][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.26-16.21.01:310][827]Cmd: TRANSACTION UNDO
+[2018.04.26-16.21.01:310][827]LogEditorTransaction: Undo Move Actors
+[2018.04.26-16.21.09:826][813]Cmd: DELETE
+[2018.04.26-16.21.09:826][813]Cmd: ACTOR DELETE
+[2018.04.26-16.21.09:831][813]LogEditorActor: Deleted Actor: Brush
+[2018.04.26-16.21.09:844][813]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2018.04.26-16.21.13:910][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.26-16.21.30:835][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x420)
+[2018.04.26-16.21.32:033][140]Cmd: DELETE
+[2018.04.26-16.21.32:033][140]Cmd: ACTOR DELETE
+[2018.04.26-16.21.32:037][140]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.26-16.21.32:047][140]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.04.26-16.22.21:900][899]Cmd: TRANSACTION UNDO
+[2018.04.26-16.22.21:900][899]LogEditorTransaction: Undo Scale Actors
+[2018.04.26-16.22.31:825][ 62]Cmd: TRANSACTION UNDO
+[2018.04.26-16.22.31:825][ 62]LogEditorTransaction: Undo Scale Actors
+[2018.04.26-16.22.33:165][211]Cmd: TRANSACTION UNDO
+[2018.04.26-16.22.33:165][211]LogEditorTransaction: Undo Scale Actors
+[2018.04.26-16.22.36:954][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x422)
+[2018.04.26-16.22.52:099][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x423)
+[2018.04.26-16.23.07:807][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.26-16.23.12:475][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.26-16.23.13:057][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x423)
+[2018.04.26-16.23.15:953][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x423)
+[2018.04.26-16.23.20:586][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.26-16.23.28:127][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x413)
+[2018.04.26-16.23.45:321][147]LogEditorViewport: Clicking on Actor (LMB): Lamp_C (Lamp3)
+[2018.04.26-16.24.14:115][202]Cmd: TRANSACTION UNDO
+[2018.04.26-16.24.14:115][202]LogEditorTransaction: Undo Move Actors
+[2018.04.26-16.24.24:223][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x410)
+[2018.04.26-16.24.26:725][597]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.26-16.24.39:084][685]LogEditorViewport: Clicking Background
+[2018.04.26-16.24.39:822][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x410)
+[2018.04.26-16.24.54:644][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x413)
+[2018.04.26-16.25.15:614][312]Cmd: TRANSACTION UNDO
+[2018.04.26-16.25.15:614][312]LogEditorTransaction: Undo Rotate Actors
+[2018.04.26-16.25.34:597][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x420)
+[2018.04.26-16.25.36:804][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x410)
+[2018.04.26-16.26.19:202][185]Cmd: TRANSACTION UNDO
+[2018.04.26-16.26.19:202][185]LogEditorTransaction: Undo Scale Actors
+[2018.04.26-16.26.19:222][185]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica.Bessica:PersistentLevel.PointLight11.LightComponent0) Component already registered.
+[2018.04.26-16.26.19:227][185]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica.Bessica:PersistentLevel.PointLight12.BillboardComponent_8352) Component already registered.
+[2018.04.26-16.26.19:227][185]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica.Bessica:PersistentLevel.PointLight11.BillboardComponent_8346) Component already registered.
+[2018.04.26-16.26.19:227][185]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica.Bessica:PersistentLevel.PointLight10.BillboardComponent_8340) Component already registered.
+[2018.04.26-16.26.22:105][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x424)
+[2018.04.26-16.27.18:142][991]LogEditorViewport: Clicking on Actor (LMB): Light_C (Light10)
+[2018.04.26-16.27.31:442][914]Cmd: TRANSACTION UNDO
+[2018.04.26-16.27.31:442][914]LogEditorTransaction: Undo Move Actors
+[2018.04.26-16.27.51:751][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plant3)
+[2018.04.26-16.28.00:911][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plant6)
+[2018.04.26-16.28.01:505][503]Cmd: DELETE
+[2018.04.26-16.28.01:505][503]Cmd: ACTOR DELETE
+[2018.04.26-16.28.01:517][503]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.26-16.28.01:674][503]LogEditorActor: Deleted 1 Actors (0.168 secs)
+[2018.04.26-16.28.02:236][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plant5)
+[2018.04.26-16.28.16:171][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.26-16.28.31:455][958]LogActorFactory: Actor Factory created Lounge_chair_corner
+[2018.04.26-16.28.32:835][ 39]LogActorFactory: Actor Factory created Lounge_chair_corner
+[2018.04.26-16.28.38:013][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.26-16.29.27:332][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.26-16.29.27:463][718]LogActorFactory: Actor Factory created Lounge_chair
+[2018.04.26-16.29.28:184][753]LogActorFactory: Actor Factory created Lounge_chair
+[2018.04.26-16.29.34:398][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.26-16.30.02:626][269]LogSavePackage: Save=272.84ms
+[2018.04.26-16.30.02:626][269]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_Auto1ACFCBF5E45019C050847D3B6AE683FDA.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/FirstPersonBP/Maps/Bessica_Auto1.umap'
+[2018.04.26-16.30.02:627][269]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/FirstPersonBP/Maps/Bessica_Auto1.umap
+[2018.04.26-16.30.02:629][269]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Bessica' took 0.299
+[2018.04.26-16.30.02:629][269]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.299
+[2018.04.26-16.30.02:639][269]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Maps/Bessica_BuiltData] ([1] browsable assets)...
+[2018.04.26-16.30.02:639][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Maps/Bessica_BuiltData]
+[2018.04.26-16.30.02:745][269]LogSavePackage: Save=95.41ms
+[2018.04.26-16.30.02:745][269]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_BuiltData_Auto1D08BAE15495471D9C54A989D585A27C5.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/FirstPersonBP/Maps/Bessica_BuiltData_Auto1.uasset'
+[2018.04.26-16.30.02:746][269]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/FirstPersonBP/Maps/Bessica_BuiltData_Auto1.uasset
+[2018.04.26-16.30.02:746][269]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models_Props/Cubicle/Cubicle_Wall_Border] ([1] browsable assets)...
+[2018.04.26-16.30.02:773][269]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models_Props/Cubicle/Cubicle_Wall_Border.Cubicle_Wall_Border]
+[2018.04.26-16.30.02:773][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_Props/Cubicle/Cubicle_Wall_Border]
+[2018.04.26-16.30.02:798][269]LogSavePackage: Save=15.50ms
+[2018.04.26-16.30.02:798][269]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Cubicle_Wall_Border_Auto1FC1AE31945760A3D4BEB7FADDF7E47C4.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/Models_Props/Cubicle/Cubicle_Wall_Border_Auto1.uasset'
+[2018.04.26-16.30.02:798][269]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/Models_Props/Cubicle/Cubicle_Wall_Border_Auto1.uasset
+[2018.04.26-16.30.02:799][269]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models_Props/Cubicle/Cubicle_Wall_Inside] ([1] browsable assets)...
+[2018.04.26-16.30.02:815][269]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models_Props/Cubicle/Cubicle_Wall_Inside.Cubicle_Wall_Inside]
+[2018.04.26-16.30.02:815][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_Props/Cubicle/Cubicle_Wall_Inside]
+[2018.04.26-16.30.02:844][269]LogSavePackage: Save=16.82ms
+[2018.04.26-16.30.02:844][269]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Cubicle_Wall_Inside_Auto1A067854C4C99FC42364EA9B522664645.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/Models_Props/Cubicle/Cubicle_Wall_Inside_Auto1.uasset'
+[2018.04.26-16.30.02:845][269]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/Models_Props/Cubicle/Cubicle_Wall_Inside_Auto1.uasset
+[2018.04.26-16.30.02:845][269]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models_Props/Door/Door_Handle] ([1] browsable assets)...
+[2018.04.26-16.30.02:862][269]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models_Props/Door/Door_Handle.Door_Handle]
+[2018.04.26-16.30.02:862][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_Props/Door/Door_Handle]
+[2018.04.26-16.30.02:887][269]LogSavePackage: Save=14.28ms
+[2018.04.26-16.30.02:887][269]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Door_Handle_Auto1774A067D4DC6DCAF0DFE97979D9BC442.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/Models_Props/Door/Door_Handle_Auto1.uasset'
+[2018.04.26-16.30.02:887][269]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/Models_Props/Door/Door_Handle_Auto1.uasset
+[2018.04.26-16.30.02:887][269]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models_Props/Door/Door_Wood] ([1] browsable assets)...
+[2018.04.26-16.30.02:904][269]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models_Props/Door/Door_Wood.Door_Wood]
+[2018.04.26-16.30.02:904][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_Props/Door/Door_Wood]
+[2018.04.26-16.30.02:928][269]LogSavePackage: Save=14.56ms
+[2018.04.26-16.30.02:928][269]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Door_Wood_Auto1FC3C034D4BAF4A47BBB77AA6C13A0E5D.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/Models_Props/Door/Door_Wood_Auto1.uasset'
+[2018.04.26-16.30.02:928][269]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/Models_Props/Door/Door_Wood_Auto1.uasset
+[2018.04.26-16.30.02:928][269]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models_Props/Plants/Plant_Spike_Leaves] ([1] browsable assets)...
+[2018.04.26-16.30.02:943][269]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models_Props/Plants/Plant_Spike_Leaves.Plant_Spike_Leaves]
+[2018.04.26-16.30.02:944][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_Props/Plants/Plant_Spike_Leaves]
+[2018.04.26-16.30.02:965][269]LogSavePackage: Save=13.20ms
+[2018.04.26-16.30.02:965][269]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Plant_Spike_Leaves_Auto1698BC67B4006DD5E27F0A59A39BCE2B9.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/Models_Props/Plants/Plant_Spike_Leaves_Auto1.uasset'
+[2018.04.26-16.30.02:966][269]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/Models_Props/Plants/Plant_Spike_Leaves_Auto1.uasset
+[2018.04.26-16.30.02:966][269]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models_Props/Plants/Plant_Spike_Pot] ([1] browsable assets)...
+[2018.04.26-16.30.02:982][269]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models_Props/Plants/Plant_Spike_Pot.Plant_Spike_Pot]
+[2018.04.26-16.30.02:982][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_Props/Plants/Plant_Spike_Pot]
+[2018.04.26-16.30.03:008][269]LogSavePackage: Save=17.05ms
+[2018.04.26-16.30.03:008][269]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Plant_Spike_Pot_Auto15A5CA55F4E68F090430D0B8C295B8592.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/Models_Props/Plants/Plant_Spike_Pot_Auto1.uasset'
+[2018.04.26-16.30.03:009][269]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/Models_Props/Plants/Plant_Spike_Pot_Auto1.uasset
+[2018.04.26-16.30.03:009][269]LogFileHelpers: Auto-saving content packages took 0.379
+[2018.04.26-16.31.19:239][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plant5)
+[2018.04.26-16.31.23:600][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.26-16.31.24:370][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.26-16.31.32:124][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.26-16.31.38:031][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.26-16.31.38:061][196]LogMaterial: Missing cached shader map for material metalLight, compiling. 
+[2018.04.26-16.31.38:070][196]LogMaterial: Missing cached shader map for material Fins_Ceiling_Fan, compiling. 
+[2018.04.26-16.31.38:078][196]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.04.26-16.31.38:078][196]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.04.26-16.31.38:078][196]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.04.26-16.31.38:078][196]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.26-16.31.38:078][196]LogMaterial: Missing cached shader map for material lamp, compiling. 
+[2018.04.26-16.31.38:150][196]LogActorFactory: Actor Factory created Ceiling_fan_round
+[2018.04.26-16.31.38:504][216]LogActorFactory: Actor Factory created Ceiling_fan_round
+[2018.04.26-16.31.40:226][335]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.04.26-16.31.40:289][340]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.26-16.31.41:327][345]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.26-16.31.42:976][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.26-16.32.13:561][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.26-16.32.16:813][798]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.26-16.32.16:829][798]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Bessica.Bessica:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Bessica.Bessica:PersistentLevel.Bessica' with GeneratedClass '/Game/FirstPersonBP/Maps/Bessica.Bessica_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Bessica.Bessica:PersistentLevel.Bessica'
+[2018.04.26-16.32.16:829][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.26-16.32.16:829][798]PIE: New page: PIE session: Bessica (Apr 26, 2018, 2:32:16 AM)
+[2018.04.26-16.32.16:829][798]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica
+[2018.04.26-16.32.16:838][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009029s)
+[2018.04.26-16.32.16:839][798]LogAIModule: Creating AISystem for world Bessica
+[2018.04.26-16.32.16:839][798]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2018.04.26-16.32.16:839][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Bessica.Bessica to /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica.Bessica (0.009873s)
+[2018.04.26-16.32.16:855][798]LogInit: XAudio2 using 'U28E850-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.26-16.32.16:862][798]LogInit: FAudioDevice initialized.
+[2018.04.26-16.32.16:894][798]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.26-16.32.16:899][798]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica.Bessica up for play (max tick rate 0) at 2018.04.26-09.32.16
+[2018.04.26-16.32.16:900][798]LogWorld: Bringing up level for play took: 0.005516
+[2018.04.26-16.32.16:902][798]PIE: Error: SetInputMode_GameAndUI expects a valid player controller as 'PlayerController' target
+[2018.04.26-16.32.16:902][798]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica -0.185
+[2018.04.26-16.32.16:902][798]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Bessica.Bessica:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Bessica.Bessica:PersistentLevel.Bessica' with GeneratedClass '/Game/FirstPersonBP/Maps/Bessica.Bessica_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Bessica.Bessica:PersistentLevel.Bessica'
+[2018.04.26-16.32.22:148][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.26-16.32.22:198][429]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Bessica.Bessica:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Bessica.Bessica:PersistentLevel.Bessica' with GeneratedClass '/Game/FirstPersonBP/Maps/Bessica.Bessica_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Bessica.Bessica:PersistentLevel.Bessica'
+[2018.04.26-16.32.22:237][429]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Bessica.Bessica:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Bessica.Bessica:PersistentLevel.Bessica' with GeneratedClass '/Game/FirstPersonBP/Maps/Bessica.Bessica_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Bessica.Bessica:PersistentLevel.Bessica'
+[2018.04.26-16.32.32:460][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.26-16.32.46:876][546]LogAIModule: Creating AISystem for world Bessica_4
+[2018.04.26-16.32.46:995][546]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.26-16.32.47:367][546]LogSavePackage: Save=258.13ms
+[2018.04.26-16.32.47:367][546]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_4638F115E45F9C970CD7F5B99E9AC6875.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4.umap'
+[2018.04.26-16.32.47:369][546]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4.umap
+[2018.04.26-16.32.47:916][546]LogFileHelpers: Saving map 'Bessica_4' took 0.918
+[2018.04.26-16.32.48:113][546]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.26-16.32.48:167][546]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.26-16.32.49:185][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.26-16.32.50:866][632]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.26-16.32.50:875][632]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.26-16.32.50:889][632]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.26-16.32.50:989][632]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.26-16.32.51:307][632]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.26-16.32.51:396][632]SourceControl: rm 'moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_2.umap'
+[2018.04.26-16.32.51:974][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.26-16.32.53:099][689]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.26-16.32.53:107][689]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.26-16.32.53:120][689]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.26-16.32.53:230][689]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.26-16.32.53:534][689]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.26-16.32.53:634][689]SourceControl: rm 'moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_3.umap'
+[2018.04.26-16.33.16:528][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.26-16.33.17:789][865]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.26-16.33.17:795][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Bessica" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.26-16.33.18:086][865]LogSavePackage: Save=272.97ms
+[2018.04.26-16.33.18:086][865]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica9C48765E4D8A232CC2A2A6A1BE0285E2.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica.umap'
+[2018.04.26-16.33.18:093][865]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica.umap
+[2018.04.26-16.33.18:223][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Bessica_BuiltData" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_BuiltData.uasset" SILENT=true
+[2018.04.26-16.33.18:380][865]LogSavePackage: Save=151.48ms
+[2018.04.26-16.33.18:380][865]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_BuiltDataDA6683714F9D9DFE416CB2823B9FED49.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_BuiltData.uasset'
+[2018.04.26-16.33.18:387][865]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_BuiltData.uasset
+[2018.04.26-16.33.32:048][ 94]LogSlate: Window 'Save Content' being destroyed
+[2018.04.26-16.33.32:058][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.26-16.33.32:199][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.26-16.33.32:203][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Cubicle/Cubicle_Wall_Border" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Cubicle/Cubicle_Wall_Border.uasset" SILENT=true
+[2018.04.26-16.33.32:215][ 94]LogSavePackage: Save=5.98ms
+[2018.04.26-16.33.32:215][ 94]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Cubicle_Wall_Border1A97B0D9468AA6111D5D7D9085447387.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Cubicle/Cubicle_Wall_Border.uasset'
+[2018.04.26-16.33.32:221][ 94]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Cubicle/Cubicle_Wall_Border.uasset
+[2018.04.26-16.33.32:224][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Cubicle/Cubicle_Wall_Inside" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Cubicle/Cubicle_Wall_Inside.uasset" SILENT=true
+[2018.04.26-16.33.32:236][ 94]LogSavePackage: Save=6.85ms
+[2018.04.26-16.33.32:236][ 94]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Cubicle_Wall_Inside6DD119B1422C9BF149C7DAACF56CDDF4.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Cubicle/Cubicle_Wall_Inside.uasset'
+[2018.04.26-16.33.32:241][ 94]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Cubicle/Cubicle_Wall_Inside.uasset
+[2018.04.26-16.33.32:245][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Door/Door_Handle" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Door/Door_Handle.uasset" SILENT=true
+[2018.04.26-16.33.32:262][ 94]LogSavePackage: Save=11.72ms
+[2018.04.26-16.33.32:262][ 94]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Door_Handle1FB638924FA5FF573DA97B84873C3B50.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Door/Door_Handle.uasset'
+[2018.04.26-16.33.32:268][ 94]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Door/Door_Handle.uasset
+[2018.04.26-16.33.32:272][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Door/Door_Wood" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Door/Door_Wood.uasset" SILENT=true
+[2018.04.26-16.33.32:287][ 94]LogSavePackage: Save=10.06ms
+[2018.04.26-16.33.32:287][ 94]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Door_WoodE2B4744944131BAAB2E916B238189C2F.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Door/Door_Wood.uasset'
+[2018.04.26-16.33.32:294][ 94]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Door/Door_Wood.uasset
+[2018.04.26-16.33.32:298][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Plants/Plant_Spike_Leaves" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Plants/Plant_Spike_Leaves.uasset" SILENT=true
+[2018.04.26-16.33.32:309][ 94]LogSavePackage: Save=6.26ms
+[2018.04.26-16.33.32:309][ 94]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Plant_Spike_LeavesDA73843E4EFE9E709F8793B6C7B99781.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Plants/Plant_Spike_Leaves.uasset'
+[2018.04.26-16.33.32:314][ 94]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Plants/Plant_Spike_Leaves.uasset
+[2018.04.26-16.33.32:318][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Plants/Plant_Spike_Pot" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Plants/Plant_Spike_Pot.uasset" SILENT=true
+[2018.04.26-16.33.32:339][ 94]LogSavePackage: Save=10.91ms
+[2018.04.26-16.33.32:339][ 94]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Plant_Spike_Pot8CA4087A4223A2141F5E1DBF4E562979.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Plants/Plant_Spike_Pot.uasset'
+[2018.04.26-16.33.32:340][ 94]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Plants/Plant_Spike_Pot.uasset
+[2018.04.26-16.33.32:461][ 94]LogSlate: Window 'moneymoneymoney - Unreal Editor' being destroyed
+[2018.04.26-16.33.32:698][ 95]Cmd: QUIT_EDITOR
+[2018.04.26-16.33.32:852][ 95]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.26-16.33.32:867][ 95]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.04.26-16.33.32:868][ 95]LogExit: Preparing to exit.
+[2018.04.26-16.33.33:781][ 95]LogExit: Editor shut down
+[2018.04.26-16.33.33:791][ 95]LogExit: Transaction tracking system shut down
+[2018.04.26-16.33.33:981][ 95]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.26-16.33.33:981][ 95]LogDirectoryWatcher: A directory notification for 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/' was aborted.
+[2018.04.26-16.33.33:981][ 95]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.26-16.33.33:981][ 95]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.04.26-16.33.33:981][ 95]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.04.26-16.33.33:981][ 95]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.04.26-16.33.33:981][ 95]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.26-16.33.33:982][ 95]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.26-16.33.34:064][ 95]LogExit: Object subsystem successfully closed.
+[2018.04.26-16.33.34:085][ 95]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.04.26-16.33.34:092][ 95]LogD3D11RHI: Shutdown
+[2018.04.26-16.33.34:092][ 95]LogD3D11RHI: CleanupD3DDevice
+[2018.04.26-16.33.34:097][ 95]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.26-16.33.34:127][ 95]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (576)
+[2018.04.26-16.33.34:127][ 95]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.04.26-16.33.34:127][ 95]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.04.26-16.33.34:127][ 95]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.04.26-16.33.34:127][ 95]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.04.26-16.33.34:130][ 95]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.04.26-16.33.34:130][ 95]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.04.26-16.33.34:130][ 95]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.04.26-16.33.34:130][ 95]LogDirectoryWatcher: A directory notification for 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Collections/' was aborted.
+[2018.04.26-16.33.34:130][ 95]LogDirectoryWatcher: A directory notification for 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Developers/Game/Collections/' was aborted.
+[2018.04.26-16.33.34:130][ 95]LogDirectoryWatcher: A directory notification for 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Collections/' was aborted.
+[2018.04.26-16.33.34:130][ 95]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.04.26-16.33.34:130][ 95]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.04.26-16.33.34:130][ 95]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.04.26-16.33.34:131][ 95]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.04.26-16.33.34:131][ 95]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.04.26-16.33.34:131][ 95]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.04.26-16.33.34:131][ 95]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.04.26-16.33.34:131][ 95]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.04.26-16.33.34:131][ 95]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.04.26-16.33.34:131][ 95]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.04.26-16.33.34:131][ 95]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.04.26-16.33.34:131][ 95]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.04.26-16.33.34:131][ 95]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.04.26-16.33.34:131][ 95]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.04.26-16.33.34:131][ 95]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.04.26-16.33.34:131][ 95]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.04.26-16.33.34:131][ 95]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.04.26-16.33.34:131][ 95]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.04.26-16.33.34:132][ 95]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.04.26-16.33.34:132][ 95]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.04.26-16.33.34:132][ 95]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.04.26-16.33.34:132][ 95]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.04.26-16.33.34:132][ 95]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.04.26-16.33.34:132][ 95]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.04.26-16.33.34:132][ 95]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.04.26-16.33.34:132][ 95]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.04.26-16.33.34:132][ 95]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.04.26-16.33.34:132][ 95]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.04.26-16.33.34:132][ 95]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.04.26-16.33.34:132][ 95]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.04.26-16.33.34:132][ 95]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.04.26-16.33.34:132][ 95]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.04.26-16.33.34:132][ 95]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.04.26-16.33.34:132][ 95]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.04.26-16.33.34:132][ 95]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.04.26-16.33.34:132][ 95]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.04.26-16.33.34:132][ 95]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.04.26-16.33.34:132][ 95]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.04.26-16.33.34:132][ 95]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.04.26-16.33.34:133][ 95]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.04.26-16.33.34:133][ 95]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.04.26-16.33.34:133][ 95]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.04.26-16.33.34:133][ 95]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.04.26-16.33.34:700][ 95]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.04.26-16.33.34:700][ 95]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.04.26-16.33.34:700][ 95]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.04.26-16.33.34:700][ 95]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.04.26-16.33.34:700][ 95]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.04.26-16.33.34:700][ 95]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.04.26-16.33.34:700][ 95]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.04.26-16.33.34:700][ 95]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.04.26-16.33.34:700][ 95]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.04.26-16.33.34:700][ 95]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.04.26-16.33.34:700][ 95]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.04.26-16.33.34:701][ 95]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.04.26-16.33.34:701][ 95]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.04.26-16.33.34:701][ 95]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.04.26-16.33.34:701][ 95]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.04.26-16.33.34:701][ 95]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.04.26-16.33.34:701][ 95]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.04.26-16.33.34:701][ 95]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.04.26-16.33.34:701][ 95]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.04.26-16.33.34:701][ 95]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.04.26-16.33.34:701][ 95]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.04.26-16.33.34:755][ 95]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.04.26-16.33.34:755][ 95]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.04.26-16.33.34:755][ 95]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.04.26-16.33.34:755][ 95]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.04.26-16.33.34:755][ 95]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.04.26-16.33.34:755][ 95]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.04.26-16.33.34:755][ 95]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.04.26-16.33.34:756][ 95]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.04.26-16.33.34:756][ 95]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.04.26-16.33.34:756][ 95]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.04.26-16.33.34:756][ 95]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.04.26-16.33.34:757][ 95]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.04.26-16.33.34:757][ 95]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.04.26-16.33.34:757][ 95]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.04.26-16.33.34:757][ 95]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.04.26-16.33.34:757][ 95]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.04.26-16.33.34:757][ 95]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.04.26-16.33.34:757][ 95]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.04.26-16.33.34:757][ 95]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.04.26-16.33.34:757][ 95]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.04.26-16.33.34:757][ 95]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.04.26-16.33.34:757][ 95]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.04.26-16.33.34:757][ 95]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.04.26-16.33.34:757][ 95]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.04.26-16.33.34:757][ 95]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.04.26-16.33.34:757][ 95]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.04.26-16.33.34:758][ 95]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.04.26-16.33.34:758][ 95]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.04.26-16.33.34:758][ 95]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.04.26-16.33.34:758][ 95]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.04.26-16.33.34:758][ 95]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.04.26-16.33.34:895][ 95]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.04.26-16.33.34:895][ 95]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.04.26-16.33.34:895][ 95]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.04.26-16.33.34:895][ 95]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.04.26-16.33.34:895][ 95]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.04.26-16.33.34:895][ 95]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.04.26-16.33.34:895][ 95]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.04.26-16.33.34:895][ 95]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.04.26-16.33.34:895][ 95]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.04.26-16.33.34:895][ 95]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.04.26-16.33.34:895][ 95]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.04.26-16.33.34:895][ 95]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.04.26-16.33.34:896][ 95]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.04.26-16.33.34:896][ 95]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.04.26-16.33.34:896][ 95]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.04.26-16.33.34:896][ 95]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.04.26-16.33.34:896][ 95]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.04.26-16.33.34:903][ 95]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.04.26-16.33.34:903][ 95]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.04.26-16.33.34:904][ 95]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.04.26-16.33.34:904][ 95]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.04.26-16.33.34:904][ 95]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.04.26-16.33.34:904][ 95]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.04.26-16.33.34:904][ 95]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.04.26-16.33.34:904][ 95]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.04.26-16.33.34:904][ 95]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.04.26-16.33.34:904][ 95]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.04.26-16.33.34:904][ 95]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.04.26-16.33.34:904][ 95]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.04.26-16.33.34:904][ 95]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.04.26-16.33.34:904][ 95]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.04.26-16.33.34:904][ 95]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.04.26-16.33.34:904][ 95]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.04.26-16.33.34:905][ 95]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.04.26-16.33.34:905][ 95]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.04.26-16.33.34:905][ 95]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.04.26-16.33.34:905][ 95]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.04.26-16.33.34:905][ 95]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.04.26-16.33.34:905][ 95]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.04.26-16.33.34:905][ 95]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.04.26-16.33.34:905][ 95]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.04.26-16.33.34:905][ 95]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.04.26-16.33.34:905][ 95]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.04.26-16.33.34:905][ 95]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.04.26-16.33.34:905][ 95]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.04.26-16.33.34:905][ 95]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.04.26-16.33.34:905][ 95]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.04.26-16.33.34:906][ 95]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.04.26-16.33.34:906][ 95]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.04.26-16.33.34:906][ 95]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.04.26-16.33.35:006][ 95]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.04.26-16.33.35:107][ 95]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.04.26-16.33.35:107][ 95]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.04.26-16.33.35:107][ 95]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.04.26-16.33.35:107][ 95]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.04.26-16.33.35:107][ 95]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.04.26-16.33.35:107][ 95]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.04.26-16.33.35:109][ 95]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.04.26-16.33.35:109][ 95]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.04.26-16.33.35:109][ 95]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.04.26-16.33.35:110][ 95]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.04.26-16.33.35:110][ 95]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.04.26-16.33.35:113][ 95]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.04.26-16.33.35:113][ 95]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.04.26-16.33.35:113][ 95]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.04.26-16.33.35:113][ 95]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.04.26-16.33.35:461][ 95]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.04.26-16.33.35:461][ 95]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.04.26-16.33.35:461][ 95]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.04.26-16.33.35:463][ 95]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.04.26-16.33.35:469][ 95]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.04.26-16.33.35:469][ 95]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.04.26-16.33.35:469][ 95]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.04.26-16.33.35:469][ 95]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.04.26-16.33.35:469][ 95]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.04.26-16.33.35:469][ 95]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.04.26-16.33.35:469][ 95]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.04.26-16.33.35:469][ 95]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.04.26-16.33.35:469][ 95]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.04.26-16.33.35:469][ 95]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.04.26-16.33.35:469][ 95]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.04.26-16.33.35:469][ 95]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.04.26-16.33.35:469][ 95]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.04.26-16.33.35:469][ 95]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.04.26-16.33.35:469][ 95]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.04.26-16.33.35:471][ 95]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.04.26-16.33.35:471][ 95]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.04.26-16.33.35:471][ 95]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.04.26-16.33.35:471][ 95]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.04.26-16.33.35:471][ 95]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.04.26-16.33.35:475][ 95]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.04.26-16.33.35:475][ 95]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.04.26-16.33.35:475][ 95]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.04.26-16.33.35:475][ 95]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.04.26-16.33.35:475][ 95]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.04.26-16.33.35:475][ 95]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.04.26-16.33.35:475][ 95]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.04.26-16.33.35:475][ 95]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.04.26-16.33.35:475][ 95]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.04.26-16.33.35:475][ 95]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.04.26-16.33.35:475][ 95]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.04.26-16.33.35:475][ 95]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.04.26-16.33.35:475][ 95]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.04.26-16.33.35:475][ 95]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.04.26-16.33.35:475][ 95]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.04.26-16.33.35:475][ 95]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.04.26-16.33.35:479][ 95]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.04.26-16.33.35:556][ 95]LogDerivedDataCache: Shutdown
+[2018.04.26-16.33.35:556][ 95]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.04.26-16.33.35:556][ 95]LogXGEController: Cleaning working directory: C:/Users/Game/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.04.26-16.33.35:557][ 95]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.04.26-16.33.35:558][ 95]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.04.26-16.33.35:558][ 95]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.04.26-16.33.35:558][ 95]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.04.26-16.33.35:558][ 95]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.04.26-16.33.35:558][ 95]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.04.26-16.33.35:558][ 95]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.04.26-16.33.35:558][ 95]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.04.26-16.33.35:558][ 95]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.04.26-16.33.35:558][ 95]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.04.26-16.33.35:558][ 95]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.04.26-16.33.35:558][ 95]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.26-16.33.35:558][ 95]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.26-16.33.35:558][ 95]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.26-16.33.35:558][ 95]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4393C8BD-4922-457C-0F80-16B6E94F8281%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.1-3989454%2B%2B%2BUE4%2BRelease-4.19&UserID=20c06a4b48c976825684e79ff9fce01b%7Cbbef557723a146eda9497b3810ebdbea%7C551195f0-e47e-45d9-b9a9-c8c21b00246d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.26-16.33.35:586][ 95]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.26-16.33.35:587][ 95]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.26-16.33.35:587][ 95]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.26-16.33.35:587][ 95]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.26-16.33.35:587][ 95]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.26-16.33.35:587][ 95]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.26-16.33.35:587][ 95]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.26-16.33.35:587][ 95]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.26-16.33.35:590][ 95]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.26-16.33.35:590][ 95]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.26-16.33.35:590][ 95]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.26-16.33.35:590][ 95]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.26-16.33.35:590][ 95]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.26-16.33.35:590][ 95]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.26-16.33.35:590][ 95]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.26-16.33.35:590][ 95]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.26-16.33.35:590][ 95]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.26-16.33.35:590][ 95]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.26-16.33.35:590][ 95]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.26-16.33.35:596][ 95]LogExit: Exiting.
+[2018.04.26-16.33.35:610][ 95]Log file closed, 04/26/18 09:33:35
