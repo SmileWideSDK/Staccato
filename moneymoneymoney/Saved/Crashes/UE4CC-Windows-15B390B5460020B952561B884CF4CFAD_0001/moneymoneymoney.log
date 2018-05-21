@@ -1,0 +1,1252 @@
+﻿Log file open, 05/04/18 14:00:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: moneymoneymoney
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(329750741) SRandInit(329750741).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.300937
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.801s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Whit-Mac-B19 (10.1.180.180:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.04-21.00.30:071][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.04-21.00.30:071][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.04-21.00.30:119][  0]LogInit: Computer: WHIT-MAC-B19
+[2018.05.04-21.00.30:119][  0]LogInit: User: Game
+[2018.05.04-21.00.30:119][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.04-21.00.30:119][  0]LogInit: High frequency timer resolution =3.410073 MHz
+[2018.05.04-21.00.30:119][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.05.04-21.00.30:119][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.04-21.00.30:119][  0]LogMemory: Process Physical Memory: 274.79 MB used, 274.79 MB peak
+[2018.05.04-21.00.30:119][  0]LogMemory: Process Virtual Memory: 264.69 MB used, 264.69 MB peak
+[2018.05.04-21.00.30:119][  0]LogMemory: Physical Memory: 4293.77 MB used,  12006.62 MB free, 16300.39 MB total
+[2018.05.04-21.00.30:119][  0]LogMemory: Virtual Memory: 697.59 MB used,  12006.62 MB free, 134217728.00 MB total
+[2018.05.04-21.00.30:278][  0]LogInit: Using OS detected language (en-US).
+[2018.05.04-21.00.30:278][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.04-21.00.30:323][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.04-21.00.30:791][  0]LogStreaming: Display: Took  0.512s to EndInitTextLocalization.
+[2018.05.04-21.00.30:791][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.04-21.00.30:860][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.04-21.00.30:860][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.04-21.00.33:204][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.04-21.00.33:261][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.05.04-21.00.33:261][  0]LogD3D11RHI:       8086/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.04-21.00.33:263][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.04-21.00.33:263][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.04-21.00.33:263][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.04-21.00.33:270][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.04-21.00.33:270][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.04-21.00.33:270][  0]LogWindows: EnumDisplayDevices:
+[2018.05.04-21.00.33:270][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.05.04-21.00.33:270][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.04-21.00.33:271][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.04-21.00.33:271][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.04-21.00.33:271][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.04-21.00.33:271][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.05.04-21.00.33:271][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.04-21.00.33:271][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.04-21.00.33:271][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2018.05.04-21.00.33:302][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.05.04-21.00.33:302][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.04-21.00.33:302][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.04-21.00.33:314][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.05.04-21.00.33:356][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (E:/GameDesGithub/Eggspository/moneymoneymoney/Intermediate/Shaders/WorkingDirectory/9532/).
+[2018.05.04-21.00.33:356][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Game/AppData/Local/Temp/UnrealShaderWorkingDir/A819E9D5429C7D4670A92492901421E4/'.
+[2018.05.04-21.00.33:925][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.04-21.00.33:938][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.04-21.00.33:953][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.04-21.00.33:968][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.04-21.00.33:990][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.04-21.00.34:011][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.04-21.00.34:023][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.04-21.00.34:039][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.04-21.00.34:045][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.04-21.00.34:057][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.04-21.00.34:073][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.04-21.00.34:090][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.04-21.00.34:101][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.04-21.00.34:117][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.04-21.00.34:132][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.04-21.00.34:164][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.04-21.00.34:164][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.04-21.00.34:183][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.04-21.00.34:184][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.04-21.00.34:250][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.04-21.00.34:260][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.04-21.00.34:271][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.04-21.00.34:282][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.04-21.00.34:292][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.04-21.00.34:307][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.04-21.00.34:307][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.04-21.00.34:593][  0]LogXGEController: Cleaning working directory: C:/Users/Game/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.04-21.00.34:593][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.04-21.00.34:593][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.04-21.00.34:593][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.04-21.00.36:041][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.04-21.00.36:118][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.04-21.00.36:118][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.04-21.00.36:118][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/GameDesGithub/Eggspository/moneymoneymoney/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.04-21.00.36:118][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.04-21.00.36:118][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/GameDesGithub/Eggspository/moneymoneymoney/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.04-21.00.36:118][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.04-21.00.36:138][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.04-21.00.36:150][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Game/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.04-21.00.36:167][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.04-21.00.36:168][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.04-21.00.36:180][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.04-21.00.36:180][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.04-21.00.38:151][  0]LogAssetRegistry: FAssetRegistry took 0.0256 seconds to start up
+[2018.05.04-21.00.38:430][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.04-21.00.38:661][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.04-21.00.38:664][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.04-21.00.38:664][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.04-21.00.38:664][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.04-21.00.38:664][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.04-21.00.38:664][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.04-21.00.38:703][  0]LogNetVersion: moneymoneymoney , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 958272539)
+[2018.05.04-21.00.39:502][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.067631 seconds
+[2018.05.04-21.00.39:507][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.04-21.00.39:507][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.05.04-21.00.39:507][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.04-21.00.42:753][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.04-21.00.42:778][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.04-21.00.43:132][  0]SourceControl: Source control is disabled
+[2018.05.04-21.00.43:931][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.04-21.00.44:085][  0]LogOcInput: OculusInput pre-init called
+[2018.05.04-21.00.44:213][  0]LogEngine: Initializing Engine...
+[2018.05.04-21.00.44:216][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.04-21.00.44:219][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.04-21.00.44:219][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.04-21.00.44:635][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.04-21.00.44:694][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.04-21.00.44:778][  0]LogInit: FAudioDevice initialized.
+[2018.05.04-21.00.44:856][  0]LogDerivedDataCache: Saved boot cache 0.08s 74MB C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.04-21.00.44:878][  0]LogInit: Texture streaming: Enabled
+[2018.05.04-21.00.44:893][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.04-21.00.45:009][  0]LogInit: Transaction tracking system initialized
+[2018.05.04-21.00.45:050][  0]BlueprintLog: New page: Editor Load
+[2018.05.04-21.00.45:130][  0]LocalizationService: Localization service is disabled
+[2018.05.04-21.00.45:235][  0]LogConsoleResponse: Display: 
+[2018.05.04-21.00.45:571][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.04-21.00.45:571][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.04-21.00.45:571][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.04-21.00.45:571][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.04-21.00.45:571][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.04-21.00.45:944][  0]LogFileCache: Scanning file cache for directory 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/' took 0.02s
+[2018.05.04-21.00.45:944][  0]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.04-21.00.45:963][  0]LogSlate: Took 0.003928 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.04-21.01.46:737][  0]LogSlate: Window 'Message' being destroyed
+[2018.05.04-21.01.46:737][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.04-21.01.46:743][  0]LightingResults: New page: Lighting Build
+[2018.05.04-21.01.46:747][  0]MapCheck: New page: Map Check
+[2018.05.04-21.01.46:747][  0]LightingResults: New page: Lighting Build
+[2018.05.04-21.01.46:760][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.04-21.01.46:761][  0]LoadErrors: New page: New Map
+[2018.05.04-21.01.46:824][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.04-21.01.46:942][  0]LogCollectionManager: Loaded 0 collections in 0.002067 seconds
+[2018.05.04-21.01.46:983][  0]LogFileCache: Scanning file cache for directory 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Collections/' took 0.01s
+[2018.05.04-21.01.46:983][  0]LogFileCache: Scanning file cache for directory 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Developers/Game/Collections/' took 0.01s
+[2018.05.04-21.01.46:983][  0]LogFileCache: Scanning file cache for directory 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Collections/' took 0.01s
+[2018.05.04-21.01.46:983][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.04-21.01.46:996][  0]LogContentBrowser: Native class hierarchy populated in 0.0131 seconds. Added 2452 classes and 558 folders.
+[2018.05.04-21.01.47:005][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.04-21.01.47:344][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.04-21.01.47:348][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.05.04-21.01.47:437][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.04-21.01.47:437][  0]LogLoad: (Engine Initialization) Total time: 81.24 seconds
+[2018.05.04-21.01.47:437][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.04-21.01.47:466][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.04-21.01.47:475][  0]LogSlate: Took 0.006529 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.04-21.01.47:486][  0]LogSlate: Took 0.005650 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.04-21.01.47:673][  1]LogAssetRegistry: Asset discovery search completed in 69.5433 seconds
+[2018.05.04-21.01.47:675][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.04-21.01.47:675][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2018.05.04-21.01.47:691][  1]LogRenderer: Reallocating scene render targets to support 1604x728 Format 10 NumSamples 1 (Frame:1).
+[2018.05.04-21.01.53:913][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.01.54:060][308]LogSlate: Took 0.003854 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.04-21.01.55:063][308]LogAIModule: Creating AISystem for world Bessica1
+[2018.05.04-21.01.55:130][308]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.04-21.01.55:130][308]LightingResults: New page: Lighting Build
+[2018.05.04-21.01.55:131][308]LoadErrors: New page: Loading map: Bessica1.umap
+[2018.05.04-21.01.55:132][308]MapCheck: New page: Map Check
+[2018.05.04-21.01.55:132][308]LightingResults: New page: Lighting Build
+[2018.05.04-21.01.55:221][308]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.04-21.01.55:263][308]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.04-21.01.55:323][308]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.424ms to complete.
+[2018.05.04-21.01.55:325][308]LogFileHelpers: Loading map 'Bessica1' took 0.197
+[2018.05.04-21.02.10:275][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.02.10:886][ 62]LogAIModule: Creating AISystem for world Bessica_4
+[2018.05.04-21.02.10:958][ 62]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.04-21.02.10:958][ 62]LightingResults: New page: Lighting Build
+[2018.05.04-21.02.10:959][ 62]LoadErrors: New page: Loading map: Bessica_4.umap
+[2018.05.04-21.02.10:960][ 62]MapCheck: New page: Map Check
+[2018.05.04-21.02.10:960][ 62]LightingResults: New page: Lighting Build
+[2018.05.04-21.02.10:979][ 62]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.02.10:979][ 62]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.02.10:980][ 62]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Wall_400x312.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.02.10:980][ 62]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Wall_400x313.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.02.11:120][ 62]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.04-21.02.11:159][ 62]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.04-21.02.11:218][ 62]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.3ms to complete.
+[2018.05.04-21.02.11:218][ 62]LogFileHelpers: Loading map 'Bessica_4' took 0.261
+[2018.05.04-21.02.33:459][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.04-21.02.54:230][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.03.09:641][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x411)
+[2018.05.04-21.03.12:729][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-21.03.46:023][ 21]LogEditorViewport: Clicking on Actor (LMB): Filing_Cabinet_C (Filing_Cabinet12)
+[2018.05.04-21.04.21:854][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.04.22:517][ 86]LogSavePackage: Save=465.87ms
+[2018.05.04-21.04.22:517][ 86]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_48BCF0BBE4372BE3526853F99ECD61015.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4.umap'
+[2018.05.04-21.04.22:525][ 86]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4.umap
+[2018.05.04-21.04.22:650][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Bessica_4_BuiltData" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4_BuiltData.uasset" SILENT=true
+[2018.05.04-21.04.23:793][ 86]LogSavePackage: Save=1110.07ms
+[2018.05.04-21.04.23:794][ 86]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_4_BuiltData615DFBA6434E7EC8EA275D96A7E25738.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4_BuiltData.uasset'
+[2018.05.04-21.04.23:796][ 86]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4_BuiltData.uasset
+[2018.05.04-21.04.25:939][152]LogAIModule: Creating AISystem for world Bessica_5
+[2018.05.04-21.04.25:946][152]LogMaterial: Warning: Material /Game/Models_Props/Cofe/metalMedium.metalMedium needed to have new flag set bUsedWithStaticLighting !
+[2018.05.04-21.04.25:948][152]LogMaterial: Missing cached shader map for material metalMedium, compiling. 
+[2018.05.04-21.04.25:988][152]MapCheck: Warning: metalMedium Material /Game/Models_Props/Cofe/metalMedium.metalMedium was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.05.04-21.04.25:996][152]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.05.04-21.04.25:996][152]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.05.04-21.04.25:996][152]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.04-21.04.25:996][152]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.04-21.04.25:996][152]LogMaterial: Warning: Material /Game/Models_Props/Cofe/metal.metal needed to have new flag set bUsedWithStaticLighting !
+[2018.05.04-21.04.25:999][152]LogMaterial: Missing cached shader map for material metal, compiling. 
+[2018.05.04-21.04.26:009][152]MapCheck: Warning: metal Material /Game/Models_Props/Cofe/metal.metal was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.05.04-21.04.26:010][152]LogMaterial: Warning: Material /Game/Models_Props/Cofe/wood_001.wood_001 needed to have new flag set bUsedWithStaticLighting !
+[2018.05.04-21.04.26:013][152]LogMaterial: Missing cached shader map for material wood_001, compiling. 
+[2018.05.04-21.04.26:026][152]MapCheck: Warning: wood_001 Material /Game/Models_Props/Cofe/wood_001.wood_001 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.05.04-21.04.26:026][152]LogMaterial: Warning: Material /Game/Models_Props/Cofe/metal_001.metal_001 needed to have new flag set bUsedWithStaticLighting !
+[2018.05.04-21.04.26:031][152]LogMaterial: Missing cached shader map for material metal_001, compiling. 
+[2018.05.04-21.04.26:051][152]MapCheck: Warning: metal_001 Material /Game/Models_Props/Cofe/metal_001.metal_001 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.05.04-21.04.26:052][152]LogMaterial: Warning: Material /Game/Models_Props/Cofe/woodDark.woodDark needed to have new flag set bUsedWithStaticLighting !
+[2018.05.04-21.04.26:053][152]LogMaterial: Missing cached shader map for material woodDark, compiling. 
+[2018.05.04-21.04.26:063][152]MapCheck: Warning: woodDark Material /Game/Models_Props/Cofe/woodDark.woodDark was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.05.04-21.04.26:063][152]LogMaterial: Warning: Material /Game/Models_Props/Rugs/carpet.carpet needed to have new flag set bUsedWithStaticLighting !
+[2018.05.04-21.04.26:066][152]LogMaterial: Missing cached shader map for material carpet, compiling. 
+[2018.05.04-21.04.26:078][152]MapCheck: Warning: carpet Material /Game/Models_Props/Rugs/carpet.carpet was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.05.04-21.04.26:079][152]LogMaterial: Warning: Material /Game/Models_Props/Rugs/carpetDarker.carpetDarker needed to have new flag set bUsedWithStaticLighting !
+[2018.05.04-21.04.26:081][152]LogMaterial: Missing cached shader map for material carpetDarker, compiling. 
+[2018.05.04-21.04.26:094][152]MapCheck: Warning: carpetDarker Material /Game/Models_Props/Rugs/carpetDarker.carpetDarker was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.05.04-21.04.26:095][152]LogMaterial: Warning: Material /Game/Models_Props/Rugs/carpetDarker1.carpetDarker1 needed to have new flag set bUsedWithStaticLighting !
+[2018.05.04-21.04.26:098][152]LogMaterial: Missing cached shader map for material carpetDarker1, compiling. 
+[2018.05.04-21.04.26:111][152]MapCheck: Warning: carpetDarker1 Material /Game/Models_Props/Rugs/carpetDarker1.carpetDarker1 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.05.04-21.04.26:112][152]LogMaterial: Warning: Material /Game/Models_Props/Rugs/carpet_001.carpet_001 needed to have new flag set bUsedWithStaticLighting !
+[2018.05.04-21.04.26:114][152]LogMaterial: Missing cached shader map for material carpet_001, compiling. 
+[2018.05.04-21.04.26:129][152]MapCheck: Warning: carpet_001 Material /Game/Models_Props/Rugs/carpet_001.carpet_001 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.05.04-21.04.26:129][152]LogMaterial: Warning: Material /Game/Models_Props/Shelves/wood.wood needed to have new flag set bUsedWithStaticLighting !
+[2018.05.04-21.04.26:133][152]LogMaterial: Missing cached shader map for material wood, compiling. 
+[2018.05.04-21.04.26:147][152]MapCheck: Warning: wood Material /Game/Models_Props/Shelves/wood.wood was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.05.04-21.04.26:148][152]LogMaterial: Warning: Material /Game/Models_Props/Chair/wood_009.wood_009 needed to have new flag set bUsedWithStaticLighting !
+[2018.05.04-21.04.26:151][152]LogMaterial: Missing cached shader map for material wood_009, compiling. 
+[2018.05.04-21.04.26:162][152]MapCheck: Warning: wood_009 Material /Game/Models_Props/Chair/wood_009.wood_009 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.05.04-21.04.26:163][152]LogMaterial: Warning: Material /Game/Models_Props/Chair/carpet_002.carpet_002 needed to have new flag set bUsedWithStaticLighting !
+[2018.05.04-21.04.26:166][152]LogMaterial: Missing cached shader map for material carpet_002, compiling. 
+[2018.05.04-21.04.26:178][152]MapCheck: Warning: carpet_002 Material /Game/Models_Props/Chair/carpet_002.carpet_002 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.05.04-21.04.26:180][152]LogMaterial: Warning: Material /Game/Models_Props/TV/metal_005.metal_005 needed to have new flag set bUsedWithStaticLighting !
+[2018.05.04-21.04.26:182][152]LogMaterial: Missing cached shader map for material metal_005, compiling. 
+[2018.05.04-21.04.26:192][152]MapCheck: Warning: metal_005 Material /Game/Models_Props/TV/metal_005.metal_005 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.05.04-21.04.26:193][152]LogMaterial: Warning: Material /Game/Models_Props/TV/wood_004.wood_004 needed to have new flag set bUsedWithStaticLighting !
+[2018.05.04-21.04.26:195][152]LogMaterial: Missing cached shader map for material wood_004, compiling. 
+[2018.05.04-21.04.26:204][152]MapCheck: Warning: wood_004 Material /Game/Models_Props/TV/wood_004.wood_004 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.05.04-21.04.26:204][152]LogMaterial: Warning: Material /Game/Models_Props/TV/metalMedium_002.metalMedium_002 needed to have new flag set bUsedWithStaticLighting !
+[2018.05.04-21.04.26:206][152]LogMaterial: Missing cached shader map for material metalMedium_002, compiling. 
+[2018.05.04-21.04.26:217][152]MapCheck: Warning: metalMedium_002 Material /Game/Models_Props/TV/metalMedium_002.metalMedium_002 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.05.04-21.04.26:217][152]LogMaterial: Warning: Material /Game/Models_Props/TV/metalDark_001.metalDark_001 needed to have new flag set bUsedWithStaticLighting !
+[2018.05.04-21.04.26:219][152]LogMaterial: Missing cached shader map for material metalDark_001, compiling. 
+[2018.05.04-21.04.26:229][152]MapCheck: Warning: metalDark_001 Material /Game/Models_Props/TV/metalDark_001.metalDark_001 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.05.04-21.04.26:232][152]LogMaterial: Warning: Material /Game/Models_Props/Cofe/carpetWhite.carpetWhite needed to have new flag set bUsedWithStaticLighting !
+[2018.05.04-21.04.26:234][152]LogMaterial: Missing cached shader map for material carpetWhite, compiling. 
+[2018.05.04-21.04.26:247][152]MapCheck: Warning: carpetWhite Material /Game/Models_Props/Cofe/carpetWhite.carpetWhite was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.05.04-21.04.26:299][152]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.04-21.04.26:300][152]LightingResults: New page: Lighting Build
+[2018.05.04-21.04.26:301][152]LoadErrors: New page: Loading map: Bessica_5.umap
+[2018.05.04-21.04.26:305][152]MapCheck: New page: Map Check
+[2018.05.04-21.04.26:305][152]LightingResults: New page: Lighting Build
+[2018.05.04-21.04.26:331][152]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Wall_400x314.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.04.26:331][152]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Wall_400x315.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.04.26:333][152]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Wall_400x316.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.04.26:333][152]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Wall_400x317.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.04.26:333][152]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Wall_400x318.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.04.26:335][152]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Wall_400x319.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.04.26:335][152]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Wall_400x320.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.04.26:335][152]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Wall_400x321.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.04.26:512][152]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.04-21.04.26:569][152]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.04-21.04.26:654][152]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 85.104ms to complete.
+[2018.05.04-21.04.26:654][152]LogFileHelpers: Loading map 'Bessica_5' took 0.356
+[2018.05.04-21.04.26:706][152]LogShaderCompilers: Display: Shaders left to compile 496
+[2018.05.04-21.04.28:196][213]LogSlate: Window 'Message Log' being destroyed
+[2018.05.04-21.04.28:201][213]LogSlate: Window 'Message Log' being destroyed
+[2018.05.04-21.04.28:448][226]LogShaderCompilers: Display: Shaders left to compile 486
+[2018.05.04-21.04.28:603][234]LogShaderCompilers: Display: Shaders left to compile 476
+[2018.05.04-21.04.29:342][276]LogShaderCompilers: Display: Shaders left to compile 466
+[2018.05.04-21.04.29:506][284]LogShaderCompilers: Display: Shaders left to compile 456
+[2018.05.04-21.04.30:852][346]LogShaderCompilers: Display: Shaders left to compile 446
+[2018.05.04-21.04.31:203][362]LogShaderCompilers: Display: Shaders left to compile 436
+[2018.05.04-21.04.31:256][365]LogShaderCompilers: Display: Shaders left to compile 426
+[2018.05.04-21.04.32:264][420]LogShaderCompilers: Display: Shaders left to compile 416
+[2018.05.04-21.04.32:791][451]LogShaderCompilers: Display: Shaders left to compile 406
+[2018.05.04-21.04.33:704][507]LogShaderCompilers: Display: Shaders left to compile 396
+[2018.05.04-21.04.33:842][514]LogShaderCompilers: Display: Shaders left to compile 386
+[2018.05.04-21.04.34:605][557]LogShaderCompilers: Display: Shaders left to compile 376
+[2018.05.04-21.04.35:118][579]LogShaderCompilers: Display: Shaders left to compile 366
+[2018.05.04-21.04.36:142][621]LogShaderCompilers: Display: Shaders left to compile 356
+[2018.05.04-21.04.36:497][628]LogShaderCompilers: Display: Shaders left to compile 346
+[2018.05.04-21.04.36:505][628]LogShaderCompilers: Display: Shaders left to compile 336
+[2018.05.04-21.04.36:684][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x443)
+[2018.05.04-21.04.37:389][661]LogShaderCompilers: Display: Shaders left to compile 326
+[2018.05.04-21.04.38:404][706]LogShaderCompilers: Display: Shaders left to compile 316
+[2018.05.04-21.04.38:691][714]LogShaderCompilers: Display: Shaders left to compile 306
+[2018.05.04-21.04.38:978][720]LogShaderCompilers: Display: Shaders left to compile 296
+[2018.05.04-21.04.40:115][753]LogShaderCompilers: Display: Shaders left to compile 286
+[2018.05.04-21.04.40:579][769]LogShaderCompilers: Display: Shaders left to compile 276
+[2018.05.04-21.04.40:848][777]LogShaderCompilers: Display: Shaders left to compile 266
+[2018.05.04-21.04.41:601][797]LogShaderCompilers: Display: Shaders left to compile 256
+[2018.05.04-21.04.42:472][820]LogShaderCompilers: Display: Shaders left to compile 246
+[2018.05.04-21.04.42:608][823]LogShaderCompilers: Display: Shaders left to compile 236
+[2018.05.04-21.04.43:567][855]LogShaderCompilers: Display: Shaders left to compile 226
+[2018.05.04-21.04.43:933][867]LogShaderCompilers: Display: Shaders left to compile 216
+[2018.05.04-21.04.44:336][880]LogShaderCompilers: Display: Shaders left to compile 206
+[2018.05.04-21.04.45:290][913]LogShaderCompilers: Display: Shaders left to compile 196
+[2018.05.04-21.04.45:729][929]LogShaderCompilers: Display: Shaders left to compile 186
+[2018.05.04-21.04.45:974][939]LogShaderCompilers: Display: Shaders left to compile 176
+[2018.05.04-21.04.46:917][971]LogShaderCompilers: Display: Shaders left to compile 166
+[2018.05.04-21.04.47:435][994]LogShaderCompilers: Display: Shaders left to compile 156
+[2018.05.04-21.04.47:805][ 12]LogShaderCompilers: Display: Shaders left to compile 146
+[2018.05.04-21.04.48:722][ 53]LogShaderCompilers: Display: Shaders left to compile 136
+[2018.05.04-21.04.48:948][ 63]LogShaderCompilers: Display: Shaders left to compile 126
+[2018.05.04-21.04.49:510][ 82]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.05.04-21.04.50:497][113]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.05.04-21.04.50:497][113]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.05.04-21.04.51:430][151]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.05.04-21.04.52:032][175]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.05.04-21.04.52:250][185]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.05.04-21.04.53:303][233]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.05.04-21.04.53:885][254]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.05.04-21.04.54:135][265]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.05.04-21.04.54:709][294]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.05.04-21.04.55:575][332]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.04-21.04.56:051][354]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.04-21.05.09:493][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.05.09:941][213]LogSavePackage: Save=295.34ms
+[2018.05.04-21.05.09:941][213]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_5E21444D2476531549DD24492B56BAFBA.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5.umap'
+[2018.05.04-21.05.09:943][213]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5.umap
+[2018.05.04-21.05.10:022][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Bessica_5_BuiltData" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5_BuiltData.uasset" SILENT=true
+[2018.05.04-21.05.10:390][213]LogSavePackage: Save=351.07ms
+[2018.05.04-21.05.10:390][213]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_5_BuiltDataF13DCCED416914729648A5BBC12FF039.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5_BuiltData.uasset'
+[2018.05.04-21.05.10:391][213]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5_BuiltData.uasset
+[2018.05.04-21.05.11:664][276]LogAIModule: Creating AISystem for world Bessica_4
+[2018.05.04-21.05.11:738][276]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.04-21.05.11:738][276]LightingResults: New page: Lighting Build
+[2018.05.04-21.05.11:739][276]LoadErrors: New page: Loading map: Bessica_4.umap
+[2018.05.04-21.05.11:742][276]MapCheck: New page: Map Check
+[2018.05.04-21.05.11:742][276]LightingResults: New page: Lighting Build
+[2018.05.04-21.05.11:769][276]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.05.11:769][276]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.05.11:769][276]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Wall_400x312.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.05.11:770][276]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Wall_400x313.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.05.11:974][276]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.04-21.05.12:032][276]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.04-21.05.12:108][276]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76.126ms to complete.
+[2018.05.04-21.05.12:108][276]LogFileHelpers: Loading map 'Bessica_4' took 0.371
+[2018.05.04-21.05.24:036][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.05.43:119][270]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door2)
+[2018.05.04-21.05.44:749][379]LogEditorViewport: Clicking on Actor (LMB): Filing_Cabinet_C (Filing_Cabinet5)
+[2018.05.04-21.05.45:613][433]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door2)
+[2018.05.04-21.05.55:492][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.05.56:063][ 92]LogSavePackage: Save=442.60ms
+[2018.05.04-21.05.56:063][ 92]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_42AC12F414D6CBC5C81FFFD84ACAC500F.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4.umap'
+[2018.05.04-21.05.56:065][ 92]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4.umap
+[2018.05.04-21.05.56:164][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Bessica_4_BuiltData" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4_BuiltData.uasset" SILENT=true
+[2018.05.04-21.05.56:884][ 92]LogSavePackage: Save=716.71ms
+[2018.05.04-21.05.56:884][ 92]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_4_BuiltDataDAE016C54E330E01F20057A05D0A8B35.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4_BuiltData.uasset'
+[2018.05.04-21.05.56:887][ 92]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4_BuiltData.uasset
+[2018.05.04-21.06.01:045][201]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-21.06.01:090][201]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4' with GeneratedClass '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4'
+[2018.05.04-21.06.01:091][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-21.06.01:091][201]PIE: New page: PIE session: Bessica_4 (May 4, 2018, 7:06:01 AM)
+[2018.05.04-21.06.01:092][201]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4
+[2018.05.04-21.06.01:126][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034421s)
+[2018.05.04-21.06.01:127][201]LogAIModule: Creating AISystem for world Bessica_4
+[2018.05.04-21.06.01:127][201]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2018.05.04-21.06.01:127][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Bessica_4.Bessica_4 to /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4.Bessica_4 (0.035599s)
+[2018.05.04-21.06.01:155][201]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.04-21.06.01:173][201]LogInit: FAudioDevice initialized.
+[2018.05.04-21.06.01:632][201]LogSkeletalMesh: Skeletal Mesh found in DDC [3.543033ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.05.04-21.06.01:688][201]LogSkeletalMesh: Skeletal Mesh found in DDC [5.317482ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.05.04-21.06.01:726][201]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-21.06.01:738][201]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4.Bessica_4:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.06.01:738][201]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4.Bessica_4:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.06.01:739][201]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4.Bessica_4:PersistentLevel.Wall_400x312.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.06.01:739][201]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4.Bessica_4:PersistentLevel.Wall_400x313.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.06.01:740][201]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4.Bessica_4 up for play (max tick rate 0) at 2018.05.04-14.06.01
+[2018.05.04-21.06.01:741][201]LogWorld: Bringing up level for play took: 0.012712
+[2018.05.04-21.06.01:745][201]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.05.04-21.06.01:747][201]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4 0.739
+[2018.05.04-21.06.01:748][201]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4' with GeneratedClass '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4'
+[2018.05.04-21.06.56:317][668]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4' with GeneratedClass '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4'
+[2018.05.04-21.06.56:368][668]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4' with GeneratedClass '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4'
+[2018.05.04-21.06.57:377][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.06.57:852][728]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.05.04-21.06.58:678][728]LogSlate: Took 0.007876 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.04-21.06.58:796][729]LogSlate: Took 0.003801 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.04-21.07.05:144][339]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-21.07.05:166][339]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4' with GeneratedClass '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4'
+[2018.05.04-21.07.05:166][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-21.07.05:166][339]PIE: New page: PIE session: Bessica_4 (May 4, 2018, 7:07:05 AM)
+[2018.05.04-21.07.05:166][339]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4
+[2018.05.04-21.07.05:186][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019195s)
+[2018.05.04-21.07.05:186][339]LogAIModule: Creating AISystem for world Bessica_4
+[2018.05.04-21.07.05:186][339]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2018.05.04-21.07.05:186][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Bessica_4.Bessica_4 to /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4.Bessica_4 (0.019971s)
+[2018.05.04-21.07.05:211][339]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.04-21.07.05:221][339]LogInit: FAudioDevice initialized.
+[2018.05.04-21.07.05:249][339]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-21.07.05:258][339]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4.Bessica_4:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.07.05:258][339]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4.Bessica_4:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.07.05:259][339]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4.Bessica_4:PersistentLevel.Wall_400x312.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.07.05:259][339]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4.Bessica_4:PersistentLevel.Wall_400x313.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.07.05:260][339]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4.Bessica_4 up for play (max tick rate 0) at 2018.05.04-14.07.05
+[2018.05.04-21.07.05:261][339]LogWorld: Bringing up level for play took: 0.011163
+[2018.05.04-21.07.05:263][339]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4 0.255
+[2018.05.04-21.07.05:263][339]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4' with GeneratedClass '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4'
+[2018.05.04-21.07.28:786][949]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4' with GeneratedClass '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4'
+[2018.05.04-21.07.28:853][949]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4' with GeneratedClass '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4'
+[2018.05.04-21.07.29:670][993]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door2)
+[2018.05.04-21.07.47:705][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.07.47:763][128]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-21.07.47:779][128]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4' with GeneratedClass '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4'
+[2018.05.04-21.07.47:779][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-21.07.47:779][128]PIE: New page: PIE session: Bessica_4 (May 4, 2018, 7:07:47 AM)
+[2018.05.04-21.07.47:779][128]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4
+[2018.05.04-21.07.47:799][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019124s)
+[2018.05.04-21.07.47:799][128]LogAIModule: Creating AISystem for world Bessica_4
+[2018.05.04-21.07.47:799][128]LogPlayLevel: PIE: World Init took: (0.000561s)
+[2018.05.04-21.07.47:799][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Bessica_4.Bessica_4 to /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4.Bessica_4 (0.019860s)
+[2018.05.04-21.07.47:822][128]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.04-21.07.47:831][128]LogInit: FAudioDevice initialized.
+[2018.05.04-21.07.47:861][128]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-21.07.47:870][128]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4.Bessica_4:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.07.47:871][128]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4.Bessica_4:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.07.47:871][128]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4.Bessica_4:PersistentLevel.Wall_400x312.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.07.47:871][128]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4.Bessica_4:PersistentLevel.Wall_400x313.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.07.47:872][128]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4.Bessica_4 up for play (max tick rate 0) at 2018.05.04-14.07.47
+[2018.05.04-21.07.47:873][128]LogWorld: Bringing up level for play took: 0.010875
+[2018.05.04-21.07.47:875][128]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4 0.867
+[2018.05.04-21.07.47:875][128]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4' with GeneratedClass '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4'
+[2018.05.04-21.08.32:427][467]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4' with GeneratedClass '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4'
+[2018.05.04-21.08.32:477][467]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4' with GeneratedClass '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4'
+[2018.05.04-21.08.41:639][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door11)
+[2018.05.04-21.08.43:150][125]Cmd: DELETE
+[2018.05.04-21.08.43:150][125]Cmd: ACTOR DELETE
+[2018.05.04-21.08.43:159][125]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.04-21.08.43:160][125]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.04-21.08.43:177][125]LogEditorActor: Deleted 2 Actors (0.027 secs)
+[2018.05.04-21.08.44:876][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.08.57:413][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow2)
+[2018.05.04-21.09.00:318][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.09.10:258][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.09.43:649][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x437)
+[2018.05.04-21.09.44:947][609]Cmd: DELETE
+[2018.05.04-21.09.44:947][609]Cmd: ACTOR DELETE
+[2018.05.04-21.09.44:956][609]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.04-21.09.44:974][609]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.05.04-21.09.48:789][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.10.27:061][ 66]Cmd: TRANSACTION UNDO
+[2018.05.04-21.10.27:061][ 66]LogEditorTransaction: Undo Move Actors
+[2018.05.04-21.10.27:080][ 66]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.05.04-21.10.27:080][ 66]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.05.04-21.10.27:080][ 66]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2018.05.04-21.10.30:979][277]Cmd: TRANSACTION UNDO
+[2018.05.04-21.10.30:979][277]LogEditorTransaction: Undo Move Actors
+[2018.05.04-21.10.30:999][277]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.05.04-21.10.30:999][277]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.05.04-21.10.31:000][277]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2018.05.04-21.10.53:881][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.10.53:930][630]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-21.10.53:947][630]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4' with GeneratedClass '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4'
+[2018.05.04-21.10.53:947][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-21.10.53:947][630]PIE: New page: PIE session: Bessica_4 (May 4, 2018, 7:10:53 AM)
+[2018.05.04-21.10.53:947][630]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4
+[2018.05.04-21.10.53:967][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020210s)
+[2018.05.04-21.10.53:968][630]LogAIModule: Creating AISystem for world Bessica_4
+[2018.05.04-21.10.53:968][630]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2018.05.04-21.10.53:968][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Bessica_4.Bessica_4 to /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4.Bessica_4 (0.020997s)
+[2018.05.04-21.10.53:990][630]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.04-21.10.54:000][630]LogInit: FAudioDevice initialized.
+[2018.05.04-21.10.54:034][630]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-21.10.54:044][630]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4.Bessica_4:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.10.54:044][630]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4.Bessica_4:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.10.54:044][630]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4.Bessica_4:PersistentLevel.Wall_400x312.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.10.54:044][630]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4.Bessica_4:PersistentLevel.Wall_400x313.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.10.54:045][630]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4.Bessica_4 up for play (max tick rate 0) at 2018.05.04-14.10.54
+[2018.05.04-21.10.54:046][630]LogWorld: Bringing up level for play took: 0.011364
+[2018.05.04-21.10.54:048][630]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_4 1.04
+[2018.05.04-21.10.54:048][630]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4' with GeneratedClass '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4'
+[2018.05.04-21.11.21:898][277]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4' with GeneratedClass '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4'
+[2018.05.04-21.11.21:966][277]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4' with GeneratedClass '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Bessica_4'
+[2018.05.04-21.11.28:019][588]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.28:019][588]LogEditorTransaction: Undo Move Actors
+[2018.05.04-21.11.28:042][588]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.05.04-21.11.28:042][588]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.05.04-21.11.28:042][588]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2018.05.04-21.11.28:378][595]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.28:378][595]LogEditorTransaction: Undo Scale Actors
+[2018.05.04-21.11.28:387][595]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.05.04-21.11.28:387][595]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.05.04-21.11.28:387][595]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2018.05.04-21.11.28:661][609]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.28:661][609]LogEditorTransaction: Undo Move Actors
+[2018.05.04-21.11.28:682][609]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.05.04-21.11.28:682][609]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.05.04-21.11.28:682][609]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2018.05.04-21.11.29:064][628]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.29:064][628]LogEditorTransaction: Undo Scale Actors
+[2018.05.04-21.11.29:086][628]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.05.04-21.11.29:086][628]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.05.04-21.11.29:086][628]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2018.05.04-21.11.29:228][633]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.29:228][633]LogEditorTransaction: Undo Move Actors
+[2018.05.04-21.11.29:250][633]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2018.05.04-21.11.29:251][633]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush5.BrushComponent0) Component already registered.
+[2018.05.04-21.11.29:252][633]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2018.05.04-21.11.29:417][640]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.29:417][640]LogEditorTransaction: Undo Scale Actors
+[2018.05.04-21.11.29:442][640]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.05.04-21.11.29:443][640]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.05.04-21.11.29:443][640]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2018.05.04-21.11.29:608][648]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.29:608][648]LogEditorTransaction: Undo Scale Actors
+[2018.05.04-21.11.29:630][648]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.05.04-21.11.29:630][648]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.05.04-21.11.29:630][648]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2018.05.04-21.11.29:787][657]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.29:787][657]LogEditorTransaction: Undo Move Actors
+[2018.05.04-21.11.29:808][657]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.05.04-21.11.29:809][657]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.05.04-21.11.29:809][657]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2018.05.04-21.11.30:112][672]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.30:112][672]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.04-21.11.30:491][689]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.30:491][689]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.04-21.11.30:828][705]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.30:828][705]LogEditorTransaction: Undo Disband Group
+[2018.05.04-21.11.31:167][719]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.31:167][719]LogEditorTransaction: Undo Select Brush Surface
+[2018.05.04-21.11.31:525][734]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.31:525][734]LogEditorTransaction: Undo Delete Actors
+[2018.05.04-21.11.31:807][743]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.31:807][743]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.04-21.11.32:389][774]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.32:389][774]LogEditorTransaction: Undo Move Actors
+[2018.05.04-21.11.32:418][774]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.05.04-21.11.32:418][774]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.05.04-21.11.32:419][774]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2018.05.04-21.11.32:782][793]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.32:782][793]LogEditorTransaction: Undo Move Actors
+[2018.05.04-21.11.32:803][793]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.05.04-21.11.32:803][793]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.05.04-21.11.32:803][793]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2018.05.04-21.11.33:134][812]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.33:134][812]LogEditorTransaction: Undo Scale Actors
+[2018.05.04-21.11.33:155][812]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.05.04-21.11.33:155][812]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.05.04-21.11.33:155][812]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2018.05.04-21.11.33:296][818]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.33:296][818]LogEditorTransaction: Undo Move Actors
+[2018.05.04-21.11.33:317][818]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.05.04-21.11.33:317][818]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.05.04-21.11.33:318][818]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2018.05.04-21.11.33:442][823]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.33:442][823]LogEditorTransaction: Undo Scale Actors
+[2018.05.04-21.11.33:462][823]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.05.04-21.11.33:462][823]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.05.04-21.11.33:463][823]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2018.05.04-21.11.33:878][843]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.33:878][843]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.04-21.11.34:264][861]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.34:264][861]LogEditorTransaction: Undo Regroup Ctrl+G
+[2018.05.04-21.11.34:604][876]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.34:604][876]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.04-21.11.34:966][894]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.34:966][894]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.04-21.11.35:396][918]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.35:396][918]LogEditorTransaction: Undo Move Actors
+[2018.05.04-21.11.36:336][970]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.36:336][970]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.04-21.11.36:909][  2]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.36:909][  2]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.04-21.11.37:388][ 30]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.37:388][ 30]LogEditorTransaction: Undo Disband Group
+[2018.05.04-21.11.37:963][ 60]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.37:964][ 60]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.04-21.11.38:232][ 60]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.267 s
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: 
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: Ensure condition failed: Model->Surfs.IsValidIndex(Node.iSurf) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Engine\Private\ModelRender.cpp] [Line: 621]
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: Invalid Surf Index, Idx:40, Num:22
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: Stack: 
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: [Callstack] 0x00000000EBD5B6F6 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: [Callstack] 0x00000000EBABAE2A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: [Callstack] 0x00000000EBACECC6 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: [Callstack] 0x00000000E66E09F5 UE4Editor-Engine.dll!UnknownFunction []
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: [Callstack] 0x00000000E66D9499 UE4Editor-Engine.dll!UnknownFunction []
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: [Callstack] 0x00000000E24BC828 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: [Callstack] 0x00000000E24B08C4 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: [Callstack] 0x00000000E24D7D3F UE4Editor-Renderer.dll!UnknownFunction []
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: [Callstack] 0x00000000E24BB5E8 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: [Callstack] 0x00000000E24BF315 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: [Callstack] 0x00000000E24D25B2 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: [Callstack] 0x00000000E1F2725A UE4Editor-Renderer.dll!UnknownFunction []
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: [Callstack] 0x00000000E24E5F21 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: [Callstack] 0x00000000E24C9DF4 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: [Callstack] 0x00000000EB98B713 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: [Callstack] 0x00000000EB98BD3A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: [Callstack] 0x00000000FFFE3CC9 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: [Callstack] 0x00000000FFFE4CF6 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: [Callstack] 0x00000000EBD59FEC UE4Editor-Core.dll!UnknownFunction []
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: [Callstack] 0x00000000EBD4ED53 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: [Callstack] 0x000000001DA61FE4 KERNEL32.DLL!UnknownFunction []
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: [Callstack] 0x000000001E97F061 ntdll.dll!UnknownFunction []
+[2018.05.04-21.11.38:232][ 60]LogOutputDevice: Error: 
+[2018.05.04-21.11.38:232][ 60]LogStats:                SubmitErrorReport -  0.000 s
+[2018.05.04-21.11.38:648][ 60]LogStats:                    SendNewReport -  0.415 s
+[2018.05.04-21.11.38:648][ 60]LogStats:             FDebug::EnsureFailed -  0.682 s
+[2018.05.04-21.11.38:710][ 61]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.38:710][ 61]LogEditorTransaction: Undo Select Brush Surface
+[2018.05.04-21.11.40:242][139]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.40:242][139]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.04-21.11.41:263][195]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.41:263][195]LogEditorTransaction: Undo Create Actors
+[2018.05.04-21.11.41:985][236]Cmd: TRANSACTION UNDO
+[2018.05.04-21.11.41:985][236]LogEditorTransaction: Undo Delete Actors
+[2018.05.04-21.11.58:402][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.12.22:595][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.12.23:260][403]LogSavePackage: Save=483.06ms
+[2018.05.04-21.12.23:260][403]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_4836C0FA44E5A3392DD691EABC099F754.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4.umap'
+[2018.05.04-21.12.23:262][403]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4.umap
+[2018.05.04-21.12.23:362][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Bessica_4_BuiltData" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4_BuiltData.uasset" SILENT=true
+[2018.05.04-21.12.23:817][403]LogSavePackage: Save=430.94ms
+[2018.05.04-21.12.23:818][403]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_4_BuiltData5615102547AA1B6E8A26219C4207109E.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4_BuiltData.uasset'
+[2018.05.04-21.12.23:820][403]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4_BuiltData.uasset
+[2018.05.04-21.12.27:165][554]LogAIModule: Creating AISystem for world Bessica_5
+[2018.05.04-21.12.27:241][554]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.04-21.12.27:241][554]LightingResults: New page: Lighting Build
+[2018.05.04-21.12.27:243][554]LoadErrors: New page: Loading map: Bessica_5.umap
+[2018.05.04-21.12.27:247][554]MapCheck: New page: Map Check
+[2018.05.04-21.12.27:247][554]LightingResults: New page: Lighting Build
+[2018.05.04-21.12.27:277][554]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Wall_400x314.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.12.27:278][554]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Wall_400x315.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.12.27:279][554]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Wall_400x316.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.12.27:279][554]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Wall_400x317.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.12.27:280][554]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Wall_400x318.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.12.27:281][554]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Wall_400x319.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.12.27:281][554]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Wall_400x320.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.12.27:281][554]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Wall_400x321.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.12.27:477][554]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.04-21.12.27:528][554]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.04-21.12.27:599][554]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.882ms to complete.
+[2018.05.04-21.12.27:599][554]LogFileHelpers: Loading map 'Bessica_5' took 0.359
+[2018.05.04-21.12.36:684][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.13.07:623][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x463)
+[2018.05.04-21.13.15:724][181]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2018.05.04-21.13.21:289][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x463)
+[2018.05.04-21.13.49:898][ 92]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2018.05.04-21.13.56:037][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x468)
+[2018.05.04-21.14.09:463][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x468)
+[2018.05.04-21.14.12:734][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x468)
+[2018.05.04-21.14.36:773][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.14.36:839][708]Cmd: MODE SCALEGRID=0
+[2018.05.04-21.14.40:778][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x469)
+[2018.05.04-21.14.46:829][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x469)
+[2018.05.04-21.14.50:914][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x469)
+[2018.05.04-21.14.57:168][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.15.07:139][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x469)
+[2018.05.04-21.15.14:862][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x469)
+[2018.05.04-21.15.18:905][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.15.18:974][843]Cmd: MODE ROTGRID=0
+[2018.05.04-21.15.24:875][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x469)
+[2018.05.04-21.15.35:657][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.15.41:173][ 93]Cmd: MODE ROTGRID=1
+[2018.05.04-21.15.41:606][118]Cmd: MODE SCALEGRID=1
+[2018.05.04-21.15.48:239][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x468)
+[2018.05.04-21.15.52:977][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x463)
+[2018.05.04-21.15.54:316][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x468)
+[2018.05.04-21.15.56:133][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.15.56:199][937]Cmd: MODE SCALEGRID=0
+[2018.05.04-21.15.56:652][963]Cmd: MODE ROTGRID=0
+[2018.05.04-21.16.09:803][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x469)
+[2018.05.04-21.16.15:374][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x469)
+[2018.05.04-21.16.19:470][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x461)
+[2018.05.04-21.16.25:622][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.16.25:654][677]Cmd: MODE ROTGRID=1
+[2018.05.04-21.16.26:214][709]Cmd: MODE SCALEGRID=1
+[2018.05.04-21.16.35:966][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.16.36:032][280]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-21.16.36:053][280]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Bessica_5' with GeneratedClass '/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Bessica_5'
+[2018.05.04-21.16.36:053][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-21.16.36:053][280]PIE: New page: PIE session: Bessica_5 (May 4, 2018, 7:16:36 AM)
+[2018.05.04-21.16.36:053][280]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_5
+[2018.05.04-21.16.36:065][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012071s)
+[2018.05.04-21.16.36:066][280]LogAIModule: Creating AISystem for world Bessica_5
+[2018.05.04-21.16.36:066][280]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2018.05.04-21.16.36:066][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Bessica_5.Bessica_5 to /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_5.Bessica_5 (0.012856s)
+[2018.05.04-21.16.36:093][280]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.04-21.16.36:103][280]LogInit: FAudioDevice initialized.
+[2018.05.04-21.16.36:136][280]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.04-21.16.36:141][280]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_5.Bessica_5:PersistentLevel.Wall_400x314.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.16.36:141][280]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_5.Bessica_5:PersistentLevel.Wall_400x315.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.16.36:142][280]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_5.Bessica_5:PersistentLevel.Wall_400x316.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.16.36:142][280]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_5.Bessica_5:PersistentLevel.Wall_400x317.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.16.36:142][280]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_5.Bessica_5:PersistentLevel.Wall_400x318.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.16.36:144][280]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_5.Bessica_5:PersistentLevel.Wall_400x319.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.16.36:144][280]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_5.Bessica_5:PersistentLevel.Wall_400x320.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.16.36:144][280]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_5.Bessica_5:PersistentLevel.Wall_400x321.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.16.36:144][280]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_5.Bessica_5 up for play (max tick rate 0) at 2018.05.04-14.16.36
+[2018.05.04-21.16.36:145][280]LogWorld: Bringing up level for play took: 0.007756
+[2018.05.04-21.16.36:147][280]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Bessica_5 -0.861
+[2018.05.04-21.16.36:147][280]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Bessica_5' with GeneratedClass '/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Bessica_5'
+[2018.05.04-21.17.38:564][103]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Bessica_5' with GeneratedClass '/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Bessica_5'
+[2018.05.04-21.17.38:614][103]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Bessica_5' with GeneratedClass '/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Bessica_5'
+[2018.05.04-21.17.42:683][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x439)
+[2018.05.04-21.17.59:929][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x428)
+[2018.05.04-21.18.13:616][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.18.14:080][208]LogSavePackage: Save=296.14ms
+[2018.05.04-21.18.14:080][208]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_59FB1441B4161611704AE309E63054624.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5.umap'
+[2018.05.04-21.18.14:084][208]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5.umap
+[2018.05.04-21.18.14:230][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Bessica_5_BuiltData" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5_BuiltData.uasset" SILENT=true
+[2018.05.04-21.18.14:609][208]LogSavePackage: Save=358.26ms
+[2018.05.04-21.18.14:609][208]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_5_BuiltData716109854FD1BD446FACFAADA2E6ACF0.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5_BuiltData.uasset'
+[2018.05.04-21.18.14:610][208]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5_BuiltData.uasset
+[2018.05.04-21.19.22:268][476]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-21.19.32:953][150]LogEditorViewport: Clicking on Actor (LMB): Filing_Cabinet_C (Filing_Cabinet22)
+[2018.05.04-21.19.44:711][815]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x439)
+[2018.05.04-21.20.07:198][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x428)
+[2018.05.04-21.20.22:956][935]LogEditorViewport: Clicking on Actor (LMB): Filing_Cabinet_C (Filing_Cabinet33)
+[2018.05.04-21.20.30:146][421]LogEditorViewport: Clicking on Actor (LMB): Lamp_C (Lamp21)
+[2018.05.04-21.20.33:990][690]LogEditorViewport: Clicking on Actor (LMB): Filing_Cabinet_C (Filing_Cabinet23)
+[2018.05.04-21.20.36:297][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.20.41:698][967]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-21.20.52:306][544]LogEditorViewport: Clicking on Actor (LMB): Lamp_C (Lamp11)
+[2018.05.04-21.20.53:209][590]LogEditorViewport: Clicking on Actor (LMB): Lamp_C (Lamp)
+[2018.05.04-21.20.54:121][636]Cmd: DELETE
+[2018.05.04-21.20.54:121][636]Cmd: ACTOR DELETE
+[2018.05.04-21.20.54:127][636]LogEditorActor: Deleted Actor: Lamp_C
+[2018.05.04-21.20.54:157][636]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2018.05.04-21.20.54:751][671]LogEditorViewport: Clicking on Actor (LMB): Lamp_C (Lamp11)
+[2018.05.04-21.21.17:261][906]LogEditorViewport: Clicking on Actor (LMB): Filing_Cabinet_C (Filing_Cabinet23)
+[2018.05.04-21.21.27:292][448]LogEditorViewport: Clicking on Actor (LMB): Filing_Cabinet_C (Filing_Cabinet24)
+[2018.05.04-21.21.29:951][591]LogEditorViewport: Clicking on Actor (LMB): Filing_Cabinet_C (Filing_Cabinet35)
+[2018.05.04-21.21.32:002][698]LogEditorViewport: Clicking on Actor (LMB): Filing_Cabinet_C (Filing_Cabinet35)
+[2018.05.04-21.21.32:939][746]Cmd: DELETE
+[2018.05.04-21.21.32:939][746]Cmd: ACTOR DELETE
+[2018.05.04-21.21.32:945][746]LogEditorActor: Deleted Actor: Filing_Cabinet_C
+[2018.05.04-21.21.32:969][746]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2018.05.04-21.21.39:430][120]LogEditorViewport: Clicking on Actor (LMB): Filing_Cabinet_C (Filing_Cabinet23)
+[2018.05.04-21.21.43:535][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x466)
+[2018.05.04-21.21.53:028][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plant21)
+[2018.05.04-21.22.00:435][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.22.13:474][910]LogActorFactory: Actor Factory created Plant3
+[2018.05.04-21.22.14:108][939]LogActorFactory: Actor Factory created Plant3
+[2018.05.04-21.22.16:058][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.22.56:730][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.22.57:221][224]LogSavePackage: Save=328.69ms
+[2018.05.04-21.22.57:221][224]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_53F8A86C443D86E80EE80D886AB6773AD.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5.umap'
+[2018.05.04-21.22.57:224][224]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5.umap
+[2018.05.04-21.22.57:353][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Bessica_5_BuiltData" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5_BuiltData.uasset" SILENT=true
+[2018.05.04-21.22.57:564][224]LogSavePackage: Save=206.69ms
+[2018.05.04-21.22.57:564][224]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_5_BuiltData58D2DAB84751C7F1EF2DDE84B9684451.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5_BuiltData.uasset'
+[2018.05.04-21.22.57:565][224]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5_BuiltData.uasset
+[2018.05.04-21.23.02:105][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.23.03:340][532]LogActorFactory: Actor Factory created Office_Phone_Cube_010
+[2018.05.04-21.23.03:885][554]LogActorFactory: Actor Factory created Office_Phone_Cube_010
+[2018.05.04-21.23.05:105][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.23.10:512][907]LogActorFactory: Actor Factory created Office_Phone_Cube
+[2018.05.04-21.23.12:185][991]LogActorFactory: Actor Factory created Office_Phone_Cube
+[2018.05.04-21.23.13:913][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.23.25:933][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Office_Phone_Cube_010)
+[2018.05.04-21.23.41:185][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x461)
+[2018.05.04-21.24.04:036][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.24.04:564][879]LogSavePackage: Save=370.98ms
+[2018.05.04-21.24.04:564][879]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_5E6EFFFCF4C1F93839A5659BEB7BA2A61.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5.umap'
+[2018.05.04-21.24.04:567][879]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5.umap
+[2018.05.04-21.24.04:676][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Bessica_5_BuiltData" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5_BuiltData.uasset" SILENT=true
+[2018.05.04-21.24.04:893][879]LogSavePackage: Save=202.93ms
+[2018.05.04-21.24.04:893][879]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_5_BuiltData2A0516AB4BF9DB5515A40B996688B47A.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5_BuiltData.uasset'
+[2018.05.04-21.24.04:894][879]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5_BuiltData.uasset
+[2018.05.04-21.24.08:045][ 23]LogAIModule: Creating AISystem for world Bessica_4
+[2018.05.04-21.24.15:750][ 89]LogSlate: Window 'Submit Files' being destroyed
+[2018.05.04-21.24.17:268][ 89]LogSourceControl: commit successful: [master 2af1938] map touchups
+[2018.05.04-21.24.17:312][ 89]SourceControl: [master 2af1938] map touchups
+[2018.05.04-21.24.17:312][ 89]SourceControl:  2 files changed, 4 insertions(+), 4 deletions(-)
+[2018.05.04-21.24.17:317][ 89]SourceControl: Commited [master 2af1938] map touchups.
+[2018.05.04-21.24.51:834][284]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.04-21.24.51:834][284]LightingResults: New page: Lighting Build
+[2018.05.04-21.24.51:835][284]LoadErrors: New page: Loading map: Bessica_4.umap
+[2018.05.04-21.24.51:839][284]MapCheck: New page: Map Check
+[2018.05.04-21.24.51:839][284]LightingResults: New page: Lighting Build
+[2018.05.04-21.24.51:872][284]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.24.51:872][284]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.24.51:872][284]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Wall_400x312.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.24.51:872][284]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Wall_400x313.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.24.52:126][284]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.04-21.24.52:176][284]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.04-21.24.52:241][284]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.065ms to complete.
+[2018.05.04-21.24.52:243][284]LogFileHelpers: Loading map 'Bessica_4' took 0.409
+[2018.05.04-21.24.54:150][368]LogAIModule: Creating AISystem for world Bessica_5
+[2018.05.04-21.24.54:218][368]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.04-21.24.54:218][368]LightingResults: New page: Lighting Build
+[2018.05.04-21.24.54:219][368]LoadErrors: New page: Loading map: Bessica_5.umap
+[2018.05.04-21.24.54:223][368]MapCheck: New page: Map Check
+[2018.05.04-21.24.54:223][368]LightingResults: New page: Lighting Build
+[2018.05.04-21.24.54:248][368]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Wall_400x314.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.24.54:248][368]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Wall_400x315.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.24.54:249][368]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Wall_400x316.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.24.54:249][368]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Wall_400x317.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.24.54:249][368]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Wall_400x318.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.24.54:250][368]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Wall_400x319.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.24.54:250][368]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Wall_400x320.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.24.54:250][368]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_5.Bessica_5:PersistentLevel.Wall_400x321.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.24.54:498][368]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.04-21.24.54:554][368]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.04-21.24.54:621][368]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66.924ms to complete.
+[2018.05.04-21.24.54:621][368]LogFileHelpers: Loading map 'Bessica_5' took 0.404
+[2018.05.04-21.25.15:901][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cofee_mug5)
+[2018.05.04-21.25.17:131][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cofee_mug3)
+[2018.05.04-21.25.18:271][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Throw_pillow2)
+[2018.05.04-21.25.18:929][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x449)
+[2018.05.04-21.25.19:568][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x449)
+[2018.05.04-21.25.21:021][877]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x449)
+[2018.05.04-21.25.21:077][877]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-21.25.21:733][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x449)
+[2018.05.04-21.25.22:635][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cofe_table3)
+[2018.05.04-21.33.32:420][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x432)
+[2018.05.04-21.33.38:151][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x432)
+[2018.05.04-21.33.39:080][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x443)
+[2018.05.04-21.33.40:098][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x447)
+[2018.05.04-21.33.43:211][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x432)
+[2018.05.04-21.33.48:178][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x431)
+[2018.05.04-21.33.58:866][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x444)
+[2018.05.04-21.34.02:648][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lounge_chair3)
+[2018.05.04-21.34.05:770][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x442)
+[2018.05.04-21.34.17:668][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x448)
+[2018.05.04-21.34.40:579][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Long_couch)
+[2018.05.04-21.34.44:065][713]Cmd: TRANSACTION UNDO
+[2018.05.04-21.34.44:065][713]LogEditorTransaction: Undo Move Actors
+[2018.05.04-21.34.54:457][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Kitchen_bar2)
+[2018.05.04-21.35.01:124][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Kitchen_Counter_Corner)
+[2018.05.04-21.35.02:225][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Kitchen_Counter_Corner)
+[2018.05.04-21.35.07:036][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bathroom_cabinet)
+[2018.05.04-21.35.14:027][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stool12)
+[2018.05.04-21.35.28:052][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shelves3)
+[2018.05.04-21.35.33:893][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plant17)
+[2018.05.04-21.35.38:443][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lounge_chair_corner2)
+[2018.05.04-21.35.49:556][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x453)
+[2018.05.04-21.35.53:658][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.35.53:780][333]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-21.35.54:191][333]LogSavePackage: Save=381.16ms
+[2018.05.04-21.35.54:191][333]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_5F935D8AE4C2474E0C0B3A5AAC9A6169C.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5.umap'
+[2018.05.04-21.35.54:195][333]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5.umap
+[2018.05.04-21.35.54:343][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Bessica_5_BuiltData" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5_BuiltData.uasset" SILENT=true
+[2018.05.04-21.35.54:689][333]LogSavePackage: Save=328.79ms
+[2018.05.04-21.35.54:689][333]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_5_BuiltData68A88B58450BE2BF526058928666719D.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5_BuiltData.uasset'
+[2018.05.04-21.35.54:690][333]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5_BuiltData.uasset
+[2018.05.04-21.36.07:556][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-21.36.07:826][988]LogAIModule: Creating AISystem for world Bessica_4
+[2018.05.04-21.36.07:914][988]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.04-21.36.07:914][988]LightingResults: New page: Lighting Build
+[2018.05.04-21.36.07:916][988]LoadErrors: New page: Loading map: Bessica_4.umap
+[2018.05.04-21.36.07:919][988]MapCheck: New page: Map Check
+[2018.05.04-21.36.07:919][988]LightingResults: New page: Lighting Build
+[2018.05.04-21.36.07:953][988]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.36.07:953][988]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.36.07:953][988]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Wall_400x312.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.36.07:953][988]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Bessica_4.Bessica_4:PersistentLevel.Wall_400x313.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.36.08:297][988]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.04-21.36.08:369][988]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.04-21.36.08:437][988]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.59ms to complete.
+[2018.05.04-21.36.08:437][988]LogFileHelpers: Loading map 'Bessica_4' took 0.524
+[2018.05.04-21.36.18:817][498]BlueprintLog: New page: Compile Bessica_4
+[2018.05.04-21.36.19:990][521]LogSavePackage: Save=465.87ms
+[2018.05.04-21.36.19:990][521]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_4668B23BB4751F76FC499A99F8ECF8527.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4.umap'
+[2018.05.04-21.36.19:993][521]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4.umap
+[2018.05.04-21.36.20:022][521]LogFileHelpers: Saving map 'Bessica_4' took 0.611
+[2018.05.04-21.36.21:587][593]LogSlate: Window 'Bessica - Level Blueprint Editor' being destroyed
+[2018.05.04-21.36.23:391][654]LogSavePackage: Save=509.11ms
+[2018.05.04-21.36.23:391][654]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_4F347253541D2397001898EA1FCA03481.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4.umap'
+[2018.05.04-21.36.23:394][654]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4.umap
+[2018.05.04-21.36.23:491][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Bessica_4_BuiltData" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4_BuiltData.uasset" SILENT=true
+[2018.05.04-21.36.24:172][654]LogSavePackage: Save=653.88ms
+[2018.05.04-21.36.24:172][654]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_4_BuiltData66A886BA43454511FFB597B35B51A0EA.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4_BuiltData.uasset'
+[2018.05.04-21.36.24:174][654]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4_BuiltData.uasset
+[2018.05.04-21.36.25:553][717]LogAIModule: Creating AISystem for world Bessica_5
+[2018.05.04-21.36.38:746][334]LogMetaData: Removing '/Game/FirstPersonBP/Maps/Start_Room.Start_Room_C' ref from Metadata '/Game/FirstPersonBP/Maps/Bessica_4.PackageMetaData'
+[2018.05.04-21.36.38:746][334]LogMetaData: Removing '/Game/FirstPersonBP/Maps/Start_Room.SKEL_Start_Room_C' ref from Metadata '/Game/FirstPersonBP/Maps/Bessica_4.PackageMetaData'
+[2018.05.04-21.36.39:952][334]LogSavePackage: Save=1065.52ms
+[2018.05.04-21.36.39:952][334]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Start_Room9B7437E64129528807B1CCB7993604E4.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Start_Room.umap'
+[2018.05.04-21.36.39:954][334]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Start_Room.umap
+[2018.05.04-21.36.40:385][334]LogFileHelpers: Saving map 'Start_Room' took 1.601
+[2018.05.04-21.36.40:390][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Bessica_4" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4.umap" SILENT=true
+[2018.05.04-21.36.40:397][334]LogSavePackage: Save=4.55ms
+[2018.05.04-21.36.40:397][334]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_46D5383ED40868CE20C13D48849B4E6E3.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4.umap'
+[2018.05.04-21.36.40:399][334]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_4.umap
+[2018.05.04-21.36.40:732][338]LogAssetRegistry: Warning: E:\GameDesGithub\Eggspository\moneymoneymoney\Content\FirstPersonBP\Maps\Start_Room.umap: Package has invalid export /Game/FirstPersonBP/Maps/Start_Room_BuiltData.Bessica_4_BuiltData, resave source package!
+[2018.05.04-21.36.40:817][338]SourceControl: Error: fatal: Invalid path '/Game': No such file or directory
+[2018.05.04-21.37.00:313][355]LogMetaData: Removing '/Game/FirstPersonBP/Maps/Two_Doors.Two_Doors_C' ref from Metadata '/Game/FirstPersonBP/Maps/Bessica_5.PackageMetaData'
+[2018.05.04-21.37.00:313][355]LogMetaData: Removing '/Game/FirstPersonBP/Maps/Two_Doors.SKEL_Two_Doors_C' ref from Metadata '/Game/FirstPersonBP/Maps/Bessica_5.PackageMetaData'
+[2018.05.04-21.37.00:423][355]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Two_Doors.Two_Doors:PersistentLevel.Wall_400x314.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.37.00:423][355]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Two_Doors.Two_Doors:PersistentLevel.Wall_400x315.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.37.00:427][355]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Two_Doors.Two_Doors:PersistentLevel.Wall_400x316.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.37.00:427][355]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Two_Doors.Two_Doors:PersistentLevel.Wall_400x317.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.37.00:427][355]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Two_Doors.Two_Doors:PersistentLevel.Wall_400x318.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.37.00:430][355]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Two_Doors.Two_Doors:PersistentLevel.Wall_400x319.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.37.00:430][355]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Two_Doors.Two_Doors:PersistentLevel.Wall_400x320.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.37.00:430][355]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Two_Doors.Two_Doors:PersistentLevel.Wall_400x321.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.37.01:112][355]LogSavePackage: Save=609.20ms
+[2018.05.04-21.37.01:112][355]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Two_Doors80158A344F900159E0C1F69D34875FBC.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Two_Doors.umap'
+[2018.05.04-21.37.01:115][355]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Two_Doors.umap
+[2018.05.04-21.37.01:685][355]LogFileHelpers: Saving map 'Two_Doors' took 1.359
+[2018.05.04-21.37.01:689][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Bessica_5" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5.umap" SILENT=true
+[2018.05.04-21.37.01:696][355]LogSavePackage: Save=3.72ms
+[2018.05.04-21.37.01:696][355]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_586F567F34EFAD04C67F68D98114B9704.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5.umap'
+[2018.05.04-21.37.01:697][355]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_5.umap
+[2018.05.04-21.37.02:295][359]LogAssetRegistry: Warning: E:\GameDesGithub\Eggspository\moneymoneymoney\Content\FirstPersonBP\Maps\Two_Doors.umap: Package has invalid export /Game/FirstPersonBP/Maps/Two_Doors_BuiltData.Bessica_5_BuiltData, resave source package!
+[2018.05.04-21.37.02:429][360]SourceControl: Error: fatal: Invalid path '/Game': No such file or directory
+[2018.05.04-21.37.16:251][111]LogAIModule: Creating AISystem for world Title
+[2018.05.04-21.37.16:279][111]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.04-21.37.16:280][111]LightingResults: New page: Lighting Build
+[2018.05.04-21.37.16:280][111]LoadErrors: New page: Loading map: Title.umap
+[2018.05.04-21.37.16:284][111]MapCheck: New page: Map Check
+[2018.05.04-21.37.16:284][111]LightingResults: New page: Lighting Build
+[2018.05.04-21.37.16:645][111]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.04-21.37.16:694][111]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.04-21.37.16:769][111]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 74.759ms to complete.
+[2018.05.04-21.37.16:769][111]LogFileHelpers: Loading map 'Title' took 0.491
+[2018.05.04-21.37.21:610][557]LogSlate: Window 'TitleScreen' being destroyed
+[2018.05.04-21.37.24:043][796]LogSlate: Window 'TitleController' being destroyed
+[2018.05.04-21.37.26:148][ 34]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.04-21.37.26:148][ 34]LightingResults: New page: Lighting Build
+[2018.05.04-21.37.26:149][ 34]LoadErrors: New page: Loading map: Title.umap
+[2018.05.04-21.37.26:149][ 34]MapCheck: New page: Map Check
+[2018.05.04-21.37.26:149][ 34]LightingResults: New page: Lighting Build
+[2018.05.04-21.37.26:173][ 34]LogAIModule: Creating AISystem for world Title
+[2018.05.04-21.37.26:449][ 34]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.04-21.37.26:510][ 34]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.04-21.37.26:579][ 34]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.885ms to complete.
+[2018.05.04-21.37.26:581][ 34]LogFileHelpers: Loading map 'Title' took 0.434
+[2018.05.04-21.37.36:954][123]LogSlate: Window 'Title - Level Blueprint Editor' being destroyed
+[2018.05.04-21.37.41:010][563]LogSlate: Window 'TitleController' being destroyed
+[2018.05.04-21.37.47:451][220]LogSlate: Window 'TitleController' being destroyed
+[2018.05.04-21.37.47:453][220]LogSlate: Window 'TitleController' being destroyed
+[2018.05.04-21.37.59:816][ 88]LogSlate: Window 'TitleScreen' being destroyed
+[2018.05.04-21.38.05:455][748]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.04-21.38.05:455][748]LightingResults: New page: Lighting Build
+[2018.05.04-21.38.05:456][748]LoadErrors: New page: Loading map: Title.umap
+[2018.05.04-21.38.05:456][748]MapCheck: New page: Map Check
+[2018.05.04-21.38.05:456][748]LightingResults: New page: Lighting Build
+[2018.05.04-21.38.05:479][748]LogAIModule: Creating AISystem for world Title
+[2018.05.04-21.38.05:772][748]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.04-21.38.05:841][748]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.04-21.38.05:910][748]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.798ms to complete.
+[2018.05.04-21.38.05:911][748]LogFileHelpers: Loading map 'Title' took 0.457
+[2018.05.04-21.38.15:673][819]LogSlate: Window 'Title - Level Blueprint Editor' being destroyed
+[2018.05.04-21.38.21:235][380]LogSlate: Window 'TitleController' being destroyed
+[2018.05.04-21.38.21:238][380]LogSlate: Window 'TitleController' being destroyed
+[2018.05.04-21.38.34:060][662]BlueprintLog: New page: Compile TitleScreen
+[2018.05.04-21.38.34:570][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/TitleScreen" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/TitleScreen.uasset" SILENT=true
+[2018.05.04-21.38.34:592][699]LogSavePackage: Save=14.20ms
+[2018.05.04-21.38.34:592][699]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/TitleScreen4B6468DC4C68210BA526429216AF4B33.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/TitleScreen.uasset'
+[2018.05.04-21.38.34:593][699]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/TitleScreen.uasset
+[2018.05.04-21.38.35:743][829]LogSlate: Window 'TitleScreen' being destroyed
+[2018.05.04-21.38.42:540][192]LogSlate: Window 'Submit Files' being destroyed
+[2018.05.04-21.38.43:459][192]LogSourceControl: commit successful: [master 75e865f] title fix
+[2018.05.04-21.38.43:503][192]SourceControl: [master 75e865f] title fix
+[2018.05.04-21.38.43:503][192]SourceControl:  1 file changed, 2 insertions(+), 2 deletions(-)
+[2018.05.04-21.38.43:508][192]SourceControl: Commited [master 75e865f] title fix.
+[2018.05.04-21.38.44:993][328]LogAIModule: Creating AISystem for world Two_Doors
+[2018.05.04-21.38.52:801][541]LogSlate: Window 'Submit Files' being destroyed
+[2018.05.04-21.38.53:477][541]LogSourceControl: commit successful: [master ef4ef3c] renamed maps two doors
+[2018.05.04-21.38.53:521][541]SourceControl: [master ef4ef3c] renamed maps two doors
+[2018.05.04-21.38.53:521][541]SourceControl:  1 file changed, 3 insertions(+)
+[2018.05.04-21.38.53:521][541]SourceControl:  create mode 100644 moneymoneymoney/Content/FirstPersonBP/Maps/Two_Doors.umap
+[2018.05.04-21.38.53:526][541]SourceControl: Commited [master ef4ef3c] renamed maps two doors.
+[2018.05.04-21.38.55:753][790]LogAIModule: Creating AISystem for world Start_Room
+[2018.05.04-21.39.02:209][942]LogSlate: Window 'Submit Files' being destroyed
+[2018.05.04-21.39.03:011][942]LogSourceControl: commit successful: [master 2ebb285] renamped map start room
+[2018.05.04-21.39.03:056][942]SourceControl: [master 2ebb285] renamped map start room
+[2018.05.04-21.39.03:056][942]SourceControl:  1 file changed, 3 insertions(+)
+[2018.05.04-21.39.03:056][942]SourceControl:  create mode 100644 moneymoneymoney/Content/FirstPersonBP/Maps/Start_Room.umap
+[2018.05.04-21.39.03:061][942]SourceControl: Commited [master 2ebb285] renamped map start room.
+[2018.05.04-21.39.29:745][841]LogAIModule: Creating AISystem for world Bessica1
+[2018.05.04-21.39.32:283][ 54]LogMetaData: Removing '/Game/FirstPersonBP/Maps/TEST_LEVELS/Bessica1.Bessica1_C' ref from Metadata '/Game/FirstPersonBP/Maps/Bessica1.PackageMetaData'
+[2018.05.04-21.39.32:283][ 54]LogMetaData: Removing '/Game/FirstPersonBP/Maps/TEST_LEVELS/Bessica1.SKEL_Bessica1_C' ref from Metadata '/Game/FirstPersonBP/Maps/Bessica1.PackageMetaData'
+[2018.05.04-21.39.33:085][ 54]LogSavePackage: Save=222.75ms
+[2018.05.04-21.39.33:085][ 54]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica18B433651432DE05F521E4FBC663B00A8.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/TEST_LEVELS/Bessica1.umap'
+[2018.05.04-21.39.33:087][ 54]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/TEST_LEVELS/Bessica1.umap
+[2018.05.04-21.39.33:581][ 54]LogFileHelpers: Saving map 'Bessica1' took 0.863
+[2018.05.04-21.39.33:585][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Bessica1" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica1.umap" SILENT=true
+[2018.05.04-21.39.33:596][ 54]LogSavePackage: Save=3.66ms
+[2018.05.04-21.39.33:596][ 54]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica1E6534EC844C8D291DFB2D7A9DFD50060.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica1.umap'
+[2018.05.04-21.39.33:598][ 54]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica1.umap
+[2018.05.04-21.39.34:028][ 54]LogSavePackage: Save=425.36ms
+[2018.05.04-21.39.34:028][ 54]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_4_BuiltData036BC327454B73FC78C15DBFAA5C18B6.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/TEST_LEVELS/Bessica_4_BuiltData.uasset'
+[2018.05.04-21.39.34:029][ 54]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/TEST_LEVELS/Bessica_4_BuiltData.uasset
+[2018.05.04-21.39.34:244][ 54]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2018.05.04-21.39.34:244][ 54]SourceControl: Error: moneymoneymoney/Content/FirstPersonBP/Maps/TEST_LEVELS/Bessica_4_BuiltData.uasset
+[2018.05.04-21.39.34:244][ 54]SourceControl: Error: Use -f if you really want to add them.
+[2018.05.04-21.39.34:446][ 54]LogSavePackage: Save=196.29ms
+[2018.05.04-21.39.34:446][ 54]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_5_BuiltData326B4ADE4BDA5644022E4B962A7C931B.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/TEST_LEVELS/Bessica_5_BuiltData.uasset'
+[2018.05.04-21.39.34:448][ 54]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/TEST_LEVELS/Bessica_5_BuiltData.uasset
+[2018.05.04-21.39.34:541][ 54]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2018.05.04-21.39.34:541][ 54]SourceControl: Error: moneymoneymoney/Content/FirstPersonBP/Maps/TEST_LEVELS/Bessica_5_BuiltData.uasset
+[2018.05.04-21.39.34:541][ 54]SourceControl: Error: Use -f if you really want to add them.
+[2018.05.04-21.39.34:697][ 54]LogSavePackage: Save=151.66ms
+[2018.05.04-21.39.34:697][ 54]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_BuiltDataAC91A4494909C164FEB4AE883E12AA7D.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/TEST_LEVELS/Bessica_BuiltData.uasset'
+[2018.05.04-21.39.34:699][ 54]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/TEST_LEVELS/Bessica_BuiltData.uasset
+[2018.05.04-21.39.34:780][ 54]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2018.05.04-21.39.34:780][ 54]SourceControl: Error: moneymoneymoney/Content/FirstPersonBP/Maps/TEST_LEVELS/Bessica_BuiltData.uasset
+[2018.05.04-21.39.34:780][ 54]SourceControl: Error: Use -f if you really want to add them.
+[2018.05.04-21.39.37:624][274]LogAIModule: Creating AISystem for world Bessica_reserve
+[2018.05.04-21.39.39:500][424]LogMetaData: Removing '/Game/FirstPersonBP/Maps/TEST_LEVELS/Bessica_reserve.Bessica_reserve_C' ref from Metadata '/Game/FirstPersonBP/Maps/Bessica_reserve.PackageMetaData'
+[2018.05.04-21.39.39:500][424]LogMetaData: Removing '/Game/FirstPersonBP/Maps/TEST_LEVELS/Bessica_reserve.SKEL_Bessica_reserve_C' ref from Metadata '/Game/FirstPersonBP/Maps/Bessica_reserve.PackageMetaData'
+[2018.05.04-21.39.39:616][424]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/TEST_LEVELS/Bessica_reserve.Bessica_reserve:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.39.39:617][424]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/TEST_LEVELS/Bessica_reserve.Bessica_reserve:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.39.39:617][424]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/TEST_LEVELS/Bessica_reserve.Bessica_reserve:PersistentLevel.Wall_400x312.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.39.39:617][424]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/TEST_LEVELS/Bessica_reserve.Bessica_reserve:PersistentLevel.Wall_400x313.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.39.39:619][424]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/TEST_LEVELS/Bessica_reserve.Bessica_reserve:PersistentLevel.Wall_400x314.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.39.39:620][424]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/TEST_LEVELS/Bessica_reserve.Bessica_reserve:PersistentLevel.Wall_400x315.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.39.39:622][424]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/TEST_LEVELS/Bessica_reserve.Bessica_reserve:PersistentLevel.Wall_400x316.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.39.39:622][424]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/TEST_LEVELS/Bessica_reserve.Bessica_reserve:PersistentLevel.Wall_400x317.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.39.39:622][424]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/TEST_LEVELS/Bessica_reserve.Bessica_reserve:PersistentLevel.Wall_400x318.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.39.39:625][424]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/TEST_LEVELS/Bessica_reserve.Bessica_reserve:PersistentLevel.Wall_400x319.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.39.39:625][424]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/TEST_LEVELS/Bessica_reserve.Bessica_reserve:PersistentLevel.Wall_400x320.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.39.39:625][424]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/TEST_LEVELS/Bessica_reserve.Bessica_reserve:PersistentLevel.Wall_400x321.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.04-21.39.40:382][424]LogSavePackage: Save=652.22ms
+[2018.05.04-21.39.40:382][424]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_reserveCD7AB46E409845724C459F803FA052C5.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/TEST_LEVELS/Bessica_reserve.umap'
+[2018.05.04-21.39.40:385][424]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/TEST_LEVELS/Bessica_reserve.umap
+[2018.05.04-21.39.41:070][424]LogFileHelpers: Saving map 'Bessica_reserve' took 1.557
+[2018.05.04-21.39.41:074][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Bessica_reserve" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_reserve.umap" SILENT=true
+[2018.05.04-21.39.41:085][424]LogSavePackage: Save=3.90ms
+[2018.05.04-21.39.41:085][424]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Bessica_reserveA96157ED402EE5E76308AE923F65FBD8.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_reserve.umap'
+[2018.05.04-21.39.41:087][424]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Bessica_reserve.umap
+[2018.05.04-21.39.52:369][215]LogSlate: Window 'Submit Files' being destroyed
+[2018.05.04-21.39.52:531][215]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2018.05.04-21.39.52:531][215]SourceControl: Error: moneymoneymoney/Content/FirstPersonBP/Maps/TEST_LEVELS/Bessica_4_BuiltData.uasset
+[2018.05.04-21.39.52:531][215]SourceControl: Error: moneymoneymoney/Content/FirstPersonBP/Maps/TEST_LEVELS/Bessica_5_BuiltData.uasset
+[2018.05.04-21.39.52:531][215]SourceControl: Error: moneymoneymoney/Content/FirstPersonBP/Maps/TEST_LEVELS/Bessica_BuiltData.uasset
+[2018.05.04-21.39.52:531][215]SourceControl: Error: Use -f if you really want to add them.
+[2018.05.04-21.39.52:580][215]LogWindows: Windows GetLastError: The operation completed successfully. (0)
