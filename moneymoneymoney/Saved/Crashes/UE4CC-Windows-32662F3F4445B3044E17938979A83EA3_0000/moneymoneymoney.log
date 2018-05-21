@@ -1,0 +1,885 @@
+﻿Log file open, 05/07/18 09:00:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: moneymoneymoney
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1813022190) SRandInit(-1813022190).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.323952
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.896s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Whit-Mac-B19 (10.1.180.180:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.07-16.00.24:900][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.07-16.00.24:900][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.07-16.00.24:947][  0]LogInit: Computer: WHIT-MAC-B19
+[2018.05.07-16.00.24:947][  0]LogInit: User: Game
+[2018.05.07-16.00.24:947][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.07-16.00.24:947][  0]LogInit: High frequency timer resolution =3.410073 MHz
+[2018.05.07-16.00.24:948][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.05.07-16.00.24:948][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.07-16.00.24:948][  0]LogMemory: Process Physical Memory: 274.89 MB used, 274.89 MB peak
+[2018.05.07-16.00.24:948][  0]LogMemory: Process Virtual Memory: 264.54 MB used, 264.54 MB peak
+[2018.05.07-16.00.24:948][  0]LogMemory: Physical Memory: 5992.77 MB used,  10307.63 MB free, 16300.39 MB total
+[2018.05.07-16.00.24:948][  0]LogMemory: Virtual Memory: 697.59 MB used,  10307.63 MB free, 134217728.00 MB total
+[2018.05.07-16.00.25:109][  0]LogInit: Using OS detected language (en-US).
+[2018.05.07-16.00.25:109][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.07-16.00.25:160][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.07-16.00.25:655][  0]LogStreaming: Display: Took  0.545s to EndInitTextLocalization.
+[2018.05.07-16.00.25:655][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.07-16.00.25:758][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.07-16.00.25:758][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.07-16.00.27:733][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.07-16.00.27:817][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.05.07-16.00.27:817][  0]LogD3D11RHI:       8086/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.07-16.00.27:820][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.07-16.00.27:820][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.07-16.00.27:820][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.07-16.00.27:829][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.07-16.00.27:829][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.07-16.00.27:829][  0]LogWindows: EnumDisplayDevices:
+[2018.05.07-16.00.27:829][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.05.07-16.00.27:829][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.07-16.00.27:829][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.07-16.00.27:829][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.07-16.00.27:829][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.07-16.00.27:829][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.05.07-16.00.27:829][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.07-16.00.27:829][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.07-16.00.27:829][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2018.05.07-16.00.27:859][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.05.07-16.00.27:859][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.07-16.00.27:859][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.07-16.00.27:885][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.05.07-16.00.27:928][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (E:/GameDesGithub/Eggspository/moneymoneymoney/Intermediate/Shaders/WorkingDirectory/6068/).
+[2018.05.07-16.00.27:928][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Game/AppData/Local/Temp/UnrealShaderWorkingDir/E610A4F441DC77535918A295D8270450/'.
+[2018.05.07-16.00.28:536][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.07-16.00.28:549][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.07-16.00.28:561][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.07-16.00.28:572][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.07-16.00.28:594][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.07-16.00.28:612][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.07-16.00.28:623][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.07-16.00.28:635][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.07-16.00.28:641][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.07-16.00.28:651][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.07-16.00.28:661][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.07-16.00.28:672][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.07-16.00.28:682][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.07-16.00.28:693][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.07-16.00.28:703][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.07-16.00.28:724][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.07-16.00.28:724][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.07-16.00.28:747][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.07-16.00.28:750][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.07-16.00.28:809][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.07-16.00.28:830][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.07-16.00.28:847][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.07-16.00.28:859][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.07-16.00.28:882][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.07-16.00.28:903][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.07-16.00.28:903][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.07-16.00.29:246][  0]LogXGEController: Cleaning working directory: C:/Users/Game/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.07-16.00.29:246][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.07-16.00.29:247][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.07-16.00.29:247][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.07-16.00.30:897][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.07-16.00.30:989][  0]LogDerivedDataCache: Loaded boot cache 0.09s 74MB C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.07-16.00.30:989][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.07-16.00.30:989][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/GameDesGithub/Eggspository/moneymoneymoney/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.07-16.00.30:989][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.07-16.00.30:989][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/GameDesGithub/Eggspository/moneymoneymoney/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.07-16.00.30:989][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.07-16.00.31:013][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.07-16.00.31:026][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Game/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.07-16.00.31:037][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.07-16.00.31:037][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.07-16.00.31:066][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.07-16.00.31:066][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.07-16.00.33:101][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.05.07-16.00.33:409][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.07-16.00.33:757][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.07-16.00.33:759][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.07-16.00.33:759][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.07-16.00.33:759][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.07-16.00.33:759][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.07-16.00.33:759][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.07-16.00.33:806][  0]LogNetVersion: moneymoneymoney , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 958272539)
+[2018.05.07-16.00.34:892][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.083458 seconds
+[2018.05.07-16.00.34:899][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.07-16.00.34:899][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.05.07-16.00.34:899][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.07-16.00.38:617][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.07-16.00.38:665][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.07-16.00.39:061][  0]SourceControl: Source control is disabled
+[2018.05.07-16.00.40:012][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.07-16.00.40:189][  0]LogOcInput: OculusInput pre-init called
+[2018.05.07-16.00.40:355][  0]LogEngine: Initializing Engine...
+[2018.05.07-16.00.40:356][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.07-16.00.40:358][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.07-16.00.40:358][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.07-16.00.40:846][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.07-16.00.40:905][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.07-16.00.40:992][  0]LogInit: FAudioDevice initialized.
+[2018.05.07-16.00.41:052][  0]LogDerivedDataCache: Saved boot cache 0.06s 74MB C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.07-16.00.41:069][  0]LogInit: Texture streaming: Enabled
+[2018.05.07-16.00.41:083][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.07-16.00.41:164][  0]LogInit: Transaction tracking system initialized
+[2018.05.07-16.00.41:186][  0]BlueprintLog: New page: Editor Load
+[2018.05.07-16.00.41:263][  0]LocalizationService: Localization service is disabled
+[2018.05.07-16.00.41:390][  0]LogConsoleResponse: Display: 
+[2018.05.07-16.00.41:764][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.07-16.00.41:764][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.07-16.00.41:764][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.07-16.00.41:764][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.07-16.00.41:764][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.07-16.00.42:169][  0]LogFileCache: Scanning file cache for directory 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/' took 0.02s
+[2018.05.07-16.00.42:169][  0]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.07-16.00.42:187][  0]LogSlate: Took 0.004179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.07-16.00.45:311][  0]LogSlate: Window 'Message' being destroyed
+[2018.05.07-16.00.45:311][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.07-16.00.45:313][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.07-16.00.45:314][  0]LightingResults: New page: Lighting Build
+[2018.05.07-16.00.45:317][  0]MapCheck: New page: Map Check
+[2018.05.07-16.00.45:317][  0]LightingResults: New page: Lighting Build
+[2018.05.07-16.00.45:328][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.07-16.00.45:330][  0]LoadErrors: New page: New Map
+[2018.05.07-16.00.45:485][  0]LogCollectionManager: Loaded 0 collections in 0.002066 seconds
+[2018.05.07-16.00.45:527][  0]LogFileCache: Scanning file cache for directory 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Collections/' took 0.01s
+[2018.05.07-16.00.45:527][  0]LogFileCache: Scanning file cache for directory 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Developers/Game/Collections/' took 0.01s
+[2018.05.07-16.00.45:527][  0]LogFileCache: Scanning file cache for directory 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Collections/' took 0.01s
+[2018.05.07-16.00.45:527][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.07-16.00.45:539][  0]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 2452 classes and 558 folders.
+[2018.05.07-16.00.45:547][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.07-16.00.45:863][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.07-16.00.45:867][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.05.07-16.00.45:963][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.07-16.00.45:963][  0]LogLoad: (Engine Initialization) Total time: 25.27 seconds
+[2018.05.07-16.00.45:963][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.07-16.00.45:992][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.07-16.00.45:997][  0]LogSlate: Took 0.003513 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.07-16.00.46:006][  0]LogSlate: Took 0.004570 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.07-16.00.46:207][  1]LogRenderer: Reallocating scene render targets to support 1604x728 Format 10 NumSamples 1 (Frame:1).
+[2018.05.07-16.00.46:250][  1]LogAssetRegistry: Asset discovery search completed in 13.1714 seconds
+[2018.05.07-16.00.46:252][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.07-16.00.46:252][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2018.05.07-16.00.49:032][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.07-16.00.49:179][343]LogSlate: Took 0.003342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.07-16.00.50:581][343]LogAIModule: Creating AISystem for world Start_Room
+[2018.05.07-16.00.50:663][343]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Start_Room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.07-16.00.50:663][343]LightingResults: New page: Lighting Build
+[2018.05.07-16.00.50:664][343]LoadErrors: New page: Loading map: Start_Room.umap
+[2018.05.07-16.00.50:664][343]MapCheck: New page: Map Check
+[2018.05.07-16.00.50:664][343]LightingResults: New page: Lighting Build
+[2018.05.07-16.00.50:683][343]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.00.50:683][343]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.00.50:683][343]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Wall_400x312.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.00.50:683][343]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Wall_400x313.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.00.50:805][343]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.07-16.00.50:842][343]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.07-16.00.50:908][343]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.754ms to complete.
+[2018.05.07-16.00.50:909][343]LogFileHelpers: Loading map 'Start_Room' took 0.247
+[2018.05.07-16.01.24:840][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.07-16.01.24:902][654]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.01.24:918][654]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Start_Room' with GeneratedClass '/Game/FirstPersonBP/Maps/Start_Room.Start_Room_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Start_Room'
+[2018.05.07-16.01.24:918][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.01.24:918][654]PIE: New page: PIE session: Start_Room (May 7, 2018, 2:01:24 AM)
+[2018.05.07-16.01.24:918][654]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Start_Room
+[2018.05.07-16.01.24:938][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019920s)
+[2018.05.07-16.01.24:939][654]LogAIModule: Creating AISystem for world Start_Room
+[2018.05.07-16.01.24:939][654]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2018.05.07-16.01.24:939][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Start_Room.Start_Room to /Game/FirstPersonBP/Maps/UEDPIE_0_Start_Room.Start_Room (0.020946s)
+[2018.05.07-16.01.24:957][654]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.07-16.01.24:968][654]LogInit: FAudioDevice initialized.
+[2018.05.07-16.01.25:413][654]LogSkeletalMesh: Skeletal Mesh found in DDC [3.393476ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.05.07-16.01.25:435][654]LogSkeletalMesh: Skeletal Mesh found in DDC [5.469971ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.05.07-16.01.25:500][654]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.01.25:511][654]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Start_Room.Start_Room:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.01.25:511][654]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Start_Room.Start_Room:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.01.25:512][654]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Start_Room.Start_Room:PersistentLevel.Wall_400x312.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.01.25:512][654]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Start_Room.Start_Room:PersistentLevel.Wall_400x313.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.01.25:513][654]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Start_Room.Start_Room up for play (max tick rate 0) at 2018.05.07-09.01.25
+[2018.05.07-16.01.25:514][654]LogWorld: Bringing up level for play took: 0.011552
+[2018.05.07-16.01.25:517][654]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.05.07-16.01.25:519][654]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Start_Room 0.513
+[2018.05.07-16.01.25:520][654]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Start_Room' with GeneratedClass '/Game/FirstPersonBP/Maps/Start_Room.Start_Room_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Start_Room'
+[2018.05.07-16.01.35:247][654]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Start_Room' with GeneratedClass '/Game/FirstPersonBP/Maps/Start_Room.Start_Room_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Start_Room'
+[2018.05.07-16.01.35:291][654]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Start_Room' with GeneratedClass '/Game/FirstPersonBP/Maps/Start_Room.Start_Room_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Start_Room'
+[2018.05.07-16.01.48:946][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.07-16.01.49:009][957]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.01.49:026][957]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Start_Room' with GeneratedClass '/Game/FirstPersonBP/Maps/Start_Room.Start_Room_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Start_Room'
+[2018.05.07-16.01.49:026][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.01.49:026][957]PIE: New page: PIE session: Start_Room (May 7, 2018, 2:01:49 AM)
+[2018.05.07-16.01.49:026][957]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Start_Room
+[2018.05.07-16.01.49:046][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019454s)
+[2018.05.07-16.01.49:046][957]LogAIModule: Creating AISystem for world Start_Room
+[2018.05.07-16.01.49:046][957]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2018.05.07-16.01.49:046][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Start_Room.Start_Room to /Game/FirstPersonBP/Maps/UEDPIE_0_Start_Room.Start_Room (0.020272s)
+[2018.05.07-16.01.49:061][957]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.07-16.01.49:070][957]LogInit: FAudioDevice initialized.
+[2018.05.07-16.01.49:101][957]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.01.49:124][957]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Start_Room.Start_Room:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.01.49:124][957]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Start_Room.Start_Room:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.01.49:125][957]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Start_Room.Start_Room:PersistentLevel.Wall_400x312.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.01.49:125][957]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Start_Room.Start_Room:PersistentLevel.Wall_400x313.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.01.49:127][957]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Start_Room.Start_Room up for play (max tick rate 0) at 2018.05.07-09.01.49
+[2018.05.07-16.01.49:127][957]LogWorld: Bringing up level for play took: 0.025165
+[2018.05.07-16.01.49:130][957]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Start_Room 0.124
+[2018.05.07-16.01.49:130][957]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Start_Room' with GeneratedClass '/Game/FirstPersonBP/Maps/Start_Room.Start_Room_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Start_Room'
+[2018.05.07-16.02.07:806][956]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Start_Room' with GeneratedClass '/Game/FirstPersonBP/Maps/Start_Room.Start_Room_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Start_Room'
+[2018.05.07-16.02.07:853][956]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Start_Room' with GeneratedClass '/Game/FirstPersonBP/Maps/Start_Room.Start_Room_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Start_Room'
+[2018.05.07-16.02.46:728][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.07-16.02.46:936][991]LogAIModule: Creating AISystem for world Title
+[2018.05.07-16.02.46:966][991]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.07-16.02.46:966][991]LightingResults: New page: Lighting Build
+[2018.05.07-16.02.46:967][991]LoadErrors: New page: Loading map: Title.umap
+[2018.05.07-16.02.46:971][991]MapCheck: New page: Map Check
+[2018.05.07-16.02.46:971][991]LightingResults: New page: Lighting Build
+[2018.05.07-16.02.47:069][991]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.07-16.02.47:118][991]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.07-16.02.47:178][991]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.318ms to complete.
+[2018.05.07-16.02.47:179][991]LogFileHelpers: Loading map 'Title' took 0.214
+[2018.05.07-16.02.49:128][172]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2018.05.07-16.02.51:520][354]LogSlate: Window 'TitleController' being destroyed
+[2018.05.07-16.02.52:569][453]LogAIModule: Creating AISystem for world Start_Room
+[2018.05.07-16.02.52:655][453]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Start_Room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.07-16.02.52:655][453]LightingResults: New page: Lighting Build
+[2018.05.07-16.02.52:655][453]LoadErrors: New page: Loading map: Start_Room.umap
+[2018.05.07-16.02.52:656][453]MapCheck: New page: Map Check
+[2018.05.07-16.02.52:656][453]LightingResults: New page: Lighting Build
+[2018.05.07-16.02.52:686][453]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.02.52:687][453]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.02.52:687][453]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Wall_400x312.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.02.52:687][453]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Wall_400x313.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.02.52:883][453]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.07-16.02.52:949][453]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.07-16.02.53:024][453]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75.052ms to complete.
+[2018.05.07-16.02.53:024][453]LogFileHelpers: Loading map 'Start_Room' took 0.371
+[2018.05.07-16.02.57:847][683]Cmd: TRANSACTION UNDO
+[2018.05.07-16.02.57:847][683]LogEditorTransaction: Undo Apply Material to Selected Surfaces
+[2018.05.07-16.03.01:626][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.07-16.03.30:065][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.07-16.04.15:925][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x419)
+[2018.05.07-16.04.18:424][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x415)
+[2018.05.07-16.04.19:474][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x419)
+[2018.05.07-16.04.23:834][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x428)
+[2018.05.07-16.04.29:139][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x430)
+[2018.05.07-16.04.38:678][211]Cmd: EDIT COPY
+[2018.05.07-16.04.39:641][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.07-16.04.39:844][268]LogAIModule: Creating AISystem for world Title
+[2018.05.07-16.04.41:017][268]LogSlate: Window 'Save Content' being destroyed
+[2018.05.07-16.04.42:442][268]LogSavePackage: Save=1216.52ms
+[2018.05.07-16.04.42:442][268]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Start_Room322A97E74B6DBDCB0BB046923F00B41F.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Start_Room.umap'
+[2018.05.07-16.04.42:450][268]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Start_Room.umap
+[2018.05.07-16.04.42:475][268]LogFileHelpers: Saving map 'Start_Room' took 1.378
+[2018.05.07-16.04.42:477][268]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.07-16.04.42:477][268]LightingResults: New page: Lighting Build
+[2018.05.07-16.04.42:478][268]LoadErrors: New page: Loading map: Title.umap
+[2018.05.07-16.04.42:485][268]MapCheck: New page: Map Check
+[2018.05.07-16.04.42:485][268]LightingResults: New page: Lighting Build
+[2018.05.07-16.04.42:684][268]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.07-16.04.42:735][268]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.07-16.04.42:801][268]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.863ms to complete.
+[2018.05.07-16.04.42:801][268]LogFileHelpers: Loading map 'Title' took 0.325
+[2018.05.07-16.04.44:608][463]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.07-16.04.45:331][550]LogEditorViewport: Clicking Background
+[2018.05.07-16.04.45:903][617]Cmd: EDIT PASTE
+[2018.05.07-16.04.45:973][617]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.04.45:973][617]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.04.45:973][617]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.04.45:974][617]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.04.46:044][617]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.04.46:044][617]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.04.54:573][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.07-16.04.54:823][539]LogAIModule: Creating AISystem for world Start_Room
+[2018.05.07-16.04.56:028][539]LogSlate: Window 'Save Content' being destroyed
+[2018.05.07-16.04.56:166][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Title" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.07-16.04.56:371][539]LogSavePackage: Save=177.56ms
+[2018.05.07-16.04.56:371][539]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/TitleA7F030444BBA2398569AAEA8E917E1C5.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap'
+[2018.05.07-16.04.56:374][539]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap
+[2018.05.07-16.04.56:404][539]LogFileHelpers: Saving map 'Title' took 0.307
+[2018.05.07-16.04.56:405][539]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Start_Room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.07-16.04.56:405][539]LightingResults: New page: Lighting Build
+[2018.05.07-16.04.56:406][539]LoadErrors: New page: Loading map: Start_Room.umap
+[2018.05.07-16.04.56:412][539]MapCheck: New page: Map Check
+[2018.05.07-16.04.56:412][539]LightingResults: New page: Lighting Build
+[2018.05.07-16.04.56:441][539]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.04.56:441][539]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.04.56:441][539]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Wall_400x312.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.04.56:442][539]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Wall_400x313.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.04.56:692][539]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.07-16.04.56:747][539]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.07-16.04.56:813][539]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.942ms to complete.
+[2018.05.07-16.04.56:813][539]LogFileHelpers: Loading map 'Start_Room' took 0.408
+[2018.05.07-16.04.58:017][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.07-16.04.58:966][629]Cmd: EDIT COPY
+[2018.05.07-16.04.59:635][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.07-16.04.59:835][672]LogAIModule: Creating AISystem for world Title
+[2018.05.07-16.04.59:870][672]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.07-16.04.59:870][672]LightingResults: New page: Lighting Build
+[2018.05.07-16.04.59:870][672]LoadErrors: New page: Loading map: Title.umap
+[2018.05.07-16.04.59:875][672]MapCheck: New page: Map Check
+[2018.05.07-16.04.59:875][672]LightingResults: New page: Lighting Build
+[2018.05.07-16.04.59:897][672]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.04.59:897][672]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.05.00:121][672]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.07-16.05.00:171][672]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.07-16.05.00:234][672]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.042ms to complete.
+[2018.05.07-16.05.00:234][672]LogFileHelpers: Loading map 'Title' took 0.365
+[2018.05.07-16.05.01:393][745]Cmd: EDIT PASTE
+[2018.05.07-16.05.11:513][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x422)
+[2018.05.07-16.05.14:222][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x422)
+[2018.05.07-16.05.15:928][711]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x422)
+[2018.05.07-16.05.15:982][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.07-16.05.16:493][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x422)
+[2018.05.07-16.05.27:904][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.07-16.05.32:306][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x428)
+[2018.05.07-16.05.33:128][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x427)
+[2018.05.07-16.06.10:893][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x424)
+[2018.05.07-16.06.13:150][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.07-16.06.14:232][ 53]MapCheck: New page: Map Check
+[2018.05.07-16.06.14:247][ 53]Cmd: MAP REBUILD ALLVISIBLE
+[2018.05.07-16.06.14:247][ 53]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.05.07-16.06.14:494][ 53]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.06.14:494][ 53]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.06.14:537][ 53]LightingResults: New page: Lighting Build - May 7, 2018, 2:06:14 AM
+[2018.05.07-16.06.14:676][ 53]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.05.07-16.06.14:835][ 53]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.05.07-16.06.14:856][ 53]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.05.07-16.06.15:902][ 53]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.05.07-16.06.15:902][ 53]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6068
+[2018.05.07-16.06.18:886][ 53]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.05.07-16.06.18:886][ 53]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.05.07-16.06.18:886][ 53]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.05.07-16.06.18:886][ 53]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.05.07-16.06.18:886][ 53]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.05.07-16.06.18:886][ 53]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.05.07-16.06.19:037][ 53]LogEditorBuildUtils: Build time 0:04
+[2018.05.07-16.06.22:259][175]LightingResults: Warning: Ceiling_fan_round Object has overlapping UVs.
+[2018.05.07-16.06.22:259][175]LightingResults: Ceiling_fan_round Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.05.07-16.06.23:387][234]Job is a success!
+[2018.05.07-16.06.23:465][235]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2018.05.07-16.06.23:465][235]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.05.07-16.06.23:465][235]LogVolumetricLightmapImport:      BrickData 145x5x5 = 0.1Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2018.05.07-16.06.23:466][235]LogVolumetricLightmapImport:      Bricks at Level
+[2018.05.07-16.06.23:466][235]LogVolumetricLightmapImport:          0: 3.4% covering 100.0% of volume
+[2018.05.07-16.06.23:466][235]LogVolumetricLightmapImport:          1: 20.7% covering 9.4% of volume
+[2018.05.07-16.06.23:466][235]LogVolumetricLightmapImport:          2: 75.9% covering 0.5% of volume
+[2018.05.07-16.06.23:488][235]LogMaterial: Warning: Material /Game/Models_Props/Rugs/carpet_001.carpet_001 needed to have new flag set bUsedWithStaticLighting !
+[2018.05.07-16.06.23:490][235]LogMaterial: Missing cached shader map for material carpet_001, compiling. 
+[2018.05.07-16.06.23:537][235]LightingResults: Error: PointLight15 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2018.05.07-16.06.23:537][235]LightingResults: Error: PointLight20 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2018.05.07-16.06.23:537][235]LightingResults: Error: PointLight21 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2018.05.07-16.06.23:537][235]LightingResults: Error: PointLight10 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2018.05.07-16.06.23:540][235]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.05.07-16.06.23:540][235]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.05.07-16.06.23:540][235]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.07-16.06.23:540][235]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.07-16.06.23:815][235]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.05.07-16.06.23:815][235]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.05.07-16.06.23:815][235]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2018.05.07-16.06.23:815][235]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2018.05.07-16.06.23:899][235]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 64X64)
+[2018.05.07-16.06.23:899][235]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X256)
+[2018.05.07-16.06.23:937][235]Lightmass on WHIT-MAC-B19: 3.78 sec total, 235 ms importing, 23 ms setup, 996 ms photons, 2.49 sec processing, 0 ms extra exporting [35/35 mappings]. Threads: 17.3 sec total, 10.0 sec processing.
+[2018.05.07-16.06.23:970][235]LogStaticLightingSystem: Illumination: 9.39 sec (280 ms encoding lightmaps, 77 ms encoding shadowmaps)
+[2018.05.07-16.06.23:971][235]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.05.07-16.06.23:971][235]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.05.07-16.06.24:905][235]DumpUnbuiltLightIteractions
+[2018.05.07-16.06.24:905][235]Lights with unbuilt interactions: 0
+[2018.05.07-16.06.24:905][235]
+[2018.05.07-16.06.24:905][235]Primitives with unbuilt interactions: 0
+[2018.05.07-16.06.26:420][236]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.05.07-16.06.26:420][236]MapCheck: New page: Title - May 7, 2018, 2:06:26 AM
+[2018.05.07-16.06.26:421][236]MapCheck: Warning: Wall_400x300_71 StaticMeshComponent0 : Using bSimulatePhysics but StaticMesh has not simple collision.
+[2018.05.07-16.06.26:421][236]MapCheck: Warning: Wall_400x301 StaticMeshComponent0 : Using bSimulatePhysics but StaticMesh has not simple collision.
+[2018.05.07-16.06.26:422][236]MapCheck: Error: Cube_2 Cube_2 : Invalid DrawScale/DrawScale3D 
+[2018.05.07-16.06.26:486][236]MapCheck: Map check complete: 1 Error(s), 2 Warning(s), took 65.59ms to complete.
+[2018.05.07-16.06.28:308][339]LogSlate: Window 'Message Log' being destroyed
+[2018.05.07-16.06.32:751][762]LogSlate: Took 0.003691 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.07-16.06.33:256][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.07-16.06.44:814][162]LogAIModule: Creating AISystem for world Start_Room
+[2018.05.07-16.06.46:288][162]LogSlate: Window 'Save Content' being destroyed
+[2018.05.07-16.06.46:457][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Title" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.07-16.06.46:653][162]LogSavePackage: Save=161.60ms
+[2018.05.07-16.06.46:653][162]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/TitleEF0D04D64AEFC71D611F148CF119E0DE.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap'
+[2018.05.07-16.06.46:656][162]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap
+[2018.05.07-16.06.46:690][162]LogFileHelpers: Saving map 'Title' took 0.300
+[2018.05.07-16.06.46:691][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Title_BuiltData" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title_BuiltData.uasset" SILENT=true
+[2018.05.07-16.06.46:795][162]LogSavePackage: Save=102.95ms
+[2018.05.07-16.06.46:796][162]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Title_BuiltData8B288F1B42340A46D58A8A98399D2B69.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title_BuiltData.uasset'
+[2018.05.07-16.06.46:798][162]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title_BuiltData.uasset
+[2018.05.07-16.06.46:894][162]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2018.05.07-16.06.46:894][162]SourceControl: Error: moneymoneymoney/Content/FirstPersonBP/Maps/Title_BuiltData.uasset
+[2018.05.07-16.06.46:894][162]SourceControl: Error: Use -f if you really want to add them.
+[2018.05.07-16.06.46:917][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models_Props/Rugs/carpet_001" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Rugs/carpet_001.uasset" SILENT=true
+[2018.05.07-16.06.46:939][162]LogSavePackage: Save=14.46ms
+[2018.05.07-16.06.46:939][162]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/carpet_001FAC0EC744C0B14D72F43D68889207699.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Rugs/carpet_001.uasset'
+[2018.05.07-16.06.46:941][162]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/Models_Props/Rugs/carpet_001.uasset
+[2018.05.07-16.06.46:943][162]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Start_Room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.07-16.06.46:943][162]LightingResults: New page: Lighting Build
+[2018.05.07-16.06.46:944][162]LoadErrors: New page: Loading map: Start_Room.umap
+[2018.05.07-16.06.46:946][162]MapCheck: New page: Map Check
+[2018.05.07-16.06.46:946][162]LightingResults: New page: Lighting Build
+[2018.05.07-16.06.46:984][162]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.06.46:984][162]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.06.46:984][162]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Wall_400x312.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.06.46:984][162]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Start_Room.Start_Room:PersistentLevel.Wall_400x313.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.06.47:121][162]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.07-16.06.47:180][162]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.07-16.06.47:246][162]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.776ms to complete.
+[2018.05.07-16.06.47:249][162]LogFileHelpers: Loading map 'Start_Room' took 0.308
+[2018.05.07-16.07.02:143][949]LogAIModule: Creating AISystem for world Title
+[2018.05.07-16.07.02:178][949]Cmd: MAP LOAD FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.07-16.07.02:178][949]LightingResults: New page: Lighting Build
+[2018.05.07-16.07.02:179][949]LoadErrors: New page: Loading map: Title.umap
+[2018.05.07-16.07.02:182][949]MapCheck: New page: Map Check
+[2018.05.07-16.07.02:183][949]LightingResults: New page: Lighting Build
+[2018.05.07-16.07.02:204][949]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.07.02:205][949]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.07.02:292][949]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.07-16.07.02:343][949]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.07-16.07.02:425][949]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81.902ms to complete.
+[2018.05.07-16.07.02:427][949]LogFileHelpers: Loading map 'Title' took 0.251
+[2018.05.07-16.07.06:135][350]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.07-16.07.09:130][677]MapCheck: New page: Map Check
+[2018.05.07-16.07.09:137][677]Cmd: MAP REBUILD ALLVISIBLE
+[2018.05.07-16.07.09:137][677]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.05.07-16.07.09:221][677]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.07.09:221][677]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.07.09:240][677]LightingResults: New page: Lighting Build - May 7, 2018, 2:07:09 AM
+[2018.05.07-16.07.09:247][677]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.05.07-16.07.09:250][677]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.05.07-16.07.09:250][677]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.05.07-16.07.09:251][677]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.05.07-16.07.09:251][677]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6068
+[2018.05.07-16.07.13:783][677]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.05.07-16.07.13:783][677]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.05.07-16.07.13:783][677]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.05.07-16.07.13:783][677]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.05.07-16.07.13:783][677]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.05.07-16.07.13:784][677]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.05.07-16.07.13:915][677]LogEditorBuildUtils: Build time 0:04
+[2018.05.07-16.07.13:925][677]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer carpet_001, compiling. 
+[2018.05.07-16.07.13:933][677]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.07-16.07.13:934][677]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer carpet_001, compiling. 
+[2018.05.07-16.07.13:990][678]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.07-16.07.17:176][797]LightingResults: Warning: Ceiling_fan_round Object has overlapping UVs.
+[2018.05.07-16.07.17:176][797]LightingResults: Ceiling_fan_round Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.05.07-16.07.18:220][859]Job is a success!
+[2018.05.07-16.07.18:239][860]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.07-16.07.18:263][860]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2018.05.07-16.07.18:263][860]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.05.07-16.07.18:263][860]LogVolumetricLightmapImport:      BrickData 365x5x5 = 0.3Mb
+[2018.05.07-16.07.18:263][860]LogVolumetricLightmapImport:      Bricks at Level
+[2018.05.07-16.07.18:263][860]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2018.05.07-16.07.18:263][860]LogVolumetricLightmapImport:          1: 8.2% covering 9.4% of volume
+[2018.05.07-16.07.18:263][860]LogVolumetricLightmapImport:          2: 90.4% covering 1.6% of volume
+[2018.05.07-16.07.18:291][860]LightingResults: Error: PointLight21 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2018.05.07-16.07.18:291][860]LightingResults: Error: PointLight10 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2018.05.07-16.07.18:291][860]LightingResults: Error: PointLight20 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2018.05.07-16.07.18:291][860]LightingResults: Error: PointLight11 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2018.05.07-16.07.18:539][860]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.05.07-16.07.18:540][860]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.05.07-16.07.18:540][860]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2018.05.07-16.07.18:540][860]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2018.05.07-16.07.18:608][860]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 64X64)
+[2018.05.07-16.07.18:609][860]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X256)
+[2018.05.07-16.07.18:624][860]Lightmass on WHIT-MAC-B19: 3.32 sec total, 130 ms importing, 17 ms setup, 967 ms photons, 2.18 sec processing, 0 ms extra exporting [35/35 mappings]. Threads: 15.1 sec total, 8.69 sec processing.
+[2018.05.07-16.07.18:650][860]LogStaticLightingSystem: Illumination: 9.39 sec (250 ms encoding lightmaps, 65 ms encoding shadowmaps)
+[2018.05.07-16.07.18:650][860]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.05.07-16.07.18:650][860]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.05.07-16.07.18:806][860]DumpUnbuiltLightIteractions
+[2018.05.07-16.07.18:806][860]Lights with unbuilt interactions: 0
+[2018.05.07-16.07.18:806][860]
+[2018.05.07-16.07.18:806][860]Primitives with unbuilt interactions: 0
+[2018.05.07-16.07.18:847][861]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.05.07-16.07.18:847][861]MapCheck: New page: Title - May 7, 2018, 2:07:18 AM
+[2018.05.07-16.07.18:848][861]MapCheck: Warning: Wall_400x300_71 StaticMeshComponent0 : Using bSimulatePhysics but StaticMesh has not simple collision.
+[2018.05.07-16.07.18:848][861]MapCheck: Warning: Wall_400x301 StaticMeshComponent0 : Using bSimulatePhysics but StaticMesh has not simple collision.
+[2018.05.07-16.07.18:849][861]MapCheck: Error: Cube_2 Cube_2 : Invalid DrawScale/DrawScale3D 
+[2018.05.07-16.07.18:933][861]MapCheck: Map check complete: 1 Error(s), 2 Warning(s), took 85.504ms to complete.
+[2018.05.07-16.07.20:758][ 14]LogSlate: Window 'Message Log' being destroyed
+[2018.05.07-16.07.51:978][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.07-16.07.52:423][495]LogSlate: Took 0.007015 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.07-16.08.03:785][136]BlueprintLog: New page: Compile TitleScreen
+[2018.05.07-16.08.04:345][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/TitleScreen" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/TitleScreen.uasset" SILENT=true
+[2018.05.07-16.08.04:365][167]LogSavePackage: Save=13.60ms
+[2018.05.07-16.08.04:366][167]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/TitleScreen115A5526473CE9D451E8B6BA71285EBE.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/TitleScreen.uasset'
+[2018.05.07-16.08.04:367][167]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/TitleScreen.uasset
+[2018.05.07-16.08.05:505][238]LogSlate: Window 'TitleScreen' being destroyed
+[2018.05.07-16.08.12:402][669]LogActorFactory: Actor Factory created Cube
+[2018.05.07-16.08.13:906][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.07-16.08.19:515][176]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.05.07-16.08.22:837][420]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.05.07-16.08.24:306][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.07-16.08.24:365][522]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.08.24:384][522]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/FirstPersonBP/Maps/Title.Title_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title'
+[2018.05.07-16.08.24:384][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.08.24:384][522]PIE: New page: PIE session: Title (May 7, 2018, 2:08:24 AM)
+[2018.05.07-16.08.24:384][522]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Title
+[2018.05.07-16.08.24:389][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004608s)
+[2018.05.07-16.08.24:389][522]LogAIModule: Creating AISystem for world Title
+[2018.05.07-16.08.24:389][522]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2018.05.07-16.08.24:389][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Title.Title to /Game/FirstPersonBP/Maps/UEDPIE_0_Title.Title (0.005411s)
+[2018.05.07-16.08.24:412][522]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.07-16.08.24:422][522]LogInit: FAudioDevice initialized.
+[2018.05.07-16.08.24:453][522]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.08.24:456][522]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Title.Title:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.08.24:456][522]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Title.Title:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.08.24:457][522]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Title.Title up for play (max tick rate 0) at 2018.05.07-09.08.24
+[2018.05.07-16.08.24:458][522]LogWorld: Bringing up level for play took: 0.002884
+[2018.05.07-16.08.24:460][522]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2018.05.07-16.08.24:461][522]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Title -0.546
+[2018.05.07-16.08.24:461][522]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/FirstPersonBP/Maps/Title.Title_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title'
+[2018.05.07-16.08.27:697][774]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/FirstPersonBP/Maps/Title.Title_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title'
+[2018.05.07-16.08.27:742][774]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/FirstPersonBP/Maps/Title.Title_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title'
+[2018.05.07-16.08.33:920][210]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.05.07-16.08.38:106][537]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.05.07-16.08.40:488][715]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.05.07-16.08.41:393][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.07-16.08.41:452][789]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.08.41:468][789]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/FirstPersonBP/Maps/Title.Title_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title'
+[2018.05.07-16.08.41:468][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.08.41:468][789]PIE: New page: PIE session: Title (May 7, 2018, 2:08:41 AM)
+[2018.05.07-16.08.41:468][789]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Title
+[2018.05.07-16.08.41:473][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004900s)
+[2018.05.07-16.08.41:474][789]LogAIModule: Creating AISystem for world Title
+[2018.05.07-16.08.41:474][789]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2018.05.07-16.08.41:474][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Title.Title to /Game/FirstPersonBP/Maps/UEDPIE_0_Title.Title (0.005658s)
+[2018.05.07-16.08.41:494][789]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.07-16.08.41:504][789]LogInit: FAudioDevice initialized.
+[2018.05.07-16.08.41:537][789]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.08.41:539][789]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Title.Title:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.08.41:539][789]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Title.Title:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.08.41:540][789]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Title.Title up for play (max tick rate 0) at 2018.05.07-09.08.41
+[2018.05.07-16.08.41:540][789]LogWorld: Bringing up level for play took: 0.002809
+[2018.05.07-16.08.41:543][789]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2018.05.07-16.08.41:543][789]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Title 0.537
+[2018.05.07-16.08.41:543][789]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/FirstPersonBP/Maps/Title.Title_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title'
+[2018.05.07-16.08.44:615][ 31]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/FirstPersonBP/Maps/Title.Title_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title'
+[2018.05.07-16.08.44:666][ 31]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/FirstPersonBP/Maps/Title.Title_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title'
+[2018.05.07-16.08.45:452][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Title" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.07-16.08.45:626][ 77]LogSavePackage: Save=155.42ms
+[2018.05.07-16.08.45:626][ 77]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Title6FF4E6754E91401916004C8AA79BC3AB.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap'
+[2018.05.07-16.08.45:628][ 77]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap
+[2018.05.07-16.08.45:766][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Title_BuiltData" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title_BuiltData.uasset" SILENT=true
+[2018.05.07-16.08.45:863][ 77]LogSavePackage: Save=69.36ms
+[2018.05.07-16.08.45:863][ 77]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Title_BuiltData0CFBF4E64DA445B4917BABA83681BA74.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title_BuiltData.uasset'
+[2018.05.07-16.08.45:865][ 77]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title_BuiltData.uasset
+[2018.05.07-16.08.47:887][196]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.05.07-16.08.50:946][422]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.05.07-16.08.52:958][571]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.05.07-16.08.53:698][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.07-16.08.53:835][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Title" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.07-16.08.54:010][631]LogSavePackage: Save=154.92ms
+[2018.05.07-16.08.54:010][631]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/TitleF3C5F88B451BB7DEFCE26E990EC15981.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap'
+[2018.05.07-16.08.54:012][631]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap
+[2018.05.07-16.08.54:149][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Title_BuiltData" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title_BuiltData.uasset" SILENT=true
+[2018.05.07-16.08.54:216][631]LogSavePackage: Save=63.44ms
+[2018.05.07-16.08.54:216][631]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Title_BuiltData02F36984447647B7BA9B6594E2CC6D5F.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title_BuiltData.uasset'
+[2018.05.07-16.08.54:216][631]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title_BuiltData.uasset
+[2018.05.07-16.08.55:178][693]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.08.55:194][693]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/FirstPersonBP/Maps/Title.Title_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title'
+[2018.05.07-16.08.55:194][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.08.55:195][693]PIE: New page: PIE session: Title (May 7, 2018, 2:08:55 AM)
+[2018.05.07-16.08.55:195][693]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Title
+[2018.05.07-16.08.55:200][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004966s)
+[2018.05.07-16.08.55:200][693]LogAIModule: Creating AISystem for world Title
+[2018.05.07-16.08.55:200][693]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2018.05.07-16.08.55:200][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Title.Title to /Game/FirstPersonBP/Maps/UEDPIE_0_Title.Title (0.005671s)
+[2018.05.07-16.08.55:221][693]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.07-16.08.55:231][693]LogInit: FAudioDevice initialized.
+[2018.05.07-16.08.55:268][693]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.08.55:272][693]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Title.Title:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.08.55:273][693]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Title.Title:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.08.55:275][693]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Title.Title up for play (max tick rate 0) at 2018.05.07-09.08.55
+[2018.05.07-16.08.55:276][693]LogWorld: Bringing up level for play took: 0.006874
+[2018.05.07-16.08.55:280][693]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2018.05.07-16.08.55:280][693]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Title 0.274
+[2018.05.07-16.08.55:280][693]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/FirstPersonBP/Maps/Title.Title_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title'
+[2018.05.07-16.08.57:453][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Title" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.07-16.08.57:636][858]LogSavePackage: Save=165.18ms
+[2018.05.07-16.08.57:636][858]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Title7DDEE22A4DAE4A48304C6F8955FA5E58.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap'
+[2018.05.07-16.08.57:639][858]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap
+[2018.05.07-16.08.57:781][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Title_BuiltData" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title_BuiltData.uasset" SILENT=true
+[2018.05.07-16.08.57:851][858]LogSavePackage: Save=66.55ms
+[2018.05.07-16.08.57:851][858]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Title_BuiltDataDEF86D0B4EA84DD4277E6F98B452ADBE.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title_BuiltData.uasset'
+[2018.05.07-16.08.57:851][858]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title_BuiltData.uasset
+[2018.05.07-16.08.58:266][873]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/FirstPersonBP/Maps/Title.Title_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title'
+[2018.05.07-16.08.58:323][873]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/FirstPersonBP/Maps/Title.Title_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title'
+[2018.05.07-16.09.02:060][146]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.05.07-16.09.04:571][343]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.05.07-16.09.06:781][516]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.05.07-16.09.07:602][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.07-16.09.07:720][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Title" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.07-16.09.07:887][584]LogSavePackage: Save=148.48ms
+[2018.05.07-16.09.07:887][584]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/TitleAABEB93E4B07D6108DAE5A9814DF3265.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap'
+[2018.05.07-16.09.07:890][584]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title.umap
+[2018.05.07-16.09.08:012][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Title_BuiltData" FILE="E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title_BuiltData.uasset" SILENT=true
+[2018.05.07-16.09.08:079][584]LogSavePackage: Save=64.15ms
+[2018.05.07-16.09.08:079][584]LogSavePackage: Moving 'E:/GameDesGithub/Eggspository/moneymoneymoney/Saved/Title_BuiltData13D93EC642DDEC09026BC59B08B2C23C.tmp' to 'E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title_BuiltData.uasset'
+[2018.05.07-16.09.08:079][584]LogSavePackage: Display: Finished SavePackage E:/GameDesGithub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Title_BuiltData.uasset
+[2018.05.07-16.09.08:903][633]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.09.08:919][633]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/FirstPersonBP/Maps/Title.Title_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title'
+[2018.05.07-16.09.08:919][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.09.08:919][633]PIE: New page: PIE session: Title (May 7, 2018, 2:09:08 AM)
+[2018.05.07-16.09.08:920][633]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Title
+[2018.05.07-16.09.08:924][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004639s)
+[2018.05.07-16.09.08:925][633]LogAIModule: Creating AISystem for world Title
+[2018.05.07-16.09.08:925][633]LogPlayLevel: PIE: World Init took: (0.000570s)
+[2018.05.07-16.09.08:925][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Title.Title to /Game/FirstPersonBP/Maps/UEDPIE_0_Title.Title (0.005337s)
+[2018.05.07-16.09.08:946][633]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.07-16.09.08:958][633]LogInit: FAudioDevice initialized.
+[2018.05.07-16.09.08:991][633]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.09.08:994][633]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Title.Title:PersistentLevel.Wall_400x300_71.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.09.08:994][633]PIE: Warning: Trying to simulate physics on ''/Game/FirstPersonBP/Maps/UEDPIE_0_Title.Title:PersistentLevel.Wall_400x301.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2018.05.07-16.09.08:995][633]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Title.Title up for play (max tick rate 0) at 2018.05.07-09.09.08
+[2018.05.07-16.09.08:995][633]LogWorld: Bringing up level for play took: 0.002805
+[2018.05.07-16.09.08:998][633]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2018.05.07-16.09.08:998][633]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Title -0.008
+[2018.05.07-16.09.08:998][633]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/FirstPersonBP/Maps/Title.Title_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Title.Title:PersistentLevel.Title'
+[2018.05.07-16.09.22:164][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.07-16.09.22:217][672]LogNet: Browse: /Game/FirstPersonBP/Maps/Start_Room
+[2018.05.07-16.09.22:229][672]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Start_Room
+[2018.05.07-16.09.22:644][672]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.303 s
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: 
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: 
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: Stack: 
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: [Callstack] 0x00000000DC69B6F6 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: [Callstack] 0x00000000DC3FAE2A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: [Callstack] 0x00000000DC40ECC6 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: [Callstack] 0x00000000CC78BBE9 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: [Callstack] 0x00000000CC75D28D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: [Callstack] 0x00000000E1FF6F37 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: [Callstack] 0x00000000E233C000 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: [Callstack] 0x00000000E235311B UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: [Callstack] 0x00000000E2352534 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: [Callstack] 0x00000000D16D89CA UE4Editor-Engine.dll!UnknownFunction []
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: [Callstack] 0x00000000D168BFD8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: [Callstack] 0x00000000D16F9CF0 UE4Editor-Engine.dll!UnknownFunction []
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: [Callstack] 0x00000000CEB1CD20 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: [Callstack] 0x00000000CF3B9516 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: [Callstack] 0x0000000059BD5EAC UE4Editor.exe!UnknownFunction []
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: [Callstack] 0x0000000059BE6BD0 UE4Editor.exe!UnknownFunction []
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: [Callstack] 0x0000000059BE6C4A UE4Editor.exe!UnknownFunction []
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: [Callstack] 0x0000000059BF4149 UE4Editor.exe!UnknownFunction []
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: [Callstack] 0x0000000059BF5B57 UE4Editor.exe!UnknownFunction []
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: [Callstack] 0x000000001DA61FE4 KERNEL32.DLL!UnknownFunction []
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: [Callstack] 0x000000001E97F061 ntdll.dll!UnknownFunction []
+[2018.05.07-16.09.22:644][672]LogOutputDevice: Error: 
+[2018.05.07-16.09.22:646][672]LogStats:                SubmitErrorReport -  0.000 s
