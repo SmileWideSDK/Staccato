@@ -1,0 +1,1601 @@
+﻿Log file open, 05/18/18 08:59:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: moneymoneymoney
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1392643676) SRandInit(-1392643676).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.261878
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.757s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Whit-Mac-B11 (10.1.180.172:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: E:/Game Desinged/Unreal/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.18-15.59.22:295][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.18-15.59.22:295][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.18-15.59.22:317][  0]LogInit: Computer: WHIT-MAC-B11
+[2018.05.18-15.59.22:317][  0]LogInit: User: Game
+[2018.05.18-15.59.22:317][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.18-15.59.22:317][  0]LogInit: High frequency timer resolution =3.410074 MHz
+[2018.05.18-15.59.22:317][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.05.18-15.59.22:317][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.18-15.59.22:317][  0]LogMemory: Process Physical Memory: 274.61 MB used, 274.61 MB peak
+[2018.05.18-15.59.22:317][  0]LogMemory: Process Virtual Memory: 264.64 MB used, 264.64 MB peak
+[2018.05.18-15.59.22:317][  0]LogMemory: Physical Memory: 5900.85 MB used,  10399.54 MB free, 16300.39 MB total
+[2018.05.18-15.59.22:317][  0]LogMemory: Virtual Memory: 4794.13 MB used,  10399.54 MB free, 134217728.00 MB total
+[2018.05.18-15.59.22:328][  0]LogInit: Using OS detected language (en-US).
+[2018.05.18-15.59.22:328][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.18-15.59.22:331][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.18-15.59.22:743][  0]LogStreaming: Display: Took  0.416s to EndInitTextLocalization.
+[2018.05.18-15.59.22:743][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.18-15.59.22:773][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.18-15.59.22:773][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.18-15.59.22:944][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.18-15.59.22:985][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.05.18-15.59.22:985][  0]LogD3D11RHI:       8086/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.18-15.59.22:987][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.18-15.59.22:987][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.18-15.59.22:988][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.18-15.59.22:993][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.18-15.59.22:993][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.18-15.59.22:993][  0]LogWindows: EnumDisplayDevices:
+[2018.05.18-15.59.22:993][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.05.18-15.59.22:993][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.18-15.59.22:993][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.18-15.59.22:993][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.18-15.59.22:993][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.18-15.59.22:993][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.05.18-15.59.22:993][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.18-15.59.22:994][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.18-15.59.22:994][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2018.05.18-15.59.23:019][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.05.18-15.59.23:019][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.18-15.59.23:019][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.18-15.59.23:029][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.05.18-15.59.23:077][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../GitHub/Eggspository/moneymoneymoney/Intermediate/Shaders/WorkingDirectory/11748/).
+[2018.05.18-15.59.23:077][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Game/AppData/Local/Temp/UnrealShaderWorkingDir/A40F58514FC2AEEEFB68BB9314DF12C3/'.
+[2018.05.18-15.59.23:253][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.18-15.59.23:264][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.18-15.59.23:276][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.18-15.59.23:288][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.18-15.59.23:299][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.18-15.59.23:311][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.18-15.59.23:322][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.18-15.59.23:334][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.18-15.59.23:339][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.18-15.59.23:350][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.18-15.59.23:361][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.18-15.59.23:371][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.18-15.59.23:382][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.18-15.59.23:393][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.18-15.59.23:404][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.18-15.59.23:425][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.18-15.59.23:425][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.18-15.59.23:436][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.18-15.59.23:437][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.18-15.59.23:472][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.18-15.59.23:482][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.18-15.59.23:493][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.18-15.59.23:504][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.18-15.59.23:515][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.18-15.59.23:526][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.18-15.59.23:526][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.18-15.59.23:604][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.18-15.59.23:604][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.18-15.59.23:604][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.18-15.59.24:265][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.18-15.59.24:335][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.18-15.59.24:336][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.18-15.59.24:336][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../GitHub/Eggspository/moneymoneymoney/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.18-15.59.24:336][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.18-15.59.24:336][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../GitHub/Eggspository/moneymoneymoney/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.18-15.59.24:336][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.18-15.59.24:351][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.18-15.59.24:363][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Game/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.18-15.59.24:373][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.18-15.59.24:374][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.18-15.59.24:374][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.18-15.59.24:374][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.18-15.59.24:474][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2018.05.18-15.59.24:751][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.18-15.59.24:871][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.18-15.59.24:873][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.18-15.59.24:873][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.18-15.59.24:873][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.18-15.59.24:873][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.18-15.59.24:873][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.18-15.59.24:898][  0]LogNetVersion: moneymoneymoney , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 958272539)
+[2018.05.18-15.59.25:427][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.205121 seconds
+[2018.05.18-15.59.25:433][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.18-15.59.25:433][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.05.18-15.59.25:433][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.18-15.59.26:827][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.18-15.59.26:851][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.18-15.59.27:123][  0]SourceControl: Source control is disabled
+[2018.05.18-15.59.28:178][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.18-15.59.28:277][  0]LogOcInput: OculusInput pre-init called
+[2018.05.18-15.59.28:360][  0]LogEngine: Initializing Engine...
+[2018.05.18-15.59.28:361][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.18-15.59.28:362][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.18-15.59.28:362][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.18-15.59.28:565][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.18-15.59.28:581][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-15.59.28:594][  0]LogInit: FAudioDevice initialized.
+[2018.05.18-15.59.28:641][  0]LogDerivedDataCache: Saved boot cache 0.05s 74MB C:/Users/Game/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.18-15.59.28:650][  0]LogInit: Texture streaming: Enabled
+[2018.05.18-15.59.28:660][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.18-15.59.28:669][  0]LogInit: Transaction tracking system initialized
+[2018.05.18-15.59.28:683][  0]BlueprintLog: New page: Editor Load
+[2018.05.18-15.59.28:742][  0]LocalizationService: Localization service is disabled
+[2018.05.18-15.59.28:817][  0]LogConsoleResponse: Display: 
+[2018.05.18-15.59.28:964][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.18-15.59.28:964][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.18-15.59.28:964][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.18-15.59.28:964][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.18-15.59.28:964][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.18-15.59.28:999][  0]LogFileCache: Scanning file cache for directory 'E:/Game Desinged/Unreal/GitHub/Eggspository/moneymoneymoney/Content/' took 0.02s
+[2018.05.18-15.59.29:217][  0]Cmd: MAP LOAD FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.18-15.59.29:233][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.18-15.59.29:270][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.18-15.59.46:575][  0]LogSlate: Window 'Message' being destroyed
+[2018.05.18-15.59.46:575][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.18-15.59.46:578][  0]LightingResults: New page: Lighting Build
+[2018.05.18-15.59.46:580][  0]MapCheck: New page: Map Check
+[2018.05.18-15.59.46:580][  0]LightingResults: New page: Lighting Build
+[2018.05.18-15.59.46:591][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.18-15.59.46:593][  0]LoadErrors: New page: New Map
+[2018.05.18-15.59.46:650][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.18-15.59.46:792][  0]LogCollectionManager: Loaded 0 collections in 0.000826 seconds
+[2018.05.18-15.59.46:832][  0]LogFileCache: Scanning file cache for directory 'E:/Game Desinged/Unreal/GitHub/Eggspository/moneymoneymoney/Saved/Collections/' took 0.01s
+[2018.05.18-15.59.46:832][  0]LogFileCache: Scanning file cache for directory 'E:/Game Desinged/Unreal/GitHub/Eggspository/moneymoneymoney/Content/Developers/Game/Collections/' took 0.01s
+[2018.05.18-15.59.46:832][  0]LogFileCache: Scanning file cache for directory 'E:/Game Desinged/Unreal/GitHub/Eggspository/moneymoneymoney/Content/Collections/' took 0.01s
+[2018.05.18-15.59.46:832][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.18-15.59.46:840][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2452 classes and 558 folders.
+[2018.05.18-15.59.46:845][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.18-15.59.47:716][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.18-15.59.47:754][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.05.18-15.59.49:353][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.18-15.59.49:408][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.moneymoneymoney
+[2018.05.18-15.59.49:408][  0]LogTemp: CWD: E:\Game Desinged\Unreal\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.18-15.59.49:408][  0]LogTemp: Initial Dir: E:\Game Desinged\Unreal\UE_4.19
+[2018.05.18-15.59.49:408][  0]LogTemp: Env CWD: E:\Game Desinged\Unreal\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.18-15.59.49:408][  0]LogTemp: BranchPath = WHIT-MAC-B11/E/Game Desinged/Unreal/UE_4.19/Engine/Binaries --- GameBranchPath = WHIT-MAC-B11/E/Game Desinged/Unreal/UE_4.19/Engine/Binaries
+[2018.05.18-15.59.49:408][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Game\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.18-15.59.49:423][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.18-15.59.49:423][  0]LogLoad: (Engine Initialization) Total time: 29.35 seconds
+[2018.05.18-15.59.49:423][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.18-15.59.49:457][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.18-15.59.49:459][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.18-15.59.49:470][  0]LogSlate: Took 0.007489 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.18-15.59.49:552][  0]LogRenderer: Reallocating scene render targets to support 64x64 Format 10 NumSamples 1 (Frame:1).
+[2018.05.18-15.59.49:679][  1]LogRenderer: Reallocating scene render targets to support 764x724 Format 10 NumSamples 1 (Frame:1).
+[2018.05.18-15.59.49:680][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-15.59.49:689][  1]LogAssetRegistry: Asset discovery search completed in 25.2371 seconds
+[2018.05.18-15.59.49:691][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.18-15.59.49:691][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000075 seconds (updated 0 objects)
+[2018.05.18-15.59.50:562][ 89]LogSlate: Took 0.014804 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.18-15.59.50:664][ 89]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.05.18-15.59.53:747][ 89]LogSkeletalMesh: Skeletal Mesh found in DDC [7.123306ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.05.18-15.59.53:775][ 89]LogSkeletalMesh: Skeletal Mesh found in DDC [13.533137ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.05.18-15.59.54:799][ 89]LogSlate: Took 0.011297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.18-15.59.55:220][ 89]LogRenderer: Reallocating scene render targets to support 1092x780 Format 10 NumSamples 1 (Frame:1).
+[2018.05.18-15.59.55:240][ 90]LogSlate: Took 0.004233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.18-15.59.58:453][371]LogRenderer: Reallocating scene render targets to support 1092x784 Format 10 NumSamples 1 (Frame:242).
+[2018.05.18-15.59.58:745][391]LogRenderer: Reallocating scene render targets to support 1124x1184 Format 10 NumSamples 1 (Frame:246).
+[2018.05.18-15.59.58:795][391]LogRenderer: Reallocating scene render targets to support 1124x1188 Format 10 NumSamples 1 (Frame:248).
+[2018.05.18-16.00.01:370][679]LogRenderer: Reallocating scene render targets to support 1688x1772 Format 10 NumSamples 1 (Frame:342).
+[2018.05.18-16.00.04:846][ 64]LogSlate: Window 'BP_Coffee' being destroyed
+[2018.05.18-16.00.14:516][181]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.00.14:546][181]Cmd: MAP LOAD FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.18-16.00.14:546][181]LightingResults: New page: Lighting Build
+[2018.05.18-16.00.14:547][181]LoadErrors: New page: Loading map: Test.umap
+[2018.05.18-16.00.14:547][181]MapCheck: New page: Map Check
+[2018.05.18-16.00.14:547][181]LightingResults: New page: Lighting Build
+[2018.05.18-16.00.14:626][181]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.18-16.00.14:675][181]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.18-16.00.14:718][181]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.643ms to complete.
+[2018.05.18-16.00.14:718][181]LogFileHelpers: Loading map 'Test' took 0.174
+[2018.05.18-16.00.16:621][400]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.18-16.00.16:650][400]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.00.16:650][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.18-16.00.16:650][400]PIE: New page: PIE session: Test (May 18, 2018, 2:00:16 AM)
+[2018.05.18-16.00.16:650][400]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.00.16:652][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001314s)
+[2018.05.18-16.00.16:652][400]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.00.16:652][400]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2018.05.18-16.00.16:652][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.002028s)
+[2018.05.18-16.00.16:676][400]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-16.00.16:686][400]LogInit: FAudioDevice initialized.
+[2018.05.18-16.00.16:821][400]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.16:823][400]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.00.16
+[2018.05.18-16.00.16:823][400]LogWorld: Bringing up level for play took: 0.000796
+[2018.05.18-16.00.16:826][400]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.05.18-16.00.16:828][400]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Failed Not Level Change
+[2018.05.18-16.00.16:828][400]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Test -0.493
+[2018.05.18-16.00.16:829][400]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.00.24:735][345]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.24:735][345]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.25:448][345]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.00.25:449][345]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.25:450][345]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.00.25
+[2018.05.18-16.00.25:450][345]LogWorld: Bringing up level for play took: 0.001105
+[2018.05.18-16.00.25:452][345]LogLoad: Took 0.716313 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.00.26:428][461]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.26:428][461]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.26:449][461]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.00.26:450][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001264s)
+[2018.05.18-16.00.26:450][461]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.00.26:451][461]LogPlayLevel: PIE: World Init took: (0.000513s)
+[2018.05.18-16.00.26:451][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.001916s)
+[2018.05.18-16.00.26:451][461]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.26:451][461]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.00.26
+[2018.05.18-16.00.26:452][461]LogWorld: Bringing up level for play took: 0.000586
+[2018.05.18-16.00.26:454][461]LogLoad: Took 0.025955 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.00.27:295][561]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.27:295][561]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.27:335][561]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.00.27:336][561]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.27:337][561]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.00.27
+[2018.05.18-16.00.27:337][561]LogWorld: Bringing up level for play took: 0.001060
+[2018.05.18-16.00.27:339][561]LogLoad: Took 0.043655 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.00.28:062][647]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.28:063][647]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.28:084][647]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.00.28:085][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001303s)
+[2018.05.18-16.00.28:086][647]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.00.28:086][647]LogPlayLevel: PIE: World Init took: (0.000564s)
+[2018.05.18-16.00.28:086][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.002013s)
+[2018.05.18-16.00.28:086][647]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.28:087][647]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.00.28
+[2018.05.18-16.00.28:087][647]LogWorld: Bringing up level for play took: 0.000572
+[2018.05.18-16.00.28:089][647]LogLoad: Took 0.026640 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.00.28:763][727]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.28:763][727]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.28:803][727]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.00.28:803][727]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.28:805][727]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.00.28
+[2018.05.18-16.00.28:805][727]LogWorld: Bringing up level for play took: 0.001062
+[2018.05.18-16.00.28:807][727]LogLoad: Took 0.043481 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.00.29:472][806]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.29:472][806]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.29:493][806]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.00.29:495][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001296s)
+[2018.05.18-16.00.29:495][806]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.00.29:495][806]LogPlayLevel: PIE: World Init took: (0.000541s)
+[2018.05.18-16.00.29:495][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.001988s)
+[2018.05.18-16.00.29:495][806]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.29:496][806]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.00.29
+[2018.05.18-16.00.29:496][806]LogWorld: Bringing up level for play took: 0.000569
+[2018.05.18-16.00.29:498][806]LogLoad: Took 0.025879 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.00.30:239][894]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.30:239][894]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.30:279][894]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.00.30:279][894]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.30:281][894]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.00.30
+[2018.05.18-16.00.30:281][894]LogWorld: Bringing up level for play took: 0.001016
+[2018.05.18-16.00.30:283][894]LogLoad: Took 0.043491 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.00.30:739][948]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.30:739][948]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.30:761][948]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.00.30:762][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001261s)
+[2018.05.18-16.00.30:762][948]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.00.30:762][948]LogPlayLevel: PIE: World Init took: (0.000480s)
+[2018.05.18-16.00.30:762][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.001896s)
+[2018.05.18-16.00.30:762][948]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.30:763][948]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.00.30
+[2018.05.18-16.00.30:764][948]LogWorld: Bringing up level for play took: 0.000585
+[2018.05.18-16.00.30:766][948]LogLoad: Took 0.026361 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.00.31:073][984]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.31:073][984]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.31:113][984]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.00.31:113][984]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.31:114][984]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.00.31
+[2018.05.18-16.00.31:115][984]LogWorld: Bringing up level for play took: 0.001092
+[2018.05.18-16.00.31:116][984]LogLoad: Took 0.043339 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.00.31:357][ 12]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.31:357][ 12]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.31:379][ 12]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.00.31:381][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001296s)
+[2018.05.18-16.00.31:381][ 12]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.00.31:381][ 12]LogPlayLevel: PIE: World Init took: (0.000512s)
+[2018.05.18-16.00.31:381][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.001971s)
+[2018.05.18-16.00.31:381][ 12]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.31:382][ 12]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.00.31
+[2018.05.18-16.00.31:382][ 12]LogWorld: Bringing up level for play took: 0.000590
+[2018.05.18-16.00.31:385][ 12]LogLoad: Took 0.027374 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.00.31:650][ 43]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.31:650][ 43]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.31:690][ 43]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.00.31:690][ 43]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.31:692][ 43]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.00.31
+[2018.05.18-16.00.31:692][ 43]LogWorld: Bringing up level for play took: 0.001052
+[2018.05.18-16.00.31:694][ 43]LogLoad: Took 0.043333 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.00.31:843][ 60]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.31:843][ 60]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.31:863][ 60]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.00.31:865][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001322s)
+[2018.05.18-16.00.31:865][ 60]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.00.31:865][ 60]LogPlayLevel: PIE: World Init took: (0.000513s)
+[2018.05.18-16.00.31:865][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.002003s)
+[2018.05.18-16.00.31:865][ 60]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.31:866][ 60]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.00.31
+[2018.05.18-16.00.31:867][ 60]LogWorld: Bringing up level for play took: 0.000604
+[2018.05.18-16.00.31:869][ 60]LogLoad: Took 0.025824 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.00.32:018][ 77]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.32:018][ 77]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.32:059][ 77]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.00.32:059][ 77]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.32:060][ 77]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.00.32
+[2018.05.18-16.00.32:060][ 77]LogWorld: Bringing up level for play took: 0.001021
+[2018.05.18-16.00.32:062][ 77]LogLoad: Took 0.044344 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.00.32:178][ 90]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.32:178][ 90]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.32:198][ 90]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.00.32:200][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001364s)
+[2018.05.18-16.00.32:200][ 90]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.00.32:200][ 90]LogPlayLevel: PIE: World Init took: (0.000535s)
+[2018.05.18-16.00.32:200][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.002041s)
+[2018.05.18-16.00.32:200][ 90]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.32:201][ 90]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.00.32
+[2018.05.18-16.00.32:201][ 90]LogWorld: Bringing up level for play took: 0.000569
+[2018.05.18-16.00.32:203][ 90]LogLoad: Took 0.025981 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.00.32:336][105]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.32:336][105]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.32:375][105]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.00.32:376][105]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.32:377][105]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.00.32
+[2018.05.18-16.00.32:377][105]LogWorld: Bringing up level for play took: 0.001049
+[2018.05.18-16.00.32:379][105]LogLoad: Took 0.043546 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.00.32:461][114]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.32:462][114]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.32:483][114]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.00.32:484][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001338s)
+[2018.05.18-16.00.32:485][114]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.00.32:485][114]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2018.05.18-16.00.32:485][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.002064s)
+[2018.05.18-16.00.32:485][114]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.32:486][114]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.00.32
+[2018.05.18-16.00.32:486][114]LogWorld: Bringing up level for play took: 0.000576
+[2018.05.18-16.00.32:488][114]LogLoad: Took 0.026736 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.00.32:620][129]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.32:620][129]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.32:660][129]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.00.32:660][129]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.32:662][129]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.00.32
+[2018.05.18-16.00.32:662][129]LogWorld: Bringing up level for play took: 0.001042
+[2018.05.18-16.00.32:664][129]LogLoad: Took 0.043187 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.00.32:754][139]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.32:754][139]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.32:775][139]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.00.32:776][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001352s)
+[2018.05.18-16.00.32:776][139]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.00.32:777][139]LogPlayLevel: PIE: World Init took: (0.000555s)
+[2018.05.18-16.00.32:777][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.002049s)
+[2018.05.18-16.00.32:777][139]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.32:778][139]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.00.32
+[2018.05.18-16.00.32:778][139]LogWorld: Bringing up level for play took: 0.000565
+[2018.05.18-16.00.32:780][139]LogLoad: Took 0.025660 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.00.32:878][150]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.32:879][150]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.32:918][150]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.00.32:918][150]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.32:920][150]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.00.32
+[2018.05.18-16.00.32:920][150]LogWorld: Bringing up level for play took: 0.001036
+[2018.05.18-16.00.32:922][150]LogLoad: Took 0.043227 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.00.34:529][342]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.34:529][342]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.34:550][342]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.00.34:552][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001381s)
+[2018.05.18-16.00.34:552][342]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.00.34:552][342]LogPlayLevel: PIE: World Init took: (0.000508s)
+[2018.05.18-16.00.34:552][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.002033s)
+[2018.05.18-16.00.34:552][342]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.34:553][342]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.00.34
+[2018.05.18-16.00.34:553][342]LogWorld: Bringing up level for play took: 0.000573
+[2018.05.18-16.00.34:555][342]LogLoad: Took 0.026287 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.00.36:046][520]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.36:046][520]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.36:086][520]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.00.36:087][520]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.36:088][520]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.00.36
+[2018.05.18-16.00.36:088][520]LogWorld: Bringing up level for play took: 0.001100
+[2018.05.18-16.00.36:090][520]LogLoad: Took 0.043778 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.00.38:256][779]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.38:256][779]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.38:277][779]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.00.38:278][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001301s)
+[2018.05.18-16.00.38:279][779]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.00.38:279][779]LogPlayLevel: PIE: World Init took: (0.000514s)
+[2018.05.18-16.00.38:279][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.001955s)
+[2018.05.18-16.00.38:279][779]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.38:280][779]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.00.38
+[2018.05.18-16.00.38:280][779]LogWorld: Bringing up level for play took: 0.000567
+[2018.05.18-16.00.38:282][779]LogLoad: Took 0.026372 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.00.38:956][859]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.38:957][859]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.38:997][859]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.00.38:997][859]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.38:998][859]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.00.38
+[2018.05.18-16.00.38:998][859]LogWorld: Bringing up level for play took: 0.001017
+[2018.05.18-16.00.39:000][859]LogLoad: Took 0.043540 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.00.39:757][949]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.39:757][949]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.39:778][949]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.00.39:779][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001348s)
+[2018.05.18-16.00.39:780][949]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.00.39:780][949]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2018.05.18-16.00.39:780][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.002008s)
+[2018.05.18-16.00.39:780][949]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.39:781][949]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.00.39
+[2018.05.18-16.00.39:781][949]LogWorld: Bringing up level for play took: 0.000577
+[2018.05.18-16.00.39:783][949]LogLoad: Took 0.026224 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.00.40:433][ 26]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.40:433][ 26]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.40:473][ 26]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.00.40:473][ 26]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.40:474][ 26]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.00.40
+[2018.05.18-16.00.40:475][ 26]LogWorld: Bringing up level for play took: 0.001076
+[2018.05.18-16.00.40:477][ 26]LogLoad: Took 0.043801 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.00.41:200][112]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.41:200][112]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.41:221][112]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.00.41:222][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001306s)
+[2018.05.18-16.00.41:223][112]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.00.41:223][112]LogPlayLevel: PIE: World Init took: (0.000510s)
+[2018.05.18-16.00.41:223][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.001954s)
+[2018.05.18-16.00.41:223][112]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.41:224][112]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.00.41
+[2018.05.18-16.00.41:224][112]LogWorld: Bringing up level for play took: 0.000627
+[2018.05.18-16.00.41:226][112]LogLoad: Took 0.026299 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.00.41:859][187]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.41:859][187]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.41:899][187]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.00.41:899][187]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.41:901][187]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.00.41
+[2018.05.18-16.00.41:901][187]LogWorld: Bringing up level for play took: 0.001082
+[2018.05.18-16.00.41:903][187]LogLoad: Took 0.043927 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.00.42:560][265]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.42:561][265]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.42:581][265]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.00.42:583][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001260s)
+[2018.05.18-16.00.42:583][265]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.00.42:583][265]LogPlayLevel: PIE: World Init took: (0.000523s)
+[2018.05.18-16.00.42:583][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.001924s)
+[2018.05.18-16.00.42:583][265]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.42:584][265]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.00.42
+[2018.05.18-16.00.42:584][265]LogWorld: Bringing up level for play took: 0.000585
+[2018.05.18-16.00.42:587][265]LogLoad: Took 0.025850 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.00.43:376][359]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.43:377][359]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.43:419][359]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.00.43:419][359]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.43:421][359]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.00.43
+[2018.05.18-16.00.43:421][359]LogWorld: Bringing up level for play took: 0.001056
+[2018.05.18-16.00.43:423][359]LogLoad: Took 0.046360 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.00.44:131][443]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.44:131][443]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.44:152][443]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.00.44:153][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001370s)
+[2018.05.18-16.00.44:154][443]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.00.44:154][443]LogPlayLevel: PIE: World Init took: (0.000557s)
+[2018.05.18-16.00.44:154][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.002069s)
+[2018.05.18-16.00.44:154][443]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.44:155][443]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.00.44
+[2018.05.18-16.00.44:155][443]LogWorld: Bringing up level for play took: 0.000575
+[2018.05.18-16.00.44:157][443]LogLoad: Took 0.025762 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.00.45:197][567]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.45:197][567]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.45:237][567]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.00.45:238][567]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.45:239][567]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.00.45
+[2018.05.18-16.00.45:239][567]LogWorld: Bringing up level for play took: 0.001014
+[2018.05.18-16.00.45:241][567]LogLoad: Took 0.043853 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.00.50:559][203]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.50:559][203]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.50:586][203]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.00.50:587][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001591s)
+[2018.05.18-16.00.50:588][203]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.00.50:588][203]LogPlayLevel: PIE: World Init took: (0.000640s)
+[2018.05.18-16.00.50:588][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.002403s)
+[2018.05.18-16.00.50:588][203]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.50:589][203]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.00.50
+[2018.05.18-16.00.50:589][203]LogWorld: Bringing up level for play took: 0.000639
+[2018.05.18-16.00.50:592][203]LogLoad: Took 0.032585 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.00.52:175][392]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.52:175][392]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.52:216][392]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.00.52:216][392]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.52:217][392]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.00.52
+[2018.05.18-16.00.52:217][392]LogWorld: Bringing up level for play took: 0.001014
+[2018.05.18-16.00.52:219][392]LogLoad: Took 0.043804 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.00.53:201][509]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.53:201][509]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.53:222][509]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.00.53:223][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001360s)
+[2018.05.18-16.00.53:224][509]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.00.53:224][509]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2018.05.18-16.00.53:224][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.002082s)
+[2018.05.18-16.00.53:224][509]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.53:225][509]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.00.53
+[2018.05.18-16.00.53:225][509]LogWorld: Bringing up level for play took: 0.000573
+[2018.05.18-16.00.53:227][509]LogLoad: Took 0.025877 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.00.54:143][618]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.54:143][618]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.54:183][618]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.00.54:183][618]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.54:184][618]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.00.54
+[2018.05.18-16.00.54:185][618]LogWorld: Bringing up level for play took: 0.001079
+[2018.05.18-16.00.54:186][618]LogLoad: Took 0.043322 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.00.55:360][758]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.55:360][758]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.55:381][758]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.00.55:382][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001291s)
+[2018.05.18-16.00.55:382][758]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.00.55:383][758]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2018.05.18-16.00.55:383][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.001978s)
+[2018.05.18-16.00.55:383][758]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.55:384][758]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.00.55
+[2018.05.18-16.00.55:384][758]LogWorld: Bringing up level for play took: 0.000580
+[2018.05.18-16.00.55:386][758]LogLoad: Took 0.026073 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.00.56:353][873]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.56:353][873]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.56:392][873]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.00.56:393][873]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.56:394][873]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.00.56
+[2018.05.18-16.00.56:394][873]LogWorld: Bringing up level for play took: 0.001071
+[2018.05.18-16.00.56:396][873]LogLoad: Took 0.043445 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.00.57:086][955]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.57:086][955]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.57:107][955]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.00.57:108][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001298s)
+[2018.05.18-16.00.57:109][955]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.00.57:109][955]LogPlayLevel: PIE: World Init took: (0.000512s)
+[2018.05.18-16.00.57:109][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.001952s)
+[2018.05.18-16.00.57:109][955]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.57:110][955]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.00.57
+[2018.05.18-16.00.57:110][955]LogWorld: Bringing up level for play took: 0.000579
+[2018.05.18-16.00.57:112][955]LogLoad: Took 0.025848 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.00.57:811][ 38]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.57:812][ 38]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.57:852][ 38]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.00.57:852][ 38]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.57:853][ 38]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.00.57
+[2018.05.18-16.00.57:854][ 38]LogWorld: Bringing up level for play took: 0.001040
+[2018.05.18-16.00.57:855][ 38]LogLoad: Took 0.043740 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.00.58:495][114]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.58:496][114]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.00.58:517][114]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.00.58:518][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001309s)
+[2018.05.18-16.00.58:519][114]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.00.58:519][114]LogPlayLevel: PIE: World Init took: (0.000530s)
+[2018.05.18-16.00.58:519][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.001986s)
+[2018.05.18-16.00.58:519][114]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.58:520][114]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.00.58
+[2018.05.18-16.00.58:520][114]LogWorld: Bringing up level for play took: 0.000582
+[2018.05.18-16.00.58:522][114]LogLoad: Took 0.026452 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.00.59:313][208]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.59:313][208]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.00.59:354][208]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.00.59:354][208]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.00.59:355][208]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.00.59
+[2018.05.18-16.00.59:355][208]LogWorld: Bringing up level for play took: 0.001065
+[2018.05.18-16.00.59:357][208]LogLoad: Took 0.044354 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.01.00:172][305]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.01.00:173][305]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.01.00:194][305]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.01.00:195][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001301s)
+[2018.05.18-16.01.00:196][305]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.01.00:196][305]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2018.05.18-16.01.00:196][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.002000s)
+[2018.05.18-16.01.00:196][305]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.01.00:197][305]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.01.00
+[2018.05.18-16.01.00:197][305]LogWorld: Bringing up level for play took: 0.000569
+[2018.05.18-16.01.00:199][305]LogLoad: Took 0.026327 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.01.01:057][407]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.01.01:057][407]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.01.01:098][407]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.01.01:099][407]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.01.01:100][407]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.01.01
+[2018.05.18-16.01.01:100][407]LogWorld: Bringing up level for play took: 0.001018
+[2018.05.18-16.01.01:102][407]LogLoad: Took 0.045175 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.01.01:826][493]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.01.01:826][493]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.01.01:847][493]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.01.01:848][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001323s)
+[2018.05.18-16.01.01:849][493]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.01.01:849][493]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2018.05.18-16.01.01:849][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.002123s)
+[2018.05.18-16.01.01:849][493]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.01.01:850][493]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.01.01
+[2018.05.18-16.01.01:850][493]LogWorld: Bringing up level for play took: 0.000589
+[2018.05.18-16.01.01:852][493]LogLoad: Took 0.026332 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.01.02:510][571]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.01.02:511][571]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.01.02:551][571]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.01.02:552][571]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.01.02:553][571]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.01.02
+[2018.05.18-16.01.02:553][571]LogWorld: Bringing up level for play took: 0.001075
+[2018.05.18-16.01.02:555][571]LogLoad: Took 0.044621 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.01.03:920][734]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.01.03:921][734]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.01.03:942][734]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.01.03:944][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001338s)
+[2018.05.18-16.01.03:944][734]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.01.03:944][734]LogPlayLevel: PIE: World Init took: (0.000541s)
+[2018.05.18-16.01.03:944][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.002024s)
+[2018.05.18-16.01.03:944][734]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.01.03:945][734]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.01.03
+[2018.05.18-16.01.03:945][734]LogWorld: Bringing up level for play took: 0.000541
+[2018.05.18-16.01.03:947][734]LogLoad: Took 0.026870 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.01.05:263][891]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.01.05:263][891]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.01.05:303][891]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.01.05:303][891]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.01.05:305][891]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.01.05
+[2018.05.18-16.01.05:305][891]LogWorld: Bringing up level for play took: 0.001050
+[2018.05.18-16.01.05:307][891]LogLoad: Took 0.043733 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.01.06:765][ 65]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.01.06:765][ 65]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.01.06:785][ 65]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.01.06:787][ 65]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001378s)
+[2018.05.18-16.01.06:787][ 65]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.01.06:787][ 65]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2018.05.18-16.01.06:787][ 65]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.002075s)
+[2018.05.18-16.01.06:787][ 65]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.01.06:788][ 65]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.01.06
+[2018.05.18-16.01.06:788][ 65]LogWorld: Bringing up level for play took: 0.000551
+[2018.05.18-16.01.06:790][ 65]LogLoad: Took 0.025482 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.01.07:947][203]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.01.07:948][203]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.01.07:988][203]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.01.07:989][203]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.01.07:990][203]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.01.07
+[2018.05.18-16.01.07:990][203]LogWorld: Bringing up level for play took: 0.001039
+[2018.05.18-16.01.07:992][203]LogLoad: Took 0.044397 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.01.09:007][324]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.01.09:007][324]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.01.09:029][324]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.01.09:030][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001260s)
+[2018.05.18-16.01.09:030][324]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.01.09:030][324]LogPlayLevel: PIE: World Init took: (0.000484s)
+[2018.05.18-16.01.09:030][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.001898s)
+[2018.05.18-16.01.09:030][324]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.01.09:031][324]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.01.09
+[2018.05.18-16.01.09:032][324]LogWorld: Bringing up level for play took: 0.000589
+[2018.05.18-16.01.09:034][324]LogLoad: Took 0.026191 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.01.09:708][404]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.01.09:708][404]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.01.09:749][404]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.01.09:749][404]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.01.09:750][404]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.01.09
+[2018.05.18-16.01.09:750][404]LogWorld: Bringing up level for play took: 0.001043
+[2018.05.18-16.01.09:752][404]LogLoad: Took 0.044430 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.01.10:801][529]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.01.10:801][529]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.01.10:821][529]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.01.10:823][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001311s)
+[2018.05.18-16.01.10:823][529]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.01.10:823][529]LogPlayLevel: PIE: World Init took: (0.000547s)
+[2018.05.18-16.01.10:823][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.001996s)
+[2018.05.18-16.01.10:823][529]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.01.10:824][529]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.01.10
+[2018.05.18-16.01.10:824][529]LogWorld: Bringing up level for play took: 0.000569
+[2018.05.18-16.01.10:827][529]LogLoad: Took 0.025674 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.01.12:467][725]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.01.12:467][725]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.01.12:507][725]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.01.12:507][725]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.01.12:508][725]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.01.12
+[2018.05.18-16.01.12:508][725]LogWorld: Bringing up level for play took: 0.001069
+[2018.05.18-16.01.12:510][725]LogLoad: Took 0.042975 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.01.13:810][880]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.01.13:810][880]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.01.13:831][880]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.01.13:832][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001298s)
+[2018.05.18-16.01.13:833][880]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.01.13:833][880]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2018.05.18-16.01.13:833][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.001970s)
+[2018.05.18-16.01.13:833][880]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.01.13:834][880]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.01.13
+[2018.05.18-16.01.13:834][880]LogWorld: Bringing up level for play took: 0.000575
+[2018.05.18-16.01.13:836][880]LogLoad: Took 0.025913 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.01.15:202][ 43]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.01.15:202][ 43]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.01.15:242][ 43]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.01.15:242][ 43]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.01.15:243][ 43]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.01.15
+[2018.05.18-16.01.15:243][ 43]LogWorld: Bringing up level for play took: 0.001036
+[2018.05.18-16.01.15:245][ 43]LogLoad: Took 0.043093 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.01.16:144][150]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.01.16:145][150]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.01.16:167][150]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.01.16:168][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001304s)
+[2018.05.18-16.01.16:169][150]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.01.16:169][150]LogPlayLevel: PIE: World Init took: (0.000529s)
+[2018.05.18-16.01.16:169][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.001997s)
+[2018.05.18-16.01.16:169][150]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.01.16:170][150]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.01.16
+[2018.05.18-16.01.16:170][150]LogWorld: Bringing up level for play took: 0.000569
+[2018.05.18-16.01.16:172][150]LogLoad: Took 0.027683 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.01.17:422][299]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.01.17:422][299]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.01.17:462][299]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.01.17:462][299]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.01.17:463][299]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.01.17
+[2018.05.18-16.01.17:463][299]LogWorld: Bringing up level for play took: 0.001072
+[2018.05.18-16.01.17:465][299]LogLoad: Took 0.043074 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.01.19:182][502]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.01.19:182][502]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.01.19:203][502]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.01.19:205][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001286s)
+[2018.05.18-16.01.19:205][502]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.01.19:205][502]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2018.05.18-16.01.19:205][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.001977s)
+[2018.05.18-16.01.19:205][502]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.01.19:206][502]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.01.19
+[2018.05.18-16.01.19:206][502]LogWorld: Bringing up level for play took: 0.000573
+[2018.05.18-16.01.19:208][502]LogLoad: Took 0.026460 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.01.21:308][753]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.01.21:308][753]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.01.21:348][753]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.01.21:348][753]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.01.21:350][753]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.01.21
+[2018.05.18-16.01.21:350][753]LogWorld: Bringing up level for play took: 0.001080
+[2018.05.18-16.01.21:352][753]LogLoad: Took 0.043843 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.01.35:577][459]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.01.35:611][459]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.01.36:558][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-16.01.36:650][580]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.18-16.01.36:678][580]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.01.36:678][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.18-16.01.36:678][580]PIE: New page: PIE session: Test (May 18, 2018, 2:01:36 AM)
+[2018.05.18-16.01.36:679][580]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.01.36:681][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001246s)
+[2018.05.18-16.01.36:681][580]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.01.36:681][580]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2018.05.18-16.01.36:681][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.001939s)
+[2018.05.18-16.01.36:704][580]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-16.01.36:714][580]LogInit: FAudioDevice initialized.
+[2018.05.18-16.01.36:748][580]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.01.36:749][580]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.01.36
+[2018.05.18-16.01.36:749][580]LogWorld: Bringing up level for play took: 0.000614
+[2018.05.18-16.01.36:751][580]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Failed Not Level Change
+[2018.05.18-16.01.36:751][580]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Test -0.571
+[2018.05.18-16.01.36:751][580]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.01.39:947][962]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.01.39:980][962]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.03.06:774][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-16.03.06:882][866]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.18-16.03.06:907][866]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.03.06:907][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.18-16.03.06:908][866]PIE: New page: PIE session: Test (May 18, 2018, 2:03:06 AM)
+[2018.05.18-16.03.06:908][866]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.03.06:909][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001465s)
+[2018.05.18-16.03.06:910][866]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.03.06:910][866]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2018.05.18-16.03.06:910][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.002207s)
+[2018.05.18-16.03.06:934][866]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-16.03.06:945][866]LogInit: FAudioDevice initialized.
+[2018.05.18-16.03.06:973][866]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.03.06:974][866]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.03.06
+[2018.05.18-16.03.06:974][866]LogWorld: Bringing up level for play took: 0.000723
+[2018.05.18-16.03.06:976][866]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Failed Not Level Change
+[2018.05.18-16.03.06:977][866]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Test -0.345
+[2018.05.18-16.03.06:977][866]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.03.31:255][777]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.03.31:288][777]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.12.36:471][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-16.12.54:609][141]Cmd: MAP LOAD FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.18-16.12.54:609][141]LightingResults: New page: Lighting Build
+[2018.05.18-16.12.54:610][141]LoadErrors: New page: Loading map: Test.umap
+[2018.05.18-16.12.54:611][141]MapCheck: New page: Map Check
+[2018.05.18-16.12.54:611][141]LightingResults: New page: Lighting Build
+[2018.05.18-16.12.54:659][141]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.12.54:735][141]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.18-16.12.54:785][141]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.18-16.12.54:832][141]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.88ms to complete.
+[2018.05.18-16.12.54:833][141]LogFileHelpers: Loading map 'Test' took 0.225
+[2018.05.18-16.13.16:240][595]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.18-16.13.17:338][640]LogSavePackage: Save=91.52ms
+[2018.05.18-16.13.17:338][640]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/FirstPersonCharacter99A0324343F2CAAB4637C0A7E34C3F9A.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.18-16.13.17:342][640]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.18-16.13.18:592][784]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.18-16.13.18:621][784]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.13.18:621][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.18-16.13.18:621][784]PIE: New page: PIE session: Test (May 18, 2018, 2:13:18 AM)
+[2018.05.18-16.13.18:621][784]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.13.18:623][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001270s)
+[2018.05.18-16.13.18:623][784]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.13.18:623][784]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2018.05.18-16.13.18:623][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.001939s)
+[2018.05.18-16.13.18:648][784]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-16.13.18:658][784]LogInit: FAudioDevice initialized.
+[2018.05.18-16.13.18:688][784]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.13.18:689][784]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.13.18
+[2018.05.18-16.13.18:689][784]LogWorld: Bringing up level for play took: 0.000622
+[2018.05.18-16.13.18:691][784]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Failed Not Level Change
+[2018.05.18-16.13.18:691][784]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Test -0.63
+[2018.05.18-16.13.18:691][784]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.13.32:341][420]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.13.32:379][420]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.13.39:983][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-16.14.24:477][252]BlueprintLog: New page: Compile BP_BaseItem
+[2018.05.18-16.14.25:276][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/BP_BaseItem" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset" SILENT=true
+[2018.05.18-16.14.25:293][302]LogSavePackage: Save=6.71ms
+[2018.05.18-16.14.25:293][302]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_BaseItem27B0AC7944C495D7E48207A32FEBFF85.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset'
+[2018.05.18-16.14.25:294][302]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset
+[2018.05.18-16.14.34:229][982]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.18-16.17.10:730][634]BlueprintLog: New page: Compile BP_BaseItem
+[2018.05.18-16.17.11:322][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/BP_BaseItem" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset" SILENT=true
+[2018.05.18-16.17.11:336][658]LogSavePackage: Save=8.15ms
+[2018.05.18-16.17.11:336][658]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_BaseItemAA95F56D4E07BAB97A0BBBB7787E9AF7.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset'
+[2018.05.18-16.17.11:337][658]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset
+[2018.05.18-16.17.30:868][321]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.18-16.17.30:980][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.18-16.17.31:078][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.18-16.17.31:278][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.18-16.17.31:485][321]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Spawner_C_0.SceneComp) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.18-16.17.31:486][321]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Spawner_2.SceneComp) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.18-16.17.32:111][321]SourceControl: rm 'moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset'
+[2018.05.18-16.17.32:111][321]SourceControl: rm 'moneymoneymoney/Content/FirstPersonBP/Spawner/BP_Coffee.uasset'
+[2018.05.18-16.17.32:111][321]SourceControl: rm 'moneymoneymoney/Content/FirstPersonBP/Spawner/Interaction.uasset'
+[2018.05.18-16.17.32:111][321]SourceControl: rm 'moneymoneymoney/Content/FirstPersonBP/Spawner/Spawner.uasset'
+[2018.05.18-16.18.22:883][140]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.18-16.18.47:352][928]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.18-16.19.32:338][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/BP_BaseItem" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset" SILENT=true
+[2018.05.18-16.19.32:350][314]LogSavePackage: Save=9.62ms
+[2018.05.18-16.19.32:350][314]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_BaseItemE7678C06480DF958B0E8E1B0C4E16F0B.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset'
+[2018.05.18-16.19.32:351][314]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset
+[2018.05.18-16.19.33:531][356]BlueprintLog: New page: Compile BP_BaseItem
+[2018.05.18-16.19.34:384][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/BP_BaseItem" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset" SILENT=true
+[2018.05.18-16.19.34:403][418]LogSavePackage: Save=8.61ms
+[2018.05.18-16.19.34:403][418]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_BaseItemF40DF6B5450E75E532DD038C63D6B8AB.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset'
+[2018.05.18-16.19.34:403][418]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset
+[2018.05.18-16.19.35:926][561]LogSlate: Window 'BP_BaseItem' being destroyed
+[2018.05.18-16.20.17:396][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseFood.BP_BaseFood:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseFood.PackageMetaData'
+[2018.05.18-16.20.17:396][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseFood.SKEL_BP_BaseFood_C' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseFood.PackageMetaData'
+[2018.05.18-16.20.17:396][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseFood.BP_BaseFood_C' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseFood.PackageMetaData'
+[2018.05.18-16.20.17:396][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseFood.BP_BaseFood:EventGraph.K2Node_Event_0' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseFood.PackageMetaData'
+[2018.05.18-16.20.17:396][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseFood.BP_BaseFood:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseFood.PackageMetaData'
+[2018.05.18-16.20.17:396][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseFood.BP_BaseFood:EventGraph.K2Node_Event_1' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseFood.PackageMetaData'
+[2018.05.18-16.20.17:396][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseFood.BP_BaseFood:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseFood.PackageMetaData'
+[2018.05.18-16.20.17:396][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseFood.BP_BaseFood:EventGraph.K2Node_Event_2' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseFood.PackageMetaData'
+[2018.05.18-16.20.17:396][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseFood.BP_BaseFood:EventGraph.K2Node_CallParentFunction_3' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseFood.PackageMetaData'
+[2018.05.18-16.20.17:403][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseCrafting.BP_BaseCrafting:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseCrafting.PackageMetaData'
+[2018.05.18-16.20.17:403][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseCrafting.SKEL_BP_BaseCrafting_C' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseCrafting.PackageMetaData'
+[2018.05.18-16.20.17:403][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseCrafting.BP_BaseCrafting_C' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseCrafting.PackageMetaData'
+[2018.05.18-16.20.17:403][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseCrafting.BP_BaseCrafting:EventGraph.K2Node_Event_0' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseCrafting.PackageMetaData'
+[2018.05.18-16.20.17:404][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseCrafting.BP_BaseCrafting:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseCrafting.PackageMetaData'
+[2018.05.18-16.20.17:404][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseCrafting.BP_BaseCrafting:EventGraph.K2Node_Event_1' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseCrafting.PackageMetaData'
+[2018.05.18-16.20.17:404][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseCrafting.BP_BaseCrafting:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseCrafting.PackageMetaData'
+[2018.05.18-16.20.17:404][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseCrafting.BP_BaseCrafting:EventGraph.K2Node_Event_2' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseCrafting.PackageMetaData'
+[2018.05.18-16.20.17:404][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseCrafting.BP_BaseCrafting:EventGraph.K2Node_CallParentFunction_3' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseCrafting.PackageMetaData'
+[2018.05.18-16.20.17:410][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseWeapon.BP_BaseWeapon:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseWeapon.PackageMetaData'
+[2018.05.18-16.20.17:410][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseWeapon.SKEL_BP_BaseWeapon_C' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseWeapon.PackageMetaData'
+[2018.05.18-16.20.17:410][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseWeapon.BP_BaseWeapon_C' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseWeapon.PackageMetaData'
+[2018.05.18-16.20.17:410][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseWeapon.BP_BaseWeapon:EventGraph.K2Node_Event_0' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseWeapon.PackageMetaData'
+[2018.05.18-16.20.17:410][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseWeapon.BP_BaseWeapon:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseWeapon.PackageMetaData'
+[2018.05.18-16.20.17:410][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseWeapon.BP_BaseWeapon:EventGraph.K2Node_Event_1' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseWeapon.PackageMetaData'
+[2018.05.18-16.20.17:410][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseWeapon.BP_BaseWeapon:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseWeapon.PackageMetaData'
+[2018.05.18-16.20.17:410][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseWeapon.BP_BaseWeapon:EventGraph.K2Node_Event_2' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseWeapon.PackageMetaData'
+[2018.05.18-16.20.17:410][973]LogMetaData: Removing '/Game/FirstPersonBP/Spawner/Items/BP_BaseWeapon.BP_BaseWeapon:EventGraph.K2Node_CallParentFunction_3' ref from Metadata '/Game/FirstPersonBP/Spawner/BP_BaseWeapon.PackageMetaData'
+[2018.05.18-16.20.17:423][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/Items/BP_BaseFood" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/Items/BP_BaseFood.uasset" SILENT=true
+[2018.05.18-16.20.17:436][973]LogSavePackage: Save=10.69ms
+[2018.05.18-16.20.17:436][973]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_BaseFood55B2CFB543326A9767F35CA37062AE20.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/Items/BP_BaseFood.uasset'
+[2018.05.18-16.20.17:437][973]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/Items/BP_BaseFood.uasset
+[2018.05.18-16.20.17:913][973]LogSavePackage: Save=10.83ms
+[2018.05.18-16.20.17:913][973]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_BaseCrafting4BB899F44B2942D5B919049CBDC768EA.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/Items/BP_BaseCrafting.uasset'
+[2018.05.18-16.20.17:914][973]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/Items/BP_BaseCrafting.uasset
+[2018.05.18-16.20.18:257][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/Items/BP_BaseWeapon" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/Items/BP_BaseWeapon.uasset" SILENT=true
+[2018.05.18-16.20.18:268][973]LogSavePackage: Save=9.67ms
+[2018.05.18-16.20.18:268][973]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_BaseWeaponF25424F34940D1290BA44D8F4D72D2C1.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/Items/BP_BaseWeapon.uasset'
+[2018.05.18-16.20.18:269][973]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/Items/BP_BaseWeapon.uasset
+[2018.05.18-16.20.43:642][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-16.20.43:709][712]BlueprintLog: New page: Compile BP_BaseItem
+[2018.05.18-16.20.44:347][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/BP_BaseItem" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset" SILENT=true
+[2018.05.18-16.20.44:370][745]LogSavePackage: Save=16.62ms
+[2018.05.18-16.20.44:370][745]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_BaseItemC9502E7B4B605B156B37FC801D892413.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset'
+[2018.05.18-16.20.44:372][745]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset
+[2018.05.18-16.21.07:108][406]Cmd: TRANSACTION UNDO
+[2018.05.18-16.21.07:108][406]LogEditorTransaction: Undo Edit Static Mesh
+[2018.05.18-16.21.07:571][460]Cmd: TRANSACTION UNDO
+[2018.05.18-16.21.07:571][460]LogEditorTransaction: Undo Make New Scene Root
+[2018.05.18-16.21.09:315][668]Cmd: TRANSACTION REDO
+[2018.05.18-16.21.09:315][668]LogEditorTransaction: Redo Make New Scene Root
+[2018.05.18-16.23.15:017][517]LogSavePackage: Save=99.13ms
+[2018.05.18-16.23.15:017][517]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/Test_Auto12E0EAF244F3ED1FC441F179402A846D7.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/FirstPersonBP/Maps/Test_Auto1.umap'
+[2018.05.18-16.23.15:018][517]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/FirstPersonBP/Maps/Test_Auto1.umap
+[2018.05.18-16.23.15:019][517]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Test' took 0.375
+[2018.05.18-16.23.15:020][517]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.375
+[2018.05.18-16.23.15:020][517]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Spawner/BP_BaseItem] ([1] browsable assets)...
+[2018.05.18-16.23.15:020][517]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Spawner/BP_BaseItem]
+[2018.05.18-16.23.15:035][517]LogSavePackage: Save=9.25ms
+[2018.05.18-16.23.15:035][517]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_BaseItem_Auto1545B99DE41062F386BFC29A894AF30DB.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/FirstPersonBP/Spawner/BP_BaseItem_Auto1.uasset'
+[2018.05.18-16.23.15:035][517]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/FirstPersonBP/Spawner/BP_BaseItem_Auto1.uasset
+[2018.05.18-16.23.15:036][517]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Spawner/BP_ItemSpawner] ([1] browsable assets)...
+[2018.05.18-16.23.15:036][517]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Spawner/BP_ItemSpawner]
+[2018.05.18-16.23.15:046][517]LogSavePackage: Save=9.33ms
+[2018.05.18-16.23.15:046][517]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_ItemSpawner_Auto10EFFFF7B492E280DD976D6A3938875B3.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/FirstPersonBP/Spawner/BP_ItemSpawner_Auto1.uasset'
+[2018.05.18-16.23.15:047][517]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/FirstPersonBP/Spawner/BP_ItemSpawner_Auto1.uasset
+[2018.05.18-16.23.15:061][517]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2018.05.18-16.23.15:061][517]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2018.05.18-16.23.15:188][517]LogSavePackage: Save=93.87ms
+[2018.05.18-16.23.15:188][517]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/FirstPersonCharacter_Auto167F034064B20DF25799D068BB7863DC1.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2018.05.18-16.23.15:189][517]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset
+[2018.05.18-16.23.15:189][517]LogFileHelpers: Auto-saving content packages took 0.169
+[2018.05.18-16.24.10:086][787]BlueprintLog: New page: Compile BP_ItemSpawner
+[2018.05.18-16.24.10:675][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/BP_ItemSpawner" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset" SILENT=true
+[2018.05.18-16.24.10:685][829]LogSavePackage: Save=9.67ms
+[2018.05.18-16.24.10:685][829]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_ItemSpawner73A59C3A43802FAD0BF35D96097DACCD.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset'
+[2018.05.18-16.24.10:691][829]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset
+[2018.05.18-16.24.35:527][306]LogSlate: Took 0.023871 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.05.18-16.25.02:502][530]BlueprintLog: New page: Compile BP_ItemSpawner
+[2018.05.18-16.25.03:161][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/BP_ItemSpawner" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset" SILENT=true
+[2018.05.18-16.25.03:180][581]LogSavePackage: Save=8.48ms
+[2018.05.18-16.25.03:180][581]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_ItemSpawnerA8CDE00E412E20BF239148AD29137935.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset'
+[2018.05.18-16.25.03:186][581]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset
+[2018.05.18-16.25.05:660][873]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.18-16.25.27:253][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-16.25.46:433][726]BlueprintLog: New page: Compile BP_BaseItem
+[2018.05.18-16.25.47:046][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/BP_BaseItem" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset" SILENT=true
+[2018.05.18-16.25.47:068][763]LogSavePackage: Save=9.51ms
+[2018.05.18-16.25.47:068][763]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_BaseItem0653FA6543A1D96126CC46BB0740800C.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset'
+[2018.05.18-16.25.47:072][763]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset
+[2018.05.18-16.27.05:563][248]BlueprintLog: New page: Compile BP_ItemSpawner
+[2018.05.18-16.27.06:177][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/BP_ItemSpawner" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset" SILENT=true
+[2018.05.18-16.27.06:191][293]LogSavePackage: Save=9.24ms
+[2018.05.18-16.27.06:191][293]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_ItemSpawner558586BD46994E551CBA309EA495632B.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset'
+[2018.05.18-16.27.06:193][293]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset
+[2018.05.18-16.29.24:356][744]BlueprintLog: New page: Compile BP_ItemSpawner
+[2018.05.18-16.29.25:164][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/BP_ItemSpawner" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset" SILENT=true
+[2018.05.18-16.29.25:183][812]LogSavePackage: Save=12.16ms
+[2018.05.18-16.29.25:183][812]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_ItemSpawnerDE8B82ED42DA7633B8702D89AF36C3C8.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset'
+[2018.05.18-16.29.25:184][812]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset
+[2018.05.18-16.29.45:973][924]BlueprintLog: New page: Compile BP_ItemSpawner
+[2018.05.18-16.29.45:979][924]LogBlueprint: Error: [Compiler BP_ItemSpawner] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2018.05.18-16.29.46:143][924]LogBlueprint: Warning: [Compiler BP_ItemSpawner] [1826.07] Compile of BP_ItemSpawner failed. 1 Fatal Issue(s) 0 Warning(s) [in 170 ms] (/Game/FirstPersonBP/Spawner/BP_ItemSpawner.BP_ItemSpawner)
+[2018.05.18-16.29.46:549][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/BP_ItemSpawner" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset" SILENT=true
+[2018.05.18-16.29.46:567][963]LogSavePackage: Save=13.30ms
+[2018.05.18-16.29.46:567][963]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_ItemSpawnerA74CF2E9439C5425A4E16A802A67C52F.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset'
+[2018.05.18-16.29.46:569][963]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset
+[2018.05.18-16.29.48:092][145]BlueprintLog: New page: Compile BP_ItemSpawner
+[2018.05.18-16.29.48:098][145]LogBlueprint: Error: [Compiler BP_ItemSpawner] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2018.05.18-16.29.48:265][145]LogBlueprint: Warning: [Compiler BP_ItemSpawner] [1828.19] Compile of BP_ItemSpawner failed. 1 Fatal Issue(s) 0 Warning(s) [in 173 ms] (/Game/FirstPersonBP/Spawner/BP_ItemSpawner.BP_ItemSpawner)
+[2018.05.18-16.29.56:239][977]BlueprintLog: New page: Compile BP_ItemSpawner
+[2018.05.18-16.29.56:244][977]LogBlueprint: Error: [Compiler BP_ItemSpawner] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2018.05.18-16.29.56:406][977]LogBlueprint: Warning: [Compiler BP_ItemSpawner] [1836.33] Compile of BP_ItemSpawner failed. 1 Fatal Issue(s) 0 Warning(s) [in 166 ms] (/Game/FirstPersonBP/Spawner/BP_ItemSpawner.BP_ItemSpawner)
+[2018.05.18-16.30.01:306][560]LogEditorTransaction: Undo Delete current selection
+[2018.05.18-16.31.54:346][802]BlueprintLog: New page: Compile BP_ItemSpawner
+[2018.05.18-16.31.54:964][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/BP_ItemSpawner" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset" SILENT=true
+[2018.05.18-16.31.54:990][846]LogSavePackage: Save=15.85ms
+[2018.05.18-16.31.54:990][846]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_ItemSpawnerDCACCD82495F3BEFE72960AF179C0A17.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset'
+[2018.05.18-16.31.54:991][846]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset
+[2018.05.18-16.32.09:229][274]BlueprintLog: New page: Compile BP_ItemSpawner
+[2018.05.18-16.32.09:994][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/BP_ItemSpawner" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset" SILENT=true
+[2018.05.18-16.32.10:015][335]LogSavePackage: Save=16.49ms
+[2018.05.18-16.32.10:016][335]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_ItemSpawnerF59508E4481D9E880CBA5BBC67F8A19E.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset'
+[2018.05.18-16.32.10:017][335]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset
+[2018.05.18-16.32.13:424][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-16.32.15:287][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-16.32.15:431][973]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.18-16.32.15:454][973]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.32.15:454][973]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.18-16.32.15:486][973]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.05.18-16.32.15:522][973]LogBlueprint: Error: [Compiler FirstPersonCharacter] Message node  Invalid Message Node  has an invalid interface.
+[2018.05.18-16.32.15:523][973]LogBlueprint: Error: [Compiler FirstPersonCharacter] Could not find a function named "Interaction" in 'FirstPersonCharacter'.
+Make sure 'FirstPersonCharacter' has been compiled for  Invalid Message Node
+[2018.05.18-16.32.15:531][973]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [1975.45] Compile of FirstPersonCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 45 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.05.18-16.32.15:553][973]LogPlayLevel: PlayLevel: Blueprint regeneration took 98 ms (1 blueprints)
+[2018.05.18-16.32.15:553][973]BlueprintLog: Blueprint FirstPersonCharacter failed to compile
+[2018.05.18-16.32.18:020][973]LogSlate: Window 'Message' being destroyed
+[2018.05.18-16.32.18:024][973]PIE: New page: PIE session: Test (May 18, 2018, 2:32:18 AM)
+[2018.05.18-16.32.18:025][973]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.32.18:026][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001424s)
+[2018.05.18-16.32.18:027][973]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.32.18:027][973]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2018.05.18-16.32.18:027][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.002228s)
+[2018.05.18-16.32.18:050][973]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-16.32.18:061][973]LogInit: FAudioDevice initialized.
+[2018.05.18-16.32.18:093][973]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.32.18:094][973]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.32.18
+[2018.05.18-16.32.18:094][973]LogWorld: Bringing up level for play took: 0.000704
+[2018.05.18-16.32.18:096][973]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Test 2.774
+[2018.05.18-16.32.18:096][973]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.32.19:910][186]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.32.19:948][186]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.32.23:208][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-16.32.23:299][561]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.18-16.32.23:319][561]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.32.23:319][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.18-16.32.23:319][561]PIE: New page: PIE session: Test (May 18, 2018, 2:32:23 AM)
+[2018.05.18-16.32.23:320][561]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.32.23:321][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001280s)
+[2018.05.18-16.32.23:321][561]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.32.23:322][561]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2018.05.18-16.32.23:322][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.001990s)
+[2018.05.18-16.32.23:343][561]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-16.32.23:353][561]LogInit: FAudioDevice initialized.
+[2018.05.18-16.32.23:382][561]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.32.23:383][561]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.32.23
+[2018.05.18-16.32.23:383][561]LogWorld: Bringing up level for play took: 0.000635
+[2018.05.18-16.32.23:385][561]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Test 0.063
+[2018.05.18-16.32.23:385][561]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.32.27:540][ 58]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.32.27:573][ 58]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.32.32:077][562]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.18-16.32.32:899][623]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.18-16.33.40:479][952]LogSavePackage: Save=119.52ms
+[2018.05.18-16.33.40:479][952]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/Test_Auto2FEBE04534DDCCF7E699ADDB934726A6A.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/FirstPersonBP/Maps/Test_Auto2.umap'
+[2018.05.18-16.33.40:479][952]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/FirstPersonBP/Maps/Test_Auto2.umap
+[2018.05.18-16.33.40:481][952]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Test' took 0.175
+[2018.05.18-16.33.40:481][952]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.175
+[2018.05.18-16.33.40:483][952]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2018.05.18-16.33.40:483][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2018.05.18-16.33.40:586][952]LogSavePackage: Save=93.44ms
+[2018.05.18-16.33.40:586][952]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/FirstPersonCharacter_Auto2EE7A4B2A488D8EE9452A5CB2B614E862.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto2.uasset'
+[2018.05.18-16.33.40:587][952]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto2.uasset
+[2018.05.18-16.33.40:587][952]LogFileHelpers: Auto-saving content packages took 0.105
+[2018.05.18-16.34.07:596][ 74]BlueprintLog: New page: Compile BPI_ItemSpawner
+[2018.05.18-16.34.08:213][137]LogSavePackage: Save=6.27ms
+[2018.05.18-16.34.08:213][137]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BPI_ItemSpawner6836D02E471EE033BDC480AE77B51C26.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/Interfaces/BPI_ItemSpawner.uasset'
+[2018.05.18-16.34.08:214][137]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/Interfaces/BPI_ItemSpawner.uasset
+[2018.05.18-16.35.20:653][752]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.18-16.35.21:401][769]LogSavePackage: Save=89.84ms
+[2018.05.18-16.35.21:401][769]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/FirstPersonCharacterFFA53B734502E467CF7CB58C403BFA80.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.18-16.35.21:404][769]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.18-16.35.23:564][949]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.18-16.35.23:588][949]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.35.23:588][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.18-16.35.23:588][949]PIE: New page: PIE session: Test (May 18, 2018, 2:35:23 AM)
+[2018.05.18-16.35.23:588][949]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.35.23:590][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001341s)
+[2018.05.18-16.35.23:590][949]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.35.23:590][949]LogPlayLevel: PIE: World Init took: (0.000568s)
+[2018.05.18-16.35.23:590][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.002009s)
+[2018.05.18-16.35.23:614][949]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-16.35.23:624][949]LogInit: FAudioDevice initialized.
+[2018.05.18-16.35.23:654][949]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.35.23:655][949]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.35.23
+[2018.05.18-16.35.23:655][949]LogWorld: Bringing up level for play took: 0.000653
+[2018.05.18-16.35.23:657][949]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Failed Not Level Change
+[2018.05.18-16.35.23:658][949]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Test 0.336
+[2018.05.18-16.35.23:658][949]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.35.26:285][263]LogNet: Browse: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.35.26:285][263]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test1
+[2018.05.18-16.35.26:326][263]LogAIModule: Creating AISystem for world Test1
+[2018.05.18-16.35.26:326][263]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.35.26:327][263]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2018.05.18-09.35.26
+[2018.05.18-16.35.26:327][263]LogWorld: Bringing up level for play took: 0.000849
+[2018.05.18-16.35.26:329][263]LogLoad: Took 0.043782 seconds to LoadMap(/Game/FirstPersonBP/Maps/Test1)
+[2018.05.18-16.35.27:347][384]LogNet: Browse: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.35.27:347][384]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Test
+[2018.05.18-16.35.27:369][384]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.35.27:370][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001328s)
+[2018.05.18-16.35.27:371][384]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.35.27:371][384]LogPlayLevel: PIE: World Init took: (0.000561s)
+[2018.05.18-16.35.27:371][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.002028s)
+[2018.05.18-16.35.27:371][384]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.35.27:372][384]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.35.27
+[2018.05.18-16.35.27:372][384]LogWorld: Bringing up level for play took: 0.000536
+[2018.05.18-16.35.27:374][384]LogLoad: Took 0.027007 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_Test)
+[2018.05.18-16.38.03:387][ 98]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.38.03:425][ 98]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.38.44:609][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-16.39.21:066][429]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.18-16.39.21:656][430]LogSavePackage: Save=90.39ms
+[2018.05.18-16.39.21:656][430]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/FirstPersonCharacter639AE1CC49305E6D13E803B9645D33AE.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.18-16.39.21:657][430]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.18-16.39.43:688][553]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.18-16.39.55:165][454]BlueprintLog: New page: Compile BP_BaseItem
+[2018.05.18-16.39.55:873][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/BP_BaseItem" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset" SILENT=true
+[2018.05.18-16.39.55:891][500]LogSavePackage: Save=8.00ms
+[2018.05.18-16.39.55:891][500]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_BaseItemE5D6C05442990980B2AD77A245BD8B2C.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset'
+[2018.05.18-16.39.55:893][500]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset
+[2018.05.18-16.40.59:168][361]BlueprintLog: New page: Compile BP_BaseItem
+[2018.05.18-16.40.59:800][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/BP_BaseItem" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset" SILENT=true
+[2018.05.18-16.40.59:815][396]LogSavePackage: Save=9.80ms
+[2018.05.18-16.40.59:815][396]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_BaseItem3429FD9A4AB3E44C8F1CFBA23AD38043.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset'
+[2018.05.18-16.40.59:817][396]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset
+[2018.05.18-16.42.10:280][153]BlueprintLog: New page: Compile BP_BaseItem
+[2018.05.18-16.42.10:924][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/BP_BaseItem" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset" SILENT=true
+[2018.05.18-16.42.10:939][189]LogSavePackage: Save=9.35ms
+[2018.05.18-16.42.10:939][189]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_BaseItemF1654A7942A59CFFECB8BFB24FB386A4.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset'
+[2018.05.18-16.42.10:940][189]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset
+[2018.05.18-16.42.13:649][512]BlueprintLog: New page: Compile BP_ItemSpawner
+[2018.05.18-16.42.40:780][589]BlueprintLog: New page: Compile BP_BaseItem
+[2018.05.18-16.42.41:563][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/BP_BaseItem" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset" SILENT=true
+[2018.05.18-16.42.41:578][642]LogSavePackage: Save=9.14ms
+[2018.05.18-16.42.41:578][642]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_BaseItem90257B4547ACEC754DA51D82F8E4D8DF.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset'
+[2018.05.18-16.42.41:579][642]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset
+[2018.05.18-16.42.57:770][551]BlueprintLog: New page: Compile BP_BaseItem
+[2018.05.18-16.42.58:630][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/BP_BaseItem" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset" SILENT=true
+[2018.05.18-16.42.58:646][615]LogSavePackage: Save=10.43ms
+[2018.05.18-16.42.58:646][615]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_BaseItemF42E1AD347B65043B99FFA9A0955ED83.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset'
+[2018.05.18-16.42.58:648][615]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset
+[2018.05.18-16.43.16:983][152]BlueprintLog: New page: Compile BP_ItemSpawner
+[2018.05.18-16.43.17:622][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/BP_ItemSpawner" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset" SILENT=true
+[2018.05.18-16.43.17:649][188]LogSavePackage: Save=16.61ms
+[2018.05.18-16.43.17:649][188]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_ItemSpawnerD03421AA4797AF0B08CD83BAB7698833.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset'
+[2018.05.18-16.43.17:650][188]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset
+[2018.05.18-16.43.47:068][682]BlueprintLog: New page: Compile BP_BaseItem
+[2018.05.18-16.43.47:809][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/BP_BaseItem" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset" SILENT=true
+[2018.05.18-16.43.47:829][731]LogSavePackage: Save=14.57ms
+[2018.05.18-16.43.47:829][731]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_BaseItem66D3888548736B5A91F18EB8A3CF1EB2.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset'
+[2018.05.18-16.43.47:830][731]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset
+[2018.05.18-16.44.01:267][711]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.18-16.44.04:919][ 63]BlueprintLog: New page: Compile BP_ItemSpawner
+[2018.05.18-16.44.05:538][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/BP_ItemSpawner" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset" SILENT=true
+[2018.05.18-16.44.05:560][ 98]LogSavePackage: Save=17.13ms
+[2018.05.18-16.44.05:560][ 98]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_ItemSpawner31BDC3264D2CAE350C65DE9F2CEBA3B3.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset'
+[2018.05.18-16.44.05:562][ 98]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset
+[2018.05.18-16.44.50:200][723]BlueprintLog: New page: Compile BP_ItemSpawner
+[2018.05.18-16.44.50:824][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/BP_ItemSpawner" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset" SILENT=true
+[2018.05.18-16.44.50:848][757]LogSavePackage: Save=18.25ms
+[2018.05.18-16.44.50:848][757]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_ItemSpawnerF4C8BDB94B4F5FA390E58EBB4B8CE29B.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset'
+[2018.05.18-16.44.50:850][757]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset
+[2018.05.18-16.45.26:546][858]BlueprintLog: New page: Compile BP_ItemSpawner
+[2018.05.18-16.45.27:204][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/BP_ItemSpawner" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset" SILENT=true
+[2018.05.18-16.45.27:229][896]LogSavePackage: Save=19.06ms
+[2018.05.18-16.45.27:229][896]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_ItemSpawner2C3D22B343C011B6C6695EA2242C5FBF.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset'
+[2018.05.18-16.45.27:231][896]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset
+[2018.05.18-16.45.29:980][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-16.45.32:701][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-16.45.32:770][523]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.18-16.45.32:802][523]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.45.32:802][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.18-16.45.32:802][523]PIE: New page: PIE session: Test (May 18, 2018, 2:45:32 AM)
+[2018.05.18-16.45.32:803][523]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.45.32:805][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001394s)
+[2018.05.18-16.45.32:805][523]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.45.32:805][523]LogPlayLevel: PIE: World Init took: (0.000590s)
+[2018.05.18-16.45.32:805][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.002089s)
+[2018.05.18-16.45.32:830][523]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-16.45.32:840][523]LogInit: FAudioDevice initialized.
+[2018.05.18-16.45.32:873][523]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.45.32:874][523]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.45.32
+[2018.05.18-16.45.32:874][523]LogWorld: Bringing up level for play took: 0.000668
+[2018.05.18-16.45.32:878][523]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Failed Not Level Change
+[2018.05.18-16.45.32:878][523]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Test -0.444
+[2018.05.18-16.45.32:878][523]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.45.35:498][836]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.45.35:540][836]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.45.36:970][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-16.45.42:755][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-16.45.47:551][ 49]BlueprintLog: New page: Compile BP_BaseFood
+[2018.05.18-16.45.49:962][310]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.18-16.45.49:986][310]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.45.49:986][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.18-16.45.49:986][310]PIE: New page: PIE session: Test (May 18, 2018, 2:45:49 AM)
+[2018.05.18-16.45.49:987][310]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.45.49:988][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001343s)
+[2018.05.18-16.45.49:988][310]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.45.49:989][310]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2018.05.18-16.45.49:989][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.002032s)
+[2018.05.18-16.45.50:013][310]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-16.45.50:023][310]LogInit: FAudioDevice initialized.
+[2018.05.18-16.45.50:057][310]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.45.50:058][310]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.45.50
+[2018.05.18-16.45.50:058][310]LogWorld: Bringing up level for play took: 0.000592
+[2018.05.18-16.45.50:060][310]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=83.382 Y=54.192 Z=50.005] for [BP_BaseFood_C]
+[2018.05.18-16.45.50:060][310]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-63.307 Y=343.962 Z=50.005] for [BP_BaseFood_C]
+[2018.05.18-16.45.50:061][310]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Failed Not Level Change
+[2018.05.18-16.45.50:061][310]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Test 0.739
+[2018.05.18-16.45.50:061][310]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.45.53:272][694]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.45.53:310][694]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.45.55:752][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-16.46.09:855][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-16.46.15:681][723]LogSlate: Window 'Save Content' being destroyed
+[2018.05.18-16.46.15:763][723]LogSavePackage: Save=9.65ms
+[2018.05.18-16.46.15:763][723]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_BaseCraftingA7B40BE04ADB89C1B19DB1B10AE45501.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/Items/BP_BaseCrafting.uasset'
+[2018.05.18-16.46.15:765][723]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/Items/BP_BaseCrafting.uasset
+[2018.05.18-16.46.15:767][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/Items/BP_BaseFood" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/Items/BP_BaseFood.uasset" SILENT=true
+[2018.05.18-16.46.15:787][723]LogSavePackage: Save=10.24ms
+[2018.05.18-16.46.15:787][723]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_BaseFood9E299C4640B84F6A2312E58224F9F51C.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/Items/BP_BaseFood.uasset'
+[2018.05.18-16.46.15:789][723]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/Items/BP_BaseFood.uasset
+[2018.05.18-16.46.15:791][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/Items/BP_BaseWeapon" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/Items/BP_BaseWeapon.uasset" SILENT=true
+[2018.05.18-16.46.15:810][723]LogSavePackage: Save=9.48ms
+[2018.05.18-16.46.15:810][723]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_BaseWeapon576E3ACA4C378219A33A49BC4AD30981.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/Items/BP_BaseWeapon.uasset'
+[2018.05.18-16.46.15:811][723]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/Items/BP_BaseWeapon.uasset
+[2018.05.18-16.46.25:222][723]LogSlate: Window 'Submit Files' being destroyed
+[2018.05.18-16.46.27:954][723]LogSourceControl: commit successful: [master d19aa6b] Cookie and whatever
+[2018.05.18-16.46.28:009][723]SourceControl: [master d19aa6b] Cookie and whatever
+[2018.05.18-16.46.28:009][723]SourceControl:  3 files changed, 9 insertions(+)
+[2018.05.18-16.46.28:009][723]SourceControl:  create mode 100644 moneymoneymoney/Content/FirstPersonBP/Spawner/Items/BP_BaseCrafting.uasset
+[2018.05.18-16.46.28:009][723]SourceControl:  create mode 100644 moneymoneymoney/Content/FirstPersonBP/Spawner/Items/BP_BaseFood.uasset
+[2018.05.18-16.46.28:009][723]SourceControl:  create mode 100644 moneymoneymoney/Content/FirstPersonBP/Spawner/Items/BP_BaseWeapon.uasset
+[2018.05.18-16.46.28:013][723]SourceControl: Commited [master d19aa6b] Cookie and whatever.
+[2018.05.18-16.46.42:139][102]LogSlate: Window 'Submit Files' being destroyed
+[2018.05.18-16.46.42:991][102]LogSourceControl: commit successful: [master 48e5e82] Interfacial Marriage
+[2018.05.18-16.46.43:024][102]SourceControl: [master 48e5e82] Interfacial Marriage
+[2018.05.18-16.46.43:024][102]SourceControl:  1 file changed, 3 insertions(+)
+[2018.05.18-16.46.43:024][102]SourceControl:  create mode 100644 moneymoneymoney/Content/FirstPersonBP/Spawner/Interfaces/BPI_ItemSpawner.uasset
+[2018.05.18-16.46.43:029][102]SourceControl: Commited [master 48e5e82] Interfacial Marriage.
+[2018.05.18-16.46.52:530][599]LogSlate: Window 'Submit Files' being destroyed
+[2018.05.18-16.46.53:786][599]LogSourceControl: commit successful: [master 7954fdd] Spawner for cookies
+[2018.05.18-16.46.53:831][599]SourceControl: [master 7954fdd] Spawner for cookies
+[2018.05.18-16.46.53:831][599]SourceControl:  2 files changed, 6 insertions(+)
+[2018.05.18-16.46.53:831][599]SourceControl:  create mode 100644 moneymoneymoney/Content/FirstPersonBP/Spawner/BP_BaseItem.uasset
+[2018.05.18-16.46.53:831][599]SourceControl:  create mode 100644 moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset
+[2018.05.18-16.46.53:835][599]SourceControl: Commited [master 7954fdd] Spawner for cookies.
+[2018.05.18-16.46.54:011][600]LogSavePackage: Save=110.25ms
+[2018.05.18-16.46.54:011][600]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/Test_Auto3ECD569704B2047E55FD9B79089E2A6FD.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/FirstPersonBP/Maps/Test_Auto3.umap'
+[2018.05.18-16.46.54:012][600]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Saved/Autosaves/Game/FirstPersonBP/Maps/Test_Auto3.umap
+[2018.05.18-16.46.54:014][600]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Test' took 0.149
+[2018.05.18-16.46.54:014][600]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.149
+[2018.05.18-16.48.28:308][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-16.48.29:970][ 91]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.48.29:970][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.18-16.48.29:971][ 91]PIE: New page: SIE session: Test (May 18, 2018, 2:48:29 AM)
+[2018.05.18-16.48.29:971][ 91]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.48.29:972][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001479s)
+[2018.05.18-16.48.29:973][ 91]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.48.29:973][ 91]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2018.05.18-16.48.29:973][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.002306s)
+[2018.05.18-16.48.29:999][ 91]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-16.48.30:009][ 91]LogInit: FAudioDevice initialized.
+[2018.05.18-16.48.30:038][ 91]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.48.30:039][ 91]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.48.30
+[2018.05.18-16.48.30:039][ 91]LogWorld: Bringing up level for play took: 0.000709
+[2018.05.18-16.48.30:040][ 91]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=83.382 Y=54.192 Z=50.005] for [BP_BaseFood_C]
+[2018.05.18-16.48.30:040][ 91]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-63.307 Y=343.962 Z=50.005] for [BP_BaseFood_C]
+[2018.05.18-16.48.30:041][ 91]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Test 0.719
+[2018.05.18-16.48.30:092][ 91]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.48.32:375][325]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.48.32:411][325]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.48.34:059][478]LogEditorViewport: Clicking on Actor (LMB): BP_ItemSpawner_C (BP_ItemSpawner2)
+[2018.05.18-16.48.35:307][611]Cmd: DELETE
+[2018.05.18-16.48.35:307][611]Cmd: ACTOR DELETE
+[2018.05.18-16.48.35:309][611]LogEditorActor: Deleted Actor: BP_ItemSpawner_C
+[2018.05.18-16.48.35:331][611]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.05.18-16.48.36:069][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.18-16.48.36:778][774]LogEditorViewport: Clicking on Actor (LMB): BP_ItemSpawner_C (BP_ItemSpawner)
+[2018.05.18-16.48.39:207][ 31]Cmd: DELETE
+[2018.05.18-16.48.39:207][ 31]Cmd: ACTOR DELETE
+[2018.05.18-16.48.39:208][ 31]LogEditorActor: Deleted Actor: BP_ItemSpawner_C
+[2018.05.18-16.48.39:230][ 31]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.05.18-16.48.40:727][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-16.48.45:815][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-16.48.46:673][889]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.18-16.48.47:024][918]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.18-16.48.47:401][954]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.18-16.50.20:050][203]BlueprintLog: New page: Compile BP_ItemSpawner
+[2018.05.18-16.50.20:684][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Spawner/BP_ItemSpawner" FILE="../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset" SILENT=true
+[2018.05.18-16.50.20:715][237]LogSavePackage: Save=18.66ms
+[2018.05.18-16.50.20:715][237]LogSavePackage: Moving '../../../../GitHub/Eggspository/moneymoneymoney/Saved/BP_ItemSpawnerC3B1BAAE45C7B9CDCE45F2A4CB5B9651.tmp' to '../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset'
+[2018.05.18-16.50.20:719][237]LogSavePackage: Display: Finished SavePackage ../../../../GitHub/Eggspository/moneymoneymoney/Content/FirstPersonBP/Spawner/BP_ItemSpawner.uasset
+[2018.05.18-16.50.24:405][439]LogTemp: Repeating last play command: Simulate
+[2018.05.18-16.50.24:432][439]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.50.24:432][439]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.18-16.50.24:432][439]PIE: New page: SIE session: Test (May 18, 2018, 2:50:24 AM)
+[2018.05.18-16.50.24:432][439]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.50.24:434][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001367s)
+[2018.05.18-16.50.24:434][439]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.50.24:434][439]LogPlayLevel: PIE: World Init took: (0.000587s)
+[2018.05.18-16.50.24:434][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.002059s)
+[2018.05.18-16.50.24:455][439]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-16.50.24:468][439]LogInit: FAudioDevice initialized.
+[2018.05.18-16.50.24:499][439]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.50.24:500][439]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.50.24
+[2018.05.18-16.50.24:500][439]LogWorld: Bringing up level for play took: 0.000651
+[2018.05.18-16.50.24:501][439]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-53.277 Y=235.714 Z=50.005] for [BP_BaseFood_C]
+[2018.05.18-16.50.24:502][439]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Test -0.82
+[2018.05.18-16.50.24:504][439]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.50.26:356][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-16.50.34:203][411]Cmd: SELECT NONE
+[2018.05.18-16.50.36:571][615]LogSlate: Window 'BP_BaseCrafting' being destroyed
+[2018.05.18-16.50.37:982][782]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.50.38:017][782]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.50.57:175][935]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.18-16.50.59:459][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-16.51.09:810][422]LogTemp: Repeating last play command: Simulate
+[2018.05.18-16.51.09:833][422]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.51.09:833][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.18-16.51.09:833][422]PIE: New page: SIE session: Test (May 18, 2018, 2:51:09 AM)
+[2018.05.18-16.51.09:834][422]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.51.09:835][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001357s)
+[2018.05.18-16.51.09:836][422]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.51.09:836][422]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2018.05.18-16.51.09:836][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.002050s)
+[2018.05.18-16.51.09:861][422]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-16.51.09:871][422]LogInit: FAudioDevice initialized.
+[2018.05.18-16.51.09:903][422]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.51.09:904][422]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.51.09
+[2018.05.18-16.51.09:904][422]LogWorld: Bringing up level for play took: 0.000648
+[2018.05.18-16.51.09:905][422]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-53.277 Y=235.714 Z=50.005] for [BP_BaseFood_C]
+[2018.05.18-16.51.09:905][422]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Test 0.584
+[2018.05.18-16.51.09:908][422]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.51.37:908][447]Cmd: SELECT NONE
+[2018.05.18-16.51.42:108][934]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.51.42:146][934]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.51.43:094][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.18-16.51.43:838][108]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.51.43:838][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.18-16.51.43:838][108]PIE: New page: PIE session: Test (May 18, 2018, 2:51:43 AM)
+[2018.05.18-16.51.43:838][108]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Test
+[2018.05.18-16.51.43:840][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001306s)
+[2018.05.18-16.51.43:840][108]LogAIModule: Creating AISystem for world Test
+[2018.05.18-16.51.43:840][108]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2018.05.18-16.51.43:840][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Test.Test to /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test (0.001997s)
+[2018.05.18-16.51.43:865][108]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-16.51.43:875][108]LogInit: FAudioDevice initialized.
+[2018.05.18-16.51.43:875][108]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.18-16.51.43:905][108]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.18-16.51.43:906][108]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.05.18-09.51.43
+[2018.05.18-16.51.43:906][108]LogWorld: Bringing up level for play took: 0.000613
+[2018.05.18-16.51.43:908][108]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-53.277 Y=235.714 Z=50.005] for [BP_BaseFood_C]
+[2018.05.18-16.51.43:908][108]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Failed Not Level Change
+[2018.05.18-16.51.43:908][108]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Test 0.587
+[2018.05.18-16.51.43:909][108]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.51.45:578][307]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.51.45:612][307]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/FirstPersonBP/Maps/Test.Test_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Test.Test:PersistentLevel.Test'
+[2018.05.18-16.51.48:179][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-16.51.59:409][350]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.05.18-16.52.04:186][914]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.05.18-16.52.04:188][914]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.05.18-16.52.15:480][266]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.18-16.52.28:706][815]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.231 s
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: 
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: Ensure condition failed: !FPackageName::IsShortPackageName(Path) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\SoftObjectPath.cpp] [Line: 45]
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: Cannot create SoftObjectPath with short package name '('! You must pass in fully qualified package names
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: Stack: 
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x000000008ACDB6F6 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x000000008AA3AE2A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x000000008AA4ECC6 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x000000008A5BB94C UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x000000008A4CD46F UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x000000008A4E548F UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x000000008A4DDADF UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x000000008A53218E UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x000000008A4DCD18 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x000000008A259404 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x0000000085E843B2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x000000007FB17785 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x000000007FB4C23C UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x000000007FB0D10E UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x000000007FB08A45 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x000000007FB07C47 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x0000000085E7B843 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x0000000085E8FD1F UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x0000000084096B62 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x0000000084058B37 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x000000008405B3E7 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x000000008738F7BE UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x000000008736B4D7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x000000008736C017 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x00000000873750C9 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x0000000087376319 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x00000000872FCB6B UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x0000000087124D61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x00000000870F6D2D UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x00000000870F88F6 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x00000000871763CA UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x00000000871699C8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x000000009966E3DA UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x0000000099661B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x000000009967052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x000000009965D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x00000000D01B6CC1 USER32.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x00000000D01B6693 USER32.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x0000000099671666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x00000000E4C35475 UE4Editor.exe!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x00000000E4C46BD0 UE4Editor.exe!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x00000000E4C46C4A UE4Editor.exe!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x00000000E4C54149 UE4Editor.exe!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x00000000E4C55B57 UE4Editor.exe!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x00000000CF1E3034 KERNEL32.DLL!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: [Callstack] 0x00000000D1C31551 ntdll.dll!UnknownFunction []
+[2018.05.18-16.52.28:706][815]LogOutputDevice: Error: 
+[2018.05.18-16.52.28:707][815]LogStats:                SubmitErrorReport -  0.000 s
